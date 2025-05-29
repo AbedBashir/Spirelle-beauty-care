@@ -14,25 +14,28 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "text_GttKtb": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/logo.png",
+            "image_link": "",
+            "image_width": 150,
+            "heading": "",
+            "description": ""
+          }
+        },
         "7f8888a0-c33a-407c-a7a4-b16c76cf5425": {
           "type": "link_list",
           "settings": {
             "heading": "Quick links",
-            "menu": "footer"
-          }
-        },
-        "86421bd8-a313-4bf7-a109-b2ed476a3892": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Quick links",
-            "menu": "footer"
+            "menu": "main-menu"
           }
         },
         "ea148cce-ea93-4530-b8b8-1c929e0d6d3c": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
-            "menu": "footer"
+            "heading": "Policies",
+            "menu": "policies"
           }
         },
         "newsletter_KEEejX": {
@@ -49,13 +52,12 @@
         }
       },
       "block_order": [
+        "text_GttKtb",
         "7f8888a0-c33a-407c-a7a4-b16c76cf5425",
-        "86421bd8-a313-4bf7-a109-b2ed476a3892",
         "ea148cce-ea93-4530-b8b8-1c929e0d6d3c",
         "newsletter_KEEejX"
       ],
       "settings": {
-        "image": "shopify://shop_images/logo.png",
         "image_width": 180,
         "subtext": "",
         "enable_language_selector": true,
