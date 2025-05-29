@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "footer",
   "name": "Footer Group",
@@ -30,9 +39,11 @@
           "type": "newsletter",
           "settings": {
             "heading": "Newsletter",
+            "description": "Description here",
             "show_newsletter": true,
             "placeholder": "Email address",
-            "show_social": false,
+            "button_style": "icon",
+            "show_social": true,
             "enable_follow_on_shop": false
           }
         }
@@ -44,26 +55,30 @@
         "newsletter_KEEejX"
       ],
       "settings": {
-        "image_width": 110,
+        "image": "shopify://shop_images/logo.png",
+        "image_width": 180,
         "subtext": "",
         "enable_language_selector": true,
-        "show_language_background": true,
-        "enable_currency_selector": true,
-        "show_currency_background": true,
+        "show_language_background": false,
+        "enable_currency_selector": false,
+        "show_currency_background": false,
         "payment_enable": true,
         "hide_copyright_content": false,
-        "custom_copyright_content": "",
+        "custom_copyright_content": "Copyright© 2025 <a href=\"https://spirelle-beauty-care.myshopify.com/\">Spirèlle beauty care</a>. Designed By <a href=\"https://abedbashir.com\" target=\"_blank\" title=\"https://abedbashir.com\">Abdel Rahman Bashir</a>",
         "show_policies": false,
         "footer_background_opacity": 50,
         "bg_top_space_desktop": 0,
         "bg_bottom_space_desktop": 0,
         "bg_top_space_mobile": 0,
         "bg_bottom_space_mobile": 0,
-        "footer_bg": "#f3efec",
-        "footer_heading": "#000000",
-        "footer_text": "#767676",
-        "footer_text_hover": "#3c3c3c",
-        "footer_background_overlay": "#000000"
+        "footer_bg": "#010101",
+        "footer_heading": "#ffffff",
+        "footer_text": "#ffffff",
+        "footer_text_hover": "#ffffff",
+        "footer_background_overlay": "#000000",
+        "color_button": "#000000",
+        "color_button_text": "#ffffff",
+        "color_button_border": "#000000"
       }
     },
     "offer-sidebar": {
