@@ -479,10 +479,21 @@
             "size": "h1",
             "content": "<p>Dive into incredible audio without breaking the bank with our <strong>Big Savings on Big Sound</strong> offer!</p>"
           }
+        },
+        "richtext_rf4pCz": {
+          "type": "richtext",
+          "settings": {
+            "heading": "Rich text",
+            "highlight_font": "body",
+            "seo_heading": "h2",
+            "size": "h2",
+            "content": "<p>Use this section to welcome customers to your store, say a bit about your brand, or share news and seasonal promotions.</p>"
+          }
         }
       },
       "block_order": [
-        "richtext_JbqCy9"
+        "richtext_JbqCy9",
+        "richtext_rf4pCz"
       ],
       "settings": {
         "content_width": "container sm-container",
