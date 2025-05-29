@@ -19,7 +19,7 @@
         "desktop_height": "550px",
         "mobile_height": "500px",
         "block_display": "category_products",
-        "banner_title": "",
+        "banner_title": "Our Products",
         "highlight_font": "body",
         "seo_heading": "h2",
         "desktop_title_size": 70,
@@ -30,13 +30,13 @@
         "button_size": "small",
         "mobile_button_size": "m-small",
         "content_position": "center-center",
-        "title_color": "#000000",
+        "title_color": "#ffffff",
         "desc_color": "#000000",
         "btn_bg": "#000000",
         "btn_text": "#ffffff",
         "btn_border": "#000000",
-        "overlay_color": "",
-        "overlay_opacity": 50
+        "overlay_color": "#000000",
+        "overlay_opacity": 20
       }
     },
     "main-collection": {
