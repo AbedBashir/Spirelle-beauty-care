@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "dd32eddb-c1d7-44d1-b3da-aae2d992634c": {
@@ -35,14 +44,24 @@
       ],
       "settings": {
         "enable_fullwidth": true,
+        "enable_top_border": false,
+        "enable_bottom_border": false,
+        "border_style": "solid",
         "heading": "Add Your Heading Here",
+        "highlight_font": "body",
+        "seo_heading": "h2",
+        "heading_size": "h2",
         "gallery_style": "auto-slide",
         "slide_direction": "right",
         "image_style": "circle",
         "image_size": "small",
+        "text_alignment": "center",
+        "enable_image_animation": true,
         "image_crop": false,
         "image_background": true,
+        "enable_swipe": true,
         "bgcolor": "primary",
+        "section_visibility": "always",
         "top_space_desktop": 30,
         "bottom_space_desktop": 30,
         "top_space_mobile": 30,
@@ -52,19 +71,27 @@
     "main-collection": {
       "type": "main-collection",
       "settings": {
-        "collection_title": false,
+        "collection_title": true,
+        "seo_heading": "h2",
         "collection_description": false,
-        "pagination_type": "paged",
-        "products_per_page": 16,
+        "collpasible_collection_description": false,
+        "pagination_type": "infinite",
+        "products_per_page": 60,
+        "product_count": true,
         "enable_filtering": true,
         "filters_layout": "sidebar",
         "enable_sorting": true,
         "enable_display_options": true,
-        "collection_image": false,
+        "filter_menu": "",
+        "collection_image": true,
         "banner_height_desktop": "auto",
         "banner_height_mobile": "auto",
         "bgcolor": "#f8f8f8",
-        "textcolor": "#000000"
+        "textcolor": "#000000",
+        "filter_menu_color": "#181818",
+        "filter_sub_menu_color": "#181818",
+        "filter_menu_bg": "#f4f4f4",
+        "filter_menu_border": "#ececec"
       }
     },
     "8231b1f4-8107-414d-9432-3a48f23e000d": {
@@ -74,28 +101,40 @@
           "type": "column",
           "settings": {
             "icon": "shipping",
-            "heading": "Add Heading here"
+            "heading": "Add Heading here",
+            "seo_heading": "h2",
+            "size": "text-medium",
+            "subtext": "Add subtext here"
           }
         },
         "template--16809123774757__8231b1f4-8107-414d-9432-3a48f23e000d-166781443747b75229-1": {
           "type": "column",
           "settings": {
             "icon": "shipping",
-            "heading": "Add Heading here"
+            "heading": "Add Heading here",
+            "seo_heading": "h2",
+            "size": "text-medium",
+            "subtext": "Add subtext here"
           }
         },
         "template--16809123774757__8231b1f4-8107-414d-9432-3a48f23e000d-166781443747b75229-2": {
           "type": "column",
           "settings": {
             "icon": "shipping",
-            "heading": "Add Heading here"
+            "heading": "Add Heading here",
+            "seo_heading": "h2",
+            "size": "text-medium",
+            "subtext": "Add subtext here"
           }
         },
         "template--16809123774757__8231b1f4-8107-414d-9432-3a48f23e000d-166781443747b75229-3": {
           "type": "column",
           "settings": {
             "icon": "shipping",
-            "heading": "Add Heading here"
+            "heading": "Add Heading here",
+            "seo_heading": "h2",
+            "size": "text-medium",
+            "subtext": "Add subtext here"
           }
         }
       },
@@ -106,7 +145,27 @@
         "template--16809123774757__8231b1f4-8107-414d-9432-3a48f23e000d-166781443747b75229-3"
       ],
       "settings": {
+        "container_width": false,
+        "enable_top_border": false,
+        "enable_bottom_border": false,
+        "section_border_style": "solid",
+        "column_background": false,
+        "mobile_column_count": "1",
+        "alignment": "center",
+        "icon_content_space_desktop": 15,
+        "icon_content_space_mobile": 15,
+        "enable_border": false,
+        "border_style": "dashed",
+        "column_radius_desktop": 10,
+        "column_radius_mobile": 10,
+        "icon_background": false,
+        "icon_position": "top",
         "bgcolor": "secondary",
+        "column_background_color": "",
+        "icon_color": "#000000",
+        "icon_background_color": "",
+        "border_color": "#000000",
+        "section_visibility": "always",
         "top_space_desktop": 30,
         "bottom_space_desktop": 30,
         "top_space_mobile": 30,
