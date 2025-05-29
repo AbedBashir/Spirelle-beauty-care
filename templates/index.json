@@ -414,15 +414,16 @@
             "btn_link": ""
           }
         },
-        "media_jiihXV": {
+        "media_bRpGzE": {
           "type": "media",
           "settings": {
+            "image": "shopify://shop_images/purple-t-shirt.jpg",
             "subheading": "",
-            "heading": "Heading",
+            "heading": "Product 2",
             "heading_link": "",
             "seo_heading": "h2",
             "size": "h2",
-            "description": "<p>To provide clients insight into your brand, pair words with any image. Here you can tell a narrative, explain a product feature, or introduce a new campaign.</p>",
+            "description": "<p>Small Description for this product</p>",
             "icon": "shipping",
             "icon_size": "small",
             "btn_as_link": false,
@@ -430,15 +431,33 @@
             "btn_link": ""
           }
         },
-        "media_YJEkC3": {
+        "media_jexVrL": {
           "type": "media",
           "settings": {
+            "image": "shopify://shop_images/tshirts.jpg",
             "subheading": "",
-            "heading": "Heading",
+            "heading": "Product 3",
             "heading_link": "",
             "seo_heading": "h2",
             "size": "h2",
-            "description": "<p>To provide clients insight into your brand, pair words with any image. Here you can tell a narrative, explain a product feature, or introduce a new campaign.</p>",
+            "description": "<p>Small Description for this product</p>",
+            "icon": "shipping",
+            "icon_size": "small",
+            "btn_as_link": false,
+            "btn_text": "Button text",
+            "btn_link": ""
+          }
+        },
+        "media_8wGBHk": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/grey-t-shirt.jpg",
+            "subheading": "",
+            "heading": "Product 4",
+            "heading_link": "",
+            "seo_heading": "h2",
+            "size": "h2",
+            "description": "<p>Small Description for this product</p>",
             "icon": "shipping",
             "icon_size": "small",
             "btn_as_link": false,
@@ -449,8 +468,9 @@
       },
       "block_order": [
         "media_ji3wgY",
-        "media_jiihXV",
-        "media_YJEkC3"
+        "media_bRpGzE",
+        "media_jexVrL",
+        "media_8wGBHk"
       ],
       "name": "t:sections.tabbed-collage.presets.name",
       "settings": {
@@ -458,7 +478,7 @@
         "enable_fullwidth": true,
         "compact_view": true,
         "tabs_behavior": "hover",
-        "open_by_default": false,
+        "open_by_default": true,
         "heading": "",
         "highlight_font": "body",
         "heading_size": "h2",
