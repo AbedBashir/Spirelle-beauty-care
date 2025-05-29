@@ -1,4 +1,12 @@
-
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main-product": {
@@ -7,23 +15,25 @@
         "fe3c09d6-15d2-4555-a0f5-c87ab0cf370f": {
           "type": "title",
           "settings": {
+            "heading_size": "h6",
             "seo_heading": "h2"
+          }
+        },
+        "description_QMxPJN": {
+          "type": "description",
+          "settings": {
+            "description_visibility": "always",
+            "show_as_accordion": false,
+            "open_default_accordion": false
           }
         },
         "c069e4ad-5908-400d-a0ad-e071aa04cf33": {
           "type": "review-star",
-          "settings": {
-          }
+          "settings": {}
         },
         "5540566c-63cd-4a90-b9b6-7707e45d7066": {
           "type": "price",
-          "settings": {
-          }
-        },
-        "9db1533f-9baf-4eb6-869d-dd2b494b6990": {
-          "type": "sku",
-          "settings": {
-          }
+          "settings": {}
         },
         "8658b9a0-c9c5-4055-a2e1-56a8f49d0b68": {
           "type": "variant",
@@ -33,8 +43,7 @@
         },
         "811e6d87-a5e5-4457-9124-d3c2ed070ba9": {
           "type": "quantity",
-          "settings": {
-          }
+          "settings": {}
         },
         "16819786-9d1e-449d-966d-08d21e1c91af": {
           "type": "button",
@@ -49,30 +58,29 @@
         },
         "e02bd487-7756-43fc-8ac6-54fa9a16ca85": {
           "type": "social-icons",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
         "fe3c09d6-15d2-4555-a0f5-c87ab0cf370f",
+        "description_QMxPJN",
         "c069e4ad-5908-400d-a0ad-e071aa04cf33",
         "5540566c-63cd-4a90-b9b6-7707e45d7066",
-        "9db1533f-9baf-4eb6-869d-dd2b494b6990",
         "8658b9a0-c9c5-4055-a2e1-56a8f49d0b68",
         "811e6d87-a5e5-4457-9124-d3c2ed070ba9",
         "16819786-9d1e-449d-966d-08d21e1c91af",
         "e02bd487-7756-43fc-8ac6-54fa9a16ca85"
       ],
       "settings": {
-        "gallery_style": "gallery",
+        "gallery_style": "slider",
         "show_description": true,
         "open_description_accordion": false,
         "show_variant-media": false,
-        "enable_shipping_policy": true,
+        "enable_shipping_policy": false,
         "enable_zoom_icon": false,
-        "enable_thumb": false,
+        "enable_thumb": true,
         "content_divider_mobile": "none",
-        "carousel_thumbnail_position": "center",
+        "carousel_thumbnail_position": "left",
         "carousel_height_desktop": "adapt",
         "carousel_height_mobile": "adapt",
         "width": "half",
