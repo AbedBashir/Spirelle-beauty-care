@@ -699,7 +699,7 @@
         "title": "Look at the before and after",
         "highlight_font": "body",
         "seo_heading": "h2",
-        "description": "add description here\nwe can use this section",
+        "description": "add description here\nwe can use this section also for product page for each product",
         "before_image": "shopify://shop_images/purple-t-shirt.jpg",
         "after_image": "shopify://shop_images/grey-t-shirt.jpg",
         "image_height": 700,
@@ -722,6 +722,81 @@
         "top_space_mobile": 30,
         "bottom_space_mobile": 30
       }
+    },
+    "testimonials_nXhRKw": {
+      "type": "testimonials",
+      "blocks": {
+        "quote_RjNtgx": {
+          "type": "quote",
+          "settings": {
+            "rating": 4,
+            "message": "Add client reviews & testimonials to showcase your store’s happy clients.",
+            "author": "Author name here",
+            "author_city": "Author City here",
+            "video_text": ""
+          }
+        },
+        "quote_dY6QTe": {
+          "type": "quote",
+          "settings": {
+            "rating": 4,
+            "message": "Add client reviews & testimonials to showcase your store’s happy clients.",
+            "author": "Author name here",
+            "author_city": "Author City here",
+            "video_text": ""
+          }
+        },
+        "quote_XmBe6V": {
+          "type": "quote",
+          "settings": {
+            "rating": 4,
+            "message": "Add client reviews & testimonials to showcase your store’s happy clients.",
+            "author": "Author name here",
+            "author_city": "Author City here",
+            "video_text": ""
+          }
+        },
+        "quote_amDbJX": {
+          "type": "quote",
+          "settings": {
+            "rating": 4,
+            "message": "Add client reviews & testimonials to showcase your store’s happy clients.",
+            "author": "Author name here",
+            "author_city": "Author City here",
+            "video_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "quote_RjNtgx",
+        "quote_dY6QTe",
+        "quote_XmBe6V",
+        "quote_amDbJX"
+      ],
+      "name": "t:sections.testimonials.presets.name",
+      "settings": {
+        "heading": "Our Happy Customers",
+        "highlight_font": "body",
+        "seo_heading": "h2",
+        "heading_size": "h2",
+        "description": "description here",
+        "description_size": "text",
+        "alignment": "center",
+        "slider_style": "style3",
+        "column_count": "column3",
+        "nav_style": "arrow",
+        "arrow_position": "top",
+        "text_size": "h5",
+        "text_alignment": "left",
+        "divider_top": false,
+        "divider_bottom": false,
+        "bgcolor": "gradient",
+        "section_visibility": "always",
+        "top_space_desktop": 60,
+        "bottom_space_desktop": 60,
+        "top_space_mobile": 30,
+        "bottom_space_mobile": 30
+      }
     }
   },
   "order": [
@@ -732,6 +807,7 @@
     "video_section_3CUTaE",
     "tabbed_collage_aq9WXt",
     "media_grid_Q6xE8z",
-    "before_after_image_nFzzic"
+    "before_after_image_nFzzic",
+    "testimonials_nXhRKw"
   ]
 }

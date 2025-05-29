@@ -40,7 +40,7 @@
     "quaternary_subheading_color": "#ffffff",
     "quaternary_card_background": "#454545",
     "quaternary_border_color": "#000000",
-    "gradient_color_body_bg": "linear-gradient(262deg, rgba(217, 217, 217, 1), rgba(217, 217, 217, 1) 100%)",
+    "gradient_color_body_bg": "radial-gradient(rgba(239, 216, 198, 0.87), rgba(255, 255, 255, 1) 51%, rgba(255, 255, 255, 1) 67%)",
     "type_heading_font_family": "nunito_n7",
     "heading_font_scale": 100,
     "type_header_spacing": "0",
