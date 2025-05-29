@@ -797,6 +797,27 @@
         "top_space_mobile": 30,
         "bottom_space_mobile": 30
       }
+    },
+    "newsletter_qhayQM": {
+      "type": "newsletter",
+      "name": "t:sections.newsletter.presets.name",
+      "settings": {
+        "heading": "Join Our Newsletter",
+        "highlight_font": "body",
+        "seo_heading": "h2",
+        "description": "Sign up it only takes a second to be the news.",
+        "placeholder": "Email Address",
+        "btn": "Subscribe",
+        "bgcolor": "primary",
+        "button_text_color": "#ffffff",
+        "button_bg_color": "#893347",
+        "button_border_color": "#893347",
+        "section_visibility": "always",
+        "top_space_desktop": 30,
+        "bottom_space_desktop": 30,
+        "top_space_mobile": 30,
+        "bottom_space_mobile": 30
+      }
     }
   },
   "order": [
@@ -808,6 +829,7 @@
     "tabbed_collage_aq9WXt",
     "media_grid_Q6xE8z",
     "before_after_image_nFzzic",
-    "testimonials_nXhRKw"
+    "testimonials_nXhRKw",
+    "newsletter_qhayQM"
   ]
 }

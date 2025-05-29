@@ -11,6 +11,85 @@
   "type": "footer",
   "name": "Footer Group",
   "sections": {
+    "text_with_icons_QkE944": {
+      "type": "text-with-icons",
+      "blocks": {
+        "column_9xCMhQ": {
+          "type": "column",
+          "settings": {
+            "icon": "shipping",
+            "heading": "Fast Shipping",
+            "seo_heading": "h2",
+            "size": "text-large",
+            "subtext": "Add subtext here"
+          }
+        },
+        "column_DzqCTR": {
+          "type": "column",
+          "settings": {
+            "icon": "secure",
+            "heading": "Secure Checkout",
+            "seo_heading": "h2",
+            "size": "text-large",
+            "subtext": "Add subtext here"
+          }
+        },
+        "column_EgMPBL": {
+          "type": "column",
+          "settings": {
+            "icon": "refund",
+            "heading": "Refund If Defective",
+            "seo_heading": "h2",
+            "size": "text-large",
+            "subtext": "Add subtext here"
+          }
+        },
+        "column_3eAhJL": {
+          "type": "column",
+          "settings": {
+            "icon": "support",
+            "heading": "24h Customer Services",
+            "seo_heading": "h2",
+            "size": "text-large",
+            "subtext": "Add subtext here"
+          }
+        }
+      },
+      "block_order": [
+        "column_9xCMhQ",
+        "column_DzqCTR",
+        "column_EgMPBL",
+        "column_3eAhJL"
+      ],
+      "name": "t:sections.text-with-icons.presets.name",
+      "settings": {
+        "container_width": false,
+        "enable_top_border": false,
+        "enable_bottom_border": false,
+        "section_border_style": "solid",
+        "column_background": true,
+        "mobile_column_count": "1",
+        "alignment": "center",
+        "icon_content_space_desktop": 15,
+        "icon_content_space_mobile": 15,
+        "enable_border": true,
+        "border_style": "solid",
+        "column_radius_desktop": 10,
+        "column_radius_mobile": 10,
+        "icon_background": false,
+        "icon_position": "top",
+        "bgcolor": "primary",
+        "column_background_color": "",
+        "icon_color": "#893347",
+        "icon_background_color": "",
+        "border_color": "#893347",
+        "section_visibility": "always",
+        "top_space_desktop": 40,
+        "bottom_space_desktop": 40,
+        "top_space_mobile": 30,
+        "bottom_space_mobile": 30
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -122,6 +201,7 @@
     }
   },
   "order": [
+    "text_with_icons_QkE944",
     "footer",
     "offer-sidebar"
   ]
