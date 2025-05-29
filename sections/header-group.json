@@ -14,11 +14,33 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_JTzDVL": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "icon": "gift",
+            "first_text": "Announcement Here",
+            "date": "",
+            "btn": "",
+            "link": ""
+          }
+        },
         "fec792eb-1815-4f3f-a124-64bc23d77ae3": {
           "type": "announcement",
           "settings": {
-            "icon": "shipping",
-            "first_text": "Free Shipping In Beirut",
+            "icon": "none",
+            "first_text": "FLASH SALE",
+            "date": "31/12/2025",
+            "btn": "SHOP NOW",
+            "link": "shopify://collections/all"
+          }
+        },
+        "announcement_K7JNat": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "icon": "secure",
+            "first_text": "Hello World",
             "date": "",
             "btn": "",
             "link": ""
@@ -26,7 +48,9 @@
         }
       },
       "block_order": [
-        "fec792eb-1815-4f3f-a124-64bc23d77ae3"
+        "announcement_JTzDVL",
+        "fec792eb-1815-4f3f-a124-64bc23d77ae3",
+        "announcement_K7JNat"
       ],
       "settings": {
         "show_bar": true,
@@ -34,10 +58,10 @@
         "is_autoloop": true,
         "desktop_height": "adapt_image",
         "mobile_height": "adapt_image",
-        "layout": "marquee",
+        "layout": "carousel",
         "show_close": false,
-        "carousel_rotate": false,
-        "carousel_interval": 6,
+        "carousel_rotate": true,
+        "carousel_interval": 3,
         "marquee_direction": "left",
         "marquee_speed": 3,
         "enable_language_selector": false,
