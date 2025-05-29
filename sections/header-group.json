@@ -1,0 +1,152 @@
+{
+  "type": "header",
+  "name": "Header Group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "fec792eb-1815-4f3f-a124-64bc23d77ae3": {
+          "type": "announcement",
+          "settings": {
+            "icon": "gift",
+            "first_text": "Announcement Here",
+            "date": "",
+            "btn": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "fec792eb-1815-4f3f-a124-64bc23d77ae3"
+      ],
+      "settings": {
+        "show_bar": true,
+        "show_on_homepage_only": false,
+        "desktop_height": "adapt_image",
+        "mobile_height": "adapt_image",
+        "layout": "carousel",
+        "show_close": true,
+        "carousel_rotate": false,
+        "carousel_interval": 5,
+        "marquee_direction": "left",
+        "marquee_speed": 5,
+        "enable_language_selector": true,
+        "enable_currency_selector": true,
+        "enable_social_icons": false,
+        "fontcolor": "#ffffff",
+        "bg_style": "solid",
+        "bgcolor": "#5b554e",
+        "bgcolor2": "",
+        "overlay_color": "",
+        "overlay_opacity": 50,
+        "btn_bgcolor": "#ffffff",
+        "btn_fontcolor": "#181818",
+        "bborder_color": "#ffffff"
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "style_1_WdgbEy": {
+          "type": "style-1",
+          "settings": {
+            "title": "",
+            "show_submenu": true,
+            "product1": "",
+            "product2": "",
+            "product3": "",
+            "product4": "",
+            "product5": "",
+            "product6": ""
+          }
+        },
+        "style_3_icMia8": {
+          "type": "style-3",
+          "settings": {
+            "title": "Home",
+            "products_count": 5,
+            "collection1": "collection17",
+            "collection2": "bowtie",
+            "collection3": "",
+            "collection4": "",
+            "collection5": "",
+            "collection6": "",
+            "collection7": "",
+            "collection8": "",
+            "collection9": "",
+            "collection10": "",
+            "collection11": "",
+            "collection12": ""
+          }
+        }
+      },
+      "block_order": [
+        "style_1_WdgbEy",
+        "style_3_icMia8"
+      ],
+      "settings": {
+        "header_style": "header4",
+        "enable_sticky_header": true,
+        "enable_header_shadow": true,
+        "sticky_header_style": "on_scroll_up",
+        "enable_transparent_header": false,
+        "logo_width": 140,
+        "logo_position": "center",
+        "menu_navigations": "click",
+        "menu": "",
+        "menu_type": "dropdown",
+        "type_font_size": 12,
+        "menu_position": "center",
+        "enable_catalog": true,
+        "enable_catalog_drawer": true,
+        "view_catalog": "View catalog",
+        "catalog_menu": "main-menu",
+        "trust_badge_link": "",
+        "show_search": true,
+        "account_type": "page",
+        "cart_icon": "cart",
+        "enable_sticky_cart": false,
+        "show_cart_count": false,
+        "icon_weight": "thin",
+        "enable_language_selector": true,
+        "enable_currency_selector": true,
+        "store_icons": "none",
+        "store_details_text": "",
+        "store_content": "",
+        "store_link": "",
+        "header_bgcolor": "#4d473f",
+        "header_textcolor": "#ffffff",
+        "header_textcolor_hover": "#9b9b9b",
+        "transparent_text_color": "#000000",
+        "hamburger_bgcolor": "#4d473f",
+        "hamburger_textcolor": "#ffffff",
+        "hamburger_textcolor_hover": "#9b9b9b",
+        "full_width_bgcolor": "",
+        "full_width_textcolor": "",
+        "full_width_textcolor_hover": "",
+        "mobile_menu_bg_color": "#000000",
+        "mobile_menu_text_color": "#ffffff",
+        "sub-menu_text_color": "#ffffff",
+        "mobile_menu_border_color": "#727272",
+        "mobile_menu_button": "#ffffff",
+        "mobile_menu_text": "#000000",
+        "mobile_menu_border": "#727272",
+        "catalogmenu_bg": "#f7f7f7",
+        "catologtext_color": "#000000",
+        "catologtext_hover": "#8f826b",
+        "catalog_bg": "#dddddd",
+        "catalog_text": "#000000",
+        "catalog_text_border": "#ffffff",
+        "searchbar_text": "#000000",
+        "searchbar_icon_bg": "#ededed",
+        "searchbar_icon_color": "#000000",
+        "store_details_color": "#000000",
+        "store_details_bg": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

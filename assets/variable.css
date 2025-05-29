@@ -1,0 +1,157 @@
+
+@font-face {
+  font-family: Poppins;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//juniorkids.ca/cdn/fonts/poppins/poppins_n4.934accbf9f5987aa89334210e6c1e9151f37d3b6.woff2?h1=anVuaW9ya2lkcy5jYQ&h2=anVuaW9ya2lkczEuYWNjb3VudC5teXNob3BpZnkuY29t&h3=anVuaW9yLWtpZHMuY29t&hmac=eadbc98f1b01a3e01c7884ecf12cdbd486336593c55a85e77009ab492f08cabc") format("woff2"),
+       url("//juniorkids.ca/cdn/fonts/poppins/poppins_n4.ee28d4489eaf5de9cf6e17e696991b5e9148c716.woff?h1=anVuaW9ya2lkcy5jYQ&h2=anVuaW9ya2lkczEuYWNjb3VudC5teXNob3BpZnkuY29t&h3=anVuaW9yLWtpZHMuY29t&hmac=cf8e1d4ede3fba2d660d8b81aac2dfe0727d8bb99c0aeb90c2af1942bda62fca") format("woff");
+}
+
+@font-face {
+  font-family: Poppins;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//juniorkids.ca/cdn/fonts/poppins/poppins_n7.58aca33913fc6666cc9e8a53f6b16ec5c3c05a3f.woff2?h1=anVuaW9ya2lkcy5jYQ&h2=anVuaW9ya2lkczEuYWNjb3VudC5teXNob3BpZnkuY29t&h3=anVuaW9yLWtpZHMuY29t&hmac=23a82a4699c6aee88547ee88defc17b7e63f8960a289e95b9b64fa339a82a07c") format("woff2"),
+       url("//juniorkids.ca/cdn/fonts/poppins/poppins_n7.59016f931f3f39434d2e458fba083eb7db7a07d9.woff?h1=anVuaW9ya2lkcy5jYQ&h2=anVuaW9ya2lkczEuYWNjb3VudC5teXNob3BpZnkuY29t&h3=anVuaW9yLWtpZHMuY29t&hmac=18be2d6779a1b26dcdb8b8d80f149581a34764c9e73112048f0fb9e174b50627") format("woff");
+}
+
+@font-face {
+  font-family: Poppins;
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("//juniorkids.ca/cdn/fonts/poppins/poppins_i4.a7e8d886e15d5fb9bc964a53b3278effbf270e9c.woff2?h1=anVuaW9ya2lkcy5jYQ&h2=anVuaW9ya2lkczEuYWNjb3VudC5teXNob3BpZnkuY29t&h3=anVuaW9yLWtpZHMuY29t&hmac=e10a5d47e1d2353ebc8615bb3726ac08d0b4866eaebd0424765d7be9e87a5bfc") format("woff2"),
+       url("//juniorkids.ca/cdn/fonts/poppins/poppins_i4.e87de252199e27825a41bf81646996685d86452d.woff?h1=anVuaW9ya2lkcy5jYQ&h2=anVuaW9ya2lkczEuYWNjb3VudC5teXNob3BpZnkuY29t&h3=anVuaW9yLWtpZHMuY29t&hmac=536de166c5e3d01d2fb9e67252cd328f5ee27ccd3faa9985585f52292be28874") format("woff");
+}
+
+@font-face {
+  font-family: Poppins;
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url("//juniorkids.ca/cdn/fonts/poppins/poppins_i7.4f85a5d51a1aecf426eea47ac4570ef7341bfdc1.woff2?h1=anVuaW9ya2lkcy5jYQ&h2=anVuaW9ya2lkczEuYWNjb3VudC5teXNob3BpZnkuY29t&h3=anVuaW9yLWtpZHMuY29t&hmac=68447abd85758fbda79bd4a26eb5ca4f246f9eeb6c0d9f177345490934e8333c") format("woff2"),
+       url("//juniorkids.ca/cdn/fonts/poppins/poppins_i7.aff3a08a92d1c136586c611b9fc43d357dfbbefe.woff?h1=anVuaW9ya2lkcy5jYQ&h2=anVuaW9ya2lkczEuYWNjb3VudC5teXNob3BpZnkuY29t&h3=anVuaW9yLWtpZHMuY29t&hmac=67a10ab684cd8e863b03772579275aa7581254e3e3ee4b92116d33e2243edaf3") format("woff");
+}
+
+@font-face {
+  font-family: Poppins;
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//juniorkids.ca/cdn/fonts/poppins/poppins_n5.25334cd7ff48c81cfd51a6bc5a81d92a1b4d4501.woff2?h1=anVuaW9ya2lkcy5jYQ&h2=anVuaW9ya2lkczEuYWNjb3VudC5teXNob3BpZnkuY29t&h3=anVuaW9yLWtpZHMuY29t&hmac=dd7435da504d57ac6bcac4ca9a16d52978da6ea15046fe0cbbdfae61e5df8ddd") format("woff2"),
+       url("//juniorkids.ca/cdn/fonts/poppins/poppins_n5.fc8eae64d8f1b5d2b8c42b45ddc0749aff4750a6.woff?h1=anVuaW9ya2lkcy5jYQ&h2=anVuaW9ya2lkczEuYWNjb3VudC5teXNob3BpZnkuY29t&h3=anVuaW9yLWtpZHMuY29t&hmac=d1cb3cebd527f8727bbcc0517ba9683e0819b0037d96d24b9f38494bb665a6f9") format("woff");
+}
+
+:root {
+  --gray: #ececec;
+  --dark-gray: #747474;
+  --green:#6cad61;
+  --red:#ec7c7c;
+  --heading-font-family:Poppins,sans-serif;
+  --heading-font-weight:500;
+  --font-family:Poppins,sans-serif;
+  --body-font-weight:400;
+  --body-font-weight-bold: 300;
+  --thin:100;
+  --light:300;
+  --normal:400;
+  --medium:500;
+  --semibold:600;
+  --bold:700; 
+  --extrabold:900;
+  --theme-color: #181818;
+  --theme-light-color: rgba(24, 24, 24, 0.1);
+  --colorTextBody: #181818;
+  --colorLightTextBody: rgba(24, 24, 24, 0.5);
+  --colorXlightTextBody: rgba(24, 24, 24, 0.3);
+  --colorXXlightTextBody: rgba(24, 24, 24, 0.1);
+  --cartDotColor: #9d6348;
+  --cartDotColorLight:rgba(157, 99, 72, 0.3);
+  --cartDotColorNull:rgba(157, 99, 72, 0);
+  --colorBtnPrimary: #000000;
+  --colorBtnPrimaryText: #ffffff; 
+  --colorBtnPrimaryBorder: #000000; 
+  --colorBtnSecondary: #454545;
+  --colorBtnSecondaryText:#ffffff;
+  --colorBtnSecondaryBorder:#454545;  
+  --primaryColorBody: #ffffff;
+  --saleBadgeBg:#efb34c;
+  --saleBadgeText:#ffffff;
+  --soldBadgeBg:#E22120;
+  --soldBadgeText:#ffffff;
+  --preorderBadgeBg:#E22120;
+  --preorderBadgeText:#ffffff;
+  --customBadgeBg:#000000;
+  --customBadgeText:#ffffff;
+  --secondaryColorBody: #ffffff;
+  
+--primarySocialIconBg:#e6e6e6;
+    --primaryAlternateBg:#f2f2f2;--secondarySocialIconBg:#e6e6e6;--tertiarySocialIconBg:#d4d4d4;--quaternarySocialIconBg:#323232;--secondarycolorTextBody: #000000;
+  --secondaryColorLightTextBody: rgba(0, 0, 0, 0.5);
+  --secondaryColorXlightTextBody: rgba(0, 0, 0, 0.3);
+  --secondary_heading_color: #000000;
+  --secondary_subheading_color: #000000;
+  --tertiaryColorBody:#eee;
+  --tertiarycolorTextBody: #ffffff;
+  --tertiaryColorLightTextBody: rgba(255, 255, 255, 0.5);
+  --tertiaryColorXlightTextBody: rgba(255, 255, 255, 0.3);
+  --tertiary_heading_color: #ffffff;
+  --tertiary_subheading_color: #181818;
+  --gradientColorBody: radial-gradient(rgba(239, 216, 198, 0.87), rgba(255, 255, 255, 1) 51%, rgba(255, 255, 255, 1) 67%);
+  --quaternaryColorBody: #181818;
+  --quaternarycolorTextBody: #ffffff;
+  --quaternaryColorLightTextBody: rgba(255, 255, 255, 0.5);
+  --quaternaryColorXlightTextBody: rgba(255, 255, 255, 0.3);
+  --quaternary_heading_color: #ffffff;
+  --quaternary_subheading_color: #ffffff;
+  --colorImageBg: #f1f1f1;
+  --colorImageBorder: #eee;
+  --productImageBorder:1px solid #eee;
+  --articleImageBorder:0;
+  --collectionImageBorder:0;
+  --colorTextSavings: #181818;
+  --colorBgSavings: #f1f1f1;
+  --heading_color: #181818;
+  --subheading_color: #181818;
+  --heading_base_size: 1.0;
+  --heading_spacing: -0.025em;
+  --heading_line_height: 1.1;
+  --base_spacing: 0.025em;
+  --base_line_height: 1.6;
+  --text_base_size: 0.97;
+  --buttonRadius: 28px;
+  --productGridRadius: 20px;
+  --headingTextTransform:;
+  --buttonFontFamily: var(--heading-font-family);
+  --variantFontFamily: var(--font-family);
+  --filtersHeadingFontFamily: var(--heading-font-family);
+  --priceFontFamily: var(--font-family);
+  --tabHeadingFontFamily: var(--font-family);
+  --tabHeadingTextTransform:;
+  --navigationFontFamily: var(--font-family);
+  --navigationTextTransform:;
+  --variantTextTransform:uppercase;
+  --xsmallText:calc(var(--text_base_size) * 10px);
+  --smallText: calc(var(--text_base_size) * 12px);
+  --text: calc(var(--text_base_size) * 14px);
+  --mediumText: calc(var(--text_base_size) * 16px);
+  --largeText: calc(var(--text_base_size) * 18px);
+  --xlargeText:  calc(var(--text_base_size) * 20px);
+  --buttonAnimationDirection:;
+}
+@media (min-width:1025px) {
+  .button:before,
+  .pdp-action-container button.shopify-payment-button__button--hidden:before,
+  .pdp-action-container button.shopify-payment-button__button:before,
+  .tertiary-button:before {
+      content: "";
+      position: absolute;z-index: -1;
+      transition: 0.6s ease-in-out;
+  }
+  .button:hover:before,
+  .pdp-action-container button.shopify-payment-button__button--hidden:hover:before,
+  .pdp-action-container button.shopify-payment-button__button:hover:before,
+  .secondary-button:hover:before {}
+}
