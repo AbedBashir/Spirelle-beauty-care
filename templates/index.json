@@ -7,7 +7,7 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
- {
+{
   "sections": {
     "42e8f498-dcf5-4202-8783-84def3fc423e": {
       "type": "collage",
@@ -160,8 +160,8 @@
             "seo_heading": "h2",
             "enable_text_shadow": false,
             "subheading": "Sub heading",
-            "link": "",
-            "btn_text": "",
+            "link": "shopify://pages/contact",
+            "btn_text": "button",
             "outline_button": false,
             "heading_size": "h5",
             "button_size": "xsmall",
@@ -1042,7 +1042,6 @@
         "look_hrrhD3",
         "look_NKmJga"
       ],
-      "name": "t:sections.lookbook.presets.name",
       "settings": {
         "bgcolor": "primary",
         "section_visibility": "always",
@@ -1242,7 +1241,6 @@
     },
     "spacer_b7iPjh": {
       "type": "spacer",
-      "name": "t:sections.spacer.presets.name",
       "settings": {
         "height_desktop": 0,
         "height_mobile": 1,
@@ -1300,7 +1298,6 @@
         "column_G6CjCP",
         "column_YiUVVG"
       ],
-      "name": "t:sections.text-with-icons.presets.name",
       "settings": {
         "container_width": false,
         "enable_top_border": false,
