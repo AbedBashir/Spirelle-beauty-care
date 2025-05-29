@@ -48,7 +48,7 @@
         "pagination_type": "infinite",
         "products_per_page": 60,
         "product_count": true,
-        "enable_filtering": false,
+        "enable_filtering": true,
         "filters_layout": "sidebar",
         "enable_sorting": true,
         "enable_display_options": true,

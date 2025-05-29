@@ -58,6 +58,24 @@
     "header": {
       "type": "header",
       "blocks": {
+        "menu_badge_d4Df7V": {
+          "type": "menu-badge",
+          "settings": {
+            "badge_label": "",
+            "menu_badge": "",
+            "menu_text": "#000000",
+            "badge_text_color": "#ffffff",
+            "badge_background": "#000000"
+          }
+        },
+        "menu_label_zLdyzr": {
+          "type": "menu-label",
+          "settings": {
+            "menu_text": "Our Bundle",
+            "icon_list": "shipping",
+            "url": ""
+          }
+        },
         "style_1_WdgbEy": {
           "type": "style-1",
           "settings": {
@@ -92,6 +110,8 @@
         }
       },
       "block_order": [
+        "menu_badge_d4Df7V",
+        "menu_label_zLdyzr",
         "style_1_WdgbEy",
         "style_3_icMia8"
       ],
