@@ -9252,9 +9252,9 @@ border-radius: 0;
 
 .side_Drawer_open .yv_side_drawer_wrapper,
 .similar_Drawer_open .yv_similar_drawer_wrapper {
-  border-top-left-radius: var(--cardRadius);
-  border-top-left-radius: var(--cardRadius);
-  border-bottom-left-radius: var(--cardRadius);
+  border-top-left-radius: 0;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0
 }
 
 .upsell-tab-height-small .yv-suggest-sidebar-content {
