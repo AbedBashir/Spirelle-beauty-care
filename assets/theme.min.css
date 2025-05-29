@@ -9465,7 +9465,8 @@ border-radius: 0;
 }
 
 .yv-upsell-drawer.enable-marquee-marquee.upsell-tab-height-large {
-  height: 70vh;
+  height: 100vh;
+  top:0;
 }
 .yv-upsell-drawer.enable-marquee-text.upsell-tab-height-large {
   background-color: var(--primaryAlternateBg);
