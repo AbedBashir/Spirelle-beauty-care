@@ -50,15 +50,11 @@
           "settings": {
             "dynamic_checkout_btn": true,
             "enable_fullwidth": true,
-            "show_subscriptions_plan": true,
+            "show_subscriptions_plan": false,
             "show_recipient_form": false,
             "sticky_add_to_cart": true,
-            "sticky_add_to_cart_position": "bottom"
+            "sticky_add_to_cart_position": "top"
           }
-        },
-        "e02bd487-7756-43fc-8ac6-54fa9a16ca85": {
-          "type": "social-icons",
-          "settings": {}
         }
       },
       "block_order": [
@@ -68,8 +64,7 @@
         "5540566c-63cd-4a90-b9b6-7707e45d7066",
         "8658b9a0-c9c5-4055-a2e1-56a8f49d0b68",
         "811e6d87-a5e5-4457-9124-d3c2ed070ba9",
-        "16819786-9d1e-449d-966d-08d21e1c91af",
-        "e02bd487-7756-43fc-8ac6-54fa9a16ca85"
+        "16819786-9d1e-449d-966d-08d21e1c91af"
       ],
       "settings": {
         "gallery_style": "slider",
