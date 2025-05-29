@@ -36,7 +36,7 @@
             "mobile_content_position": "m-center",
             "title_color": "#ffffff",
             "subtitle_color": "#ffffff",
-            "subtitle_bgcolor": "#DCDCDC",
+            "subtitle_bgcolor": "#dcdcdc",
             "desc_color": "#ffffff",
             "btn_bg": "#893347",
             "btn_text": "#ffffff",
@@ -45,7 +45,7 @@
             "overlay_opacity": 50,
             "title_color_m": "#ffffff",
             "subtitle_color_m": "#000000",
-            "subtitle_bgcolor_m": "#DCDCDC",
+            "subtitle_bgcolor_m": "#dcdcdc",
             "desc_color_m": "#ffffff",
             "btn_bg_m": "#ffffff",
             "btn_text_m": "#000000",
@@ -78,7 +78,7 @@
             "mobile_content_position": "m-center",
             "title_color": "#ffffff",
             "subtitle_color": "#ffffff",
-            "subtitle_bgcolor": "#DCDCDC",
+            "subtitle_bgcolor": "#dcdcdc",
             "desc_color": "#ffffff",
             "btn_bg": "#893347",
             "btn_text": "#ffffff",
@@ -87,7 +87,7 @@
             "overlay_opacity": 50,
             "title_color_m": "#ffffff",
             "subtitle_color_m": "#000000",
-            "subtitle_bgcolor_m": "#DCDCDC",
+            "subtitle_bgcolor_m": "#dcdcdc",
             "desc_color_m": "#ffffff",
             "btn_bg_m": "#ffffff",
             "btn_text_m": "#000000",
@@ -120,7 +120,7 @@
             "mobile_content_position": "m-center",
             "title_color": "#ffffff",
             "subtitle_color": "#ffffff",
-            "subtitle_bgcolor": "#DCDCDC",
+            "subtitle_bgcolor": "#dcdcdc",
             "desc_color": "#ffffff",
             "btn_bg": "#893347",
             "btn_text": "#ffffff",
@@ -129,7 +129,7 @@
             "overlay_opacity": 50,
             "title_color_m": "#ffffff",
             "subtitle_color_m": "#000000",
-            "subtitle_bgcolor_m": "#DCDCDC",
+            "subtitle_bgcolor_m": "#dcdcdc",
             "desc_color_m": "#ffffff",
             "btn_bg_m": "#ffffff",
             "btn_text_m": "#000000",
@@ -144,7 +144,6 @@
         "slide_UazNF8",
         "slide_aWU3cP"
       ],
-      "name": "t:sections.slider.presets.name",
       "settings": {
         "nav_style": "dots-bottom-right",
         "content_below_image": false,
@@ -169,7 +168,6 @@
       "block_order": [
         "collection_gMMNnA"
       ],
-      "name": "t:sections.tabbed-collections.presets.name",
       "settings": {
         "enable_top_border": false,
         "enable_bottom_border": false,
@@ -240,7 +238,6 @@
         "counter_VDQce8",
         "counter_3DDBPL"
       ],
-      "name": "t:sections.promotion-banner.presets.name",
       "settings": {
         "full_width": true,
         "border_radius": 5,
@@ -253,7 +250,7 @@
         "bgcolor": "#893347",
         "btntextcolor": "#ffffff",
         "btnbgcolor": "#000000",
-        "btnborder": "#000000",
+        "btnborder": "#ffffff",
         "section_visibility": "always",
         "show_icon_on_image": false,
         "icon": "heart",
@@ -342,7 +339,6 @@
         "split_banner_gmRAp4",
         "split_banner_nGiMqi"
       ],
-      "name": "t:sections.split-banner.presets.name",
       "settings": {
         "section_visibility": "always",
         "desktop_height": "650px",
@@ -357,7 +353,6 @@
     },
     "video_section_3CUTaE": {
       "type": "video-section",
-      "name": "t:sections.video-banner.presets.name",
       "settings": {
         "container_width": "global",
         "videofile": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
@@ -385,7 +380,7 @@
         "subtitle_color": "#000000",
         "btn_color": "#000000",
         "overlay_color": "#ffffff",
-        "text_gradient_color": "#FAE9CB",
+        "text_gradient_color": "#fae9cb",
         "overlay_opacity": 0,
         "section_visibility": "always",
         "top_space_desktop": 60,
@@ -472,7 +467,6 @@
         "media_jexVrL",
         "media_8wGBHk"
       ],
-      "name": "t:sections.tabbed-collage.presets.name",
       "settings": {
         "section_visibility": "always",
         "enable_fullwidth": true,
@@ -527,10 +521,10 @@
             "seo_heading": "h2",
             "description": "Add short description for this section",
             "link_url": "",
-            "column_background": "#EFEFEF",
+            "column_background": "#efefef",
             "heading_color": "#000000",
             "text_color": "#484848",
-            "card_border_color": "#E9E9E9"
+            "card_border_color": "#e9e9e9"
           }
         },
         "image_bottom_text_top_N6yzVx": {
@@ -547,11 +541,11 @@
             "seo_heading": "h2",
             "description": "Add short description for this section",
             "link_url": "",
-            "column_background": "#EFEFEF",
+            "column_background": "#efefef",
             "heading_color": "#000000",
             "text_color": "#484848",
-            "card_border_color": "#E9E9E9",
-            "play_btn_color": "#FFFFFF"
+            "card_border_color": "#e9e9e9",
+            "play_btn_color": "#ffffff"
           }
         },
         "image_top_text_bottom_JkqC3D": {
@@ -568,11 +562,11 @@
             "seo_heading": "h2",
             "description": "Add short description for this section",
             "link_url": "",
-            "column_background": "#EFEFEF",
+            "column_background": "#efefef",
             "heading_color": "#000000",
             "text_color": "#484848",
-            "card_border_color": "#E9E9E9",
-            "play_btn_color": "#FFFFFF"
+            "card_border_color": "#e9e9e9",
+            "play_btn_color": "#ffffff"
           }
         },
         "overlay_text_JMCiCB": {
@@ -589,10 +583,10 @@
             "seo_heading": "h2",
             "description": "Add short description for this section",
             "link_url": "",
-            "column_background": "#EFEFEF",
+            "column_background": "#efefef",
             "heading_color": "#000000",
             "text_color": "#484848",
-            "card_border_color": "#E9E9E9"
+            "card_border_color": "#e9e9e9"
           }
         },
         "image_left_text_right_ACckgb": {
@@ -610,10 +604,10 @@
             "seo_heading": "h2",
             "description": "Add short description for this section",
             "link_url": "",
-            "column_background": "#EFEFEF",
+            "column_background": "#efefef",
             "heading_color": "#000000",
             "text_color": "#484848",
-            "card_border_color": "#E9E9E9"
+            "card_border_color": "#e9e9e9"
           }
         },
         "overlay_text_CWqTTr": {
@@ -630,10 +624,10 @@
             "seo_heading": "h2",
             "description": "Add short description for this section",
             "link_url": "",
-            "column_background": "#EFEFEF",
+            "column_background": "#efefef",
             "heading_color": "#000000",
             "text_color": "#484848",
-            "card_border_color": "#E9E9E9"
+            "card_border_color": "#e9e9e9"
           }
         },
         "image_left_text_right_KT6fFb": {
@@ -651,10 +645,10 @@
             "seo_heading": "h2",
             "description": "Add short description for this section",
             "link_url": "",
-            "column_background": "#EFEFEF",
+            "column_background": "#efefef",
             "heading_color": "#000000",
             "text_color": "#484848",
-            "card_border_color": "#E9E9E9"
+            "card_border_color": "#e9e9e9"
           }
         }
       },
@@ -667,7 +661,6 @@
         "overlay_text_CWqTTr",
         "image_left_text_right_KT6fFb"
       ],
-      "name": "t:sections.media-grid.presets.name",
       "settings": {
         "section_visibility": "always",
         "desktop_row_height": 300,
@@ -689,7 +682,6 @@
     },
     "before_after_image_nFzzic": {
       "type": "before-after-image",
-      "name": "t:sections.before-after.presets.name",
       "settings": {
         "container_width": "global",
         "fullwidth": false,
@@ -773,7 +765,6 @@
         "quote_XmBe6V",
         "quote_amDbJX"
       ],
-      "name": "t:sections.testimonials.presets.name",
       "settings": {
         "heading": "Our Happy Customers",
         "highlight_font": "body",
@@ -800,7 +791,6 @@
     },
     "newsletter_qhayQM": {
       "type": "newsletter",
-      "name": "t:sections.newsletter.presets.name",
       "settings": {
         "heading": "Join Our Newsletter",
         "highlight_font": "body",
