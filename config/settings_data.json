@@ -105,6 +105,7 @@
     "option_title_font_family": "--font-family",
     "price_font_family": "--font-family",
     "option_title_capital": "uppercase",
+    "atc_alert": "atc_2",
     "atc_style": "icon",
     "show_similar": false,
     "show_similar_text": true,
