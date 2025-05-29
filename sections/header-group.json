@@ -14,33 +14,21 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_JTzDVL": {
+        "announcement_DExyD8": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "icon": "gift",
-            "first_text": "Announcement Here",
+            "first_text": "Bundles Available",
             "date": "",
             "btn": "",
             "link": ""
           }
         },
-        "fec792eb-1815-4f3f-a124-64bc23d77ae3": {
+        "announcement_qqJdiJ": {
           "type": "announcement",
           "settings": {
-            "icon": "none",
-            "first_text": "FLASH SALE",
-            "date": "31/12/2025",
-            "btn": "SHOP NOW",
-            "link": "shopify://collections/all"
-          }
-        },
-        "announcement_K7JNat": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "icon": "secure",
-            "first_text": "Hello World",
+            "icon": "global",
+            "first_text": "Free Shipping",
             "date": "",
             "btn": "",
             "link": ""
@@ -48,9 +36,8 @@
         }
       },
       "block_order": [
-        "announcement_JTzDVL",
-        "fec792eb-1815-4f3f-a124-64bc23d77ae3",
-        "announcement_K7JNat"
+        "announcement_DExyD8",
+        "announcement_qqJdiJ"
       ],
       "settings": {
         "show_bar": true,
@@ -58,15 +45,15 @@
         "is_autoloop": true,
         "desktop_height": "adapt_image",
         "mobile_height": "adapt_image",
-        "layout": "carousel",
+        "layout": "marquee",
         "show_close": false,
         "carousel_rotate": true,
         "carousel_interval": 3,
         "marquee_direction": "left",
-        "marquee_speed": 3,
+        "marquee_speed": 20,
         "enable_language_selector": false,
         "enable_currency_selector": false,
-        "enable_social_icons": false,
+        "enable_social_icons": true,
         "font_size": "text",
         "fontcolor": "#ffffff",
         "bg_style": "solid",
