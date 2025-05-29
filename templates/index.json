@@ -393,6 +393,101 @@
         "top_space_mobile": 30,
         "bottom_space_mobile": 30
       }
+    },
+    "tabbed_collage_aq9WXt": {
+      "type": "tabbed-collage",
+      "blocks": {
+        "media_ji3wgY": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/kids-beanie.jpg",
+            "subheading": "",
+            "heading": "Product 1",
+            "heading_link": "",
+            "seo_heading": "h2",
+            "size": "h2",
+            "description": "<p>Small Description for this product</p>",
+            "icon": "shipping",
+            "icon_size": "small",
+            "btn_as_link": false,
+            "btn_text": "Button text",
+            "btn_link": ""
+          }
+        },
+        "media_jiihXV": {
+          "type": "media",
+          "settings": {
+            "subheading": "",
+            "heading": "Heading",
+            "heading_link": "",
+            "seo_heading": "h2",
+            "size": "h2",
+            "description": "<p>To provide clients insight into your brand, pair words with any image. Here you can tell a narrative, explain a product feature, or introduce a new campaign.</p>",
+            "icon": "shipping",
+            "icon_size": "small",
+            "btn_as_link": false,
+            "btn_text": "Button text",
+            "btn_link": ""
+          }
+        },
+        "media_YJEkC3": {
+          "type": "media",
+          "settings": {
+            "subheading": "",
+            "heading": "Heading",
+            "heading_link": "",
+            "seo_heading": "h2",
+            "size": "h2",
+            "description": "<p>To provide clients insight into your brand, pair words with any image. Here you can tell a narrative, explain a product feature, or introduce a new campaign.</p>",
+            "icon": "shipping",
+            "icon_size": "small",
+            "btn_as_link": false,
+            "btn_text": "Button text",
+            "btn_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "media_ji3wgY",
+        "media_jiihXV",
+        "media_YJEkC3"
+      ],
+      "name": "t:sections.tabbed-collage.presets.name",
+      "settings": {
+        "section_visibility": "always",
+        "enable_fullwidth": true,
+        "compact_view": true,
+        "tabs_behavior": "hover",
+        "open_by_default": false,
+        "heading": "",
+        "highlight_font": "body",
+        "heading_size": "h2",
+        "seo_heading": "h2",
+        "subheading": "",
+        "description": "",
+        "show_icon_on_image": true,
+        "icon": "sparkle",
+        "left_to_right": 90,
+        "top_to_bottom": 5,
+        "mobile_left_to_right": 70,
+        "mobile_top_to_bottom": 5,
+        "icon_animated_color": "#893347",
+        "enable_top_border": false,
+        "enable_bottom_border": false,
+        "border_style": "solid",
+        "media_alignment": "right",
+        "desktop_height": "700px",
+        "mobile_height": "500px",
+        "image_radius_desktop": 10,
+        "image_radius_mobile": 10,
+        "expand_icons": "arrows",
+        "enable_blockbg": true,
+        "bgcolor": "primary",
+        "top_space_desktop": 0,
+        "bottom_space_desktop": 50,
+        "top_space_mobile": 30,
+        "bottom_space_mobile": 30
+      }
     }
   },
   "order": [
@@ -400,6 +495,7 @@
     "tabbed_collections_JRKB3F",
     "promotion_banner_LiyC3T",
     "split_banner_ynGqX3",
-    "video_section_3CUTaE"
+    "video_section_3CUTaE",
+    "tabbed_collage_aq9WXt"
   ]
 }
