@@ -508,6 +508,220 @@
         "top_space_mobile": 30,
         "bottom_space_mobile": 30
       }
+    },
+    "media_grid_Q6xE8z": {
+      "type": "media-grid",
+      "blocks": {
+        "image_left_text_right_cayUnx": {
+          "type": "image-left-text-right",
+          "settings": {
+            "image_width_scale": 20,
+            "image_height_scale": 20,
+            "column": 2,
+            "row": 1,
+            "column_mobile": "2",
+            "row_mobile": "2",
+            "content_alignment": "left",
+            "heading": "Heading",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "description": "Add short description for this section",
+            "link_url": "",
+            "column_background": "#EFEFEF",
+            "heading_color": "#000000",
+            "text_color": "#484848",
+            "card_border_color": "#E9E9E9"
+          }
+        },
+        "image_bottom_text_top_N6yzVx": {
+          "type": "image-bottom-text-top",
+          "settings": {
+            "autoplay_video": false,
+            "column": 2,
+            "row": 2,
+            "column_mobile": "2",
+            "row_mobile": "2",
+            "content_alignment": "center",
+            "heading": "Heading",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "description": "Add short description for this section",
+            "link_url": "",
+            "column_background": "#EFEFEF",
+            "heading_color": "#000000",
+            "text_color": "#484848",
+            "card_border_color": "#E9E9E9",
+            "play_btn_color": "#FFFFFF"
+          }
+        },
+        "image_top_text_bottom_JkqC3D": {
+          "type": "image-top-text-bottom",
+          "settings": {
+            "autoplay_video": false,
+            "column": 2,
+            "row": 2,
+            "column_mobile": "2",
+            "row_mobile": "2",
+            "content_alignment": "center",
+            "heading": "Heading",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "description": "Add short description for this section",
+            "link_url": "",
+            "column_background": "#EFEFEF",
+            "heading_color": "#000000",
+            "text_color": "#484848",
+            "card_border_color": "#E9E9E9",
+            "play_btn_color": "#FFFFFF"
+          }
+        },
+        "overlay_text_JMCiCB": {
+          "type": "overlay-text",
+          "settings": {
+            "column": 2,
+            "row": 1,
+            "column_mobile": "2",
+            "row_mobile": "2",
+            "content_position": "middle",
+            "content_alignment": "center",
+            "heading": "Heading",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "description": "Add short description for this section",
+            "link_url": "",
+            "column_background": "#EFEFEF",
+            "heading_color": "#000000",
+            "text_color": "#484848",
+            "card_border_color": "#E9E9E9"
+          }
+        },
+        "image_left_text_right_ACckgb": {
+          "type": "image-left-text-right",
+          "settings": {
+            "image_width_scale": 20,
+            "image_height_scale": 20,
+            "column": 2,
+            "row": 1,
+            "column_mobile": "2",
+            "row_mobile": "2",
+            "content_alignment": "left",
+            "heading": "Heading",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "description": "Add short description for this section",
+            "link_url": "",
+            "column_background": "#EFEFEF",
+            "heading_color": "#000000",
+            "text_color": "#484848",
+            "card_border_color": "#E9E9E9"
+          }
+        },
+        "overlay_text_CWqTTr": {
+          "type": "overlay-text",
+          "settings": {
+            "column": 2,
+            "row": 1,
+            "column_mobile": "2",
+            "row_mobile": "2",
+            "content_position": "middle",
+            "content_alignment": "center",
+            "heading": "Heading",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "description": "Add short description for this section",
+            "link_url": "",
+            "column_background": "#EFEFEF",
+            "heading_color": "#000000",
+            "text_color": "#484848",
+            "card_border_color": "#E9E9E9"
+          }
+        },
+        "image_left_text_right_KT6fFb": {
+          "type": "image-left-text-right",
+          "settings": {
+            "image_width_scale": 20,
+            "image_height_scale": 20,
+            "column": 2,
+            "row": 1,
+            "column_mobile": "2",
+            "row_mobile": "2",
+            "content_alignment": "left",
+            "heading": "Heading",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "description": "Add short description for this section",
+            "link_url": "",
+            "column_background": "#EFEFEF",
+            "heading_color": "#000000",
+            "text_color": "#484848",
+            "card_border_color": "#E9E9E9"
+          }
+        }
+      },
+      "block_order": [
+        "image_left_text_right_cayUnx",
+        "image_bottom_text_top_N6yzVx",
+        "image_top_text_bottom_JkqC3D",
+        "overlay_text_JMCiCB",
+        "image_left_text_right_ACckgb",
+        "overlay_text_CWqTTr",
+        "image_left_text_right_KT6fFb"
+      ],
+      "name": "t:sections.media-grid.presets.name",
+      "settings": {
+        "section_visibility": "always",
+        "desktop_row_height": 300,
+        "mobile_row_height": 100,
+        "desktop_grid_gap": 14,
+        "mobile_grid_gap": 6,
+        "heading": "Heading",
+        "highlight_font": "body",
+        "heading_size": "h2",
+        "seo_heading": "h2",
+        "description": "<p>Description here</p>",
+        "card_border": false,
+        "bgcolor": "primary",
+        "top_space_desktop": 40,
+        "bottom_space_desktop": 15,
+        "top_space_mobile": 15,
+        "bottom_space_mobile": 15
+      }
+    },
+    "before_after_image_nFzzic": {
+      "type": "before-after-image",
+      "name": "t:sections.before-after.presets.name",
+      "settings": {
+        "container_width": "global",
+        "fullwidth": false,
+        "enable_top_border": false,
+        "enable_bottom_border": false,
+        "border_style": "solid",
+        "title": "Look at the before and after",
+        "highlight_font": "body",
+        "seo_heading": "h2",
+        "description": "add description here\nwe can use this section",
+        "before_image": "shopify://shop_images/purple-t-shirt.jpg",
+        "after_image": "shopify://shop_images/grey-t-shirt.jpg",
+        "image_height": 700,
+        "mobile_image_height": 300,
+        "before_text": "Before",
+        "after_text": "After",
+        "text_alignment": "bottom",
+        "drag_position": 50,
+        "bg_color": "",
+        "title_color": "#000000",
+        "description_color": "#000000",
+        "before_text_color": "#000000",
+        "after_text_color": "#000000",
+        "drag_bg_color": "#ffffff",
+        "drag_text_color": "#000000",
+        "section_border_color": "#000000",
+        "section_visibility": "always",
+        "top_space_desktop": 40,
+        "bottom_space_desktop": 40,
+        "top_space_mobile": 30,
+        "bottom_space_mobile": 30
+      }
     }
   },
   "order": [
@@ -516,6 +730,8 @@
     "promotion_banner_LiyC3T",
     "split_banner_ynGqX3",
     "video_section_3CUTaE",
-    "tabbed_collage_aq9WXt"
+    "tabbed_collage_aq9WXt",
+    "media_grid_Q6xE8z",
+    "before_after_image_nFzzic"
   ]
 }
