@@ -17,106 +17,22 @@
           "settings": {
             "image": "shopify://shop_images/Banner.webp",
             "videofile": "",
-            "banner_subtitle": "✺ Beauty Starts Here",
+            "banner_subtitle": "",
             "glass_effect": true,
-            "banner_title": "Lorem Ipsum",
+            "banner_title": "About Us",
             "seo_heading": "h2",
-            "banner_desc": "Banner Description Here",
+            "banner_desc": "",
             "description_size": "text-medium",
             "desktop_title_size": 70,
             "mobile_title_size": 36,
             "button_size": "large",
             "mobile_button_size": "m-med",
-            "button_text": "Shop Now",
-            "button_link": "shopify://collections/all",
+            "button_text": "",
+            "button_link": "",
             "button_text2": "",
             "button_link2": "",
             "button2_alternate": true,
-            "desktop_content_position": "d-center-left",
-            "mobile_content_position": "m-center",
-            "title_color": "#ffffff",
-            "subtitle_color": "#ffffff",
-            "subtitle_bgcolor": "#dcdcdc",
-            "desc_color": "#ffffff",
-            "btn_bg": "#893347",
-            "btn_text": "#ffffff",
-            "btn_border": "#893347",
-            "overlay_color": "",
-            "overlay_opacity": 50,
-            "title_color_m": "#ffffff",
-            "subtitle_color_m": "#000000",
-            "subtitle_bgcolor_m": "#dcdcdc",
-            "desc_color_m": "#ffffff",
-            "btn_bg_m": "#ffffff",
-            "btn_text_m": "#000000",
-            "btn_border_m": "#ffffff",
-            "overlay_color_m": "",
-            "overlay_opacity_m": 50
-          }
-        },
-        "slide_UazNF8": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Banner_3_faaa427c-b3e7-4f41-a3a6-2606a1ea8309.webp",
-            "videofile": "",
-            "banner_subtitle": "✺ Beauty Starts Here",
-            "glass_effect": true,
-            "banner_title": "Lorem Ipsum",
-            "seo_heading": "h2",
-            "banner_desc": "Banner Description Here",
-            "description_size": "text-medium",
-            "desktop_title_size": 70,
-            "mobile_title_size": 36,
-            "button_size": "large",
-            "mobile_button_size": "m-med",
-            "button_text": "Shop Now",
-            "button_link": "shopify://collections/all",
-            "button_text2": "",
-            "button_link2": "",
-            "button2_alternate": true,
-            "desktop_content_position": "d-center-left",
-            "mobile_content_position": "m-center",
-            "title_color": "#ffffff",
-            "subtitle_color": "#ffffff",
-            "subtitle_bgcolor": "#dcdcdc",
-            "desc_color": "#ffffff",
-            "btn_bg": "#893347",
-            "btn_text": "#ffffff",
-            "btn_border": "#893347",
-            "overlay_color": "",
-            "overlay_opacity": 50,
-            "title_color_m": "#ffffff",
-            "subtitle_color_m": "#000000",
-            "subtitle_bgcolor_m": "#dcdcdc",
-            "desc_color_m": "#ffffff",
-            "btn_bg_m": "#ffffff",
-            "btn_text_m": "#000000",
-            "btn_border_m": "#ffffff",
-            "overlay_color_m": "",
-            "overlay_opacity_m": 50
-          }
-        },
-        "slide_aWU3cP": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Banner_2_12022879-fdd8-404d-81da-7bd58b8c50ca.webp",
-            "videofile": "",
-            "banner_subtitle": "✺ Beauty Starts Here",
-            "glass_effect": true,
-            "banner_title": "Lorem Ipsum",
-            "seo_heading": "h2",
-            "banner_desc": "Banner Description Here",
-            "description_size": "text-medium",
-            "desktop_title_size": 70,
-            "mobile_title_size": 36,
-            "button_size": "large",
-            "mobile_button_size": "m-med",
-            "button_text": "Shop Now",
-            "button_link": "shopify://collections/all",
-            "button_text2": "",
-            "button_link2": "",
-            "button2_alternate": true,
-            "desktop_content_position": "d-center-left",
+            "desktop_content_position": "d-center",
             "mobile_content_position": "m-center",
             "title_color": "#ffffff",
             "subtitle_color": "#ffffff",
@@ -140,9 +56,7 @@
         }
       },
       "block_order": [
-        "slide_ammkR9",
-        "slide_UazNF8",
-        "slide_aWU3cP"
+        "slide_ammkR9"
       ],
       "settings": {
         "nav_style": "dots-bottom-right",
@@ -154,13 +68,56 @@
         "bgcolor": "primary"
       }
     },
+    "multi_image_with_text_BFYNna": {
+      "type": "multi-image-with-text",
+      "blocks": {
+        "heading_MHiUdR": {
+          "type": "heading",
+          "settings": {
+            "heading": "Spirèlle Beauty Care",
+            "highlight_font": "body",
+            "seo_heading": "h2",
+            "heading_size": "h2"
+          }
+        },
+        "image_fL9PrQ": {
+          "type": "image",
+          "settings": {
+            "image_shadow": true,
+            "bgcolor": "primary",
+            "image_shadow_color": "#ffd1d1"
+          }
+        },
+        "text_49XzQ6": {
+          "type": "text",
+          "settings": {
+            "content": "<p>Hey there, gorgeous! Welcome to Spirèlle, where glowing skin, pure passion, and trusted care come together in perfect harmony!</p><p>At Spirèlle, we’re more than a skincare brand, we’re your partner in confidence, self-care, and lasting beauty. Every product we create is a reflection of our passion for quality, our dedication to your skin’s health, and our commitment to earning your trust.</p><p>We don’t just sell skincare, we create experiences. From the moment you open a Spirèlle bottle, you’ll notice the difference, luxurious textures, beautiful fragrances, and results that speak for themselves. Our mission is to become your go-to brand, the one you choose again and again because it works, feels special, and fits beautifully into your lifestyle.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MHiUdR",
+        "image_fL9PrQ",
+        "text_49XzQ6"
+      ],
+      "name": "t:sections.multi-image-with-text.presets.name",
+      "settings": {
+        "text_alignment": "center",
+        "section_visibility": "always",
+        "bgcolor": "primary",
+        "top_space_desktop": 30,
+        "bottom_space_desktop": 30,
+        "top_space_mobile": 30,
+        "bottom_space_mobile": 30
+      }
+    },
     "57a0ac3d-0018-449d-b5d4-2b42fdc08019": {
       "type": "image-with-text",
       "blocks": {
         "template--16809124135205__57a0ac3d-0018-449d-b5d4-2b42fdc08019-1667815190820c6958-0": {
           "type": "heading",
           "settings": {
-            "heading": "Spirèlle Beauty Care",
+            "heading": "Our Mission",
             "highlight_font": "body",
             "heading_size": "h2",
             "seo_heading": "h2"
@@ -169,7 +126,7 @@
         "text_73BhHB": {
           "type": "text",
           "settings": {
-            "content": "<p>To provide clients insight into your brand, pair words with any image. Here you can tell a narrative, explain a product feature, or introduce a new campaign.</p>"
+            "content": "<p>At <strong>Spirèlle</strong>, our mission is to inspire confidence and self-love through luxurious, science-backed skincare crafted with nature’s finest ingredients. We believe in the power of natural beauty, which is why we carefully select <strong>natural-based</strong>, high-quality ingredients that are both gentle and effective. Every product is designed to not only nourish your skin but also elevate your daily rituals into moments of elegance and self-care. Above all, we are dedicated to earning your trustthrough transparency, purity, and results you can truly feel.</p>"
           }
         }
       },
@@ -203,38 +160,92 @@
         "bottom_space_mobile": 30
       }
     },
-    "93002ef3-b657-4003-9d3b-e93778e59dcb": {
-      "type": "video-section",
+    "1150b3e1-1567-48c0-b405-dac1b7cc9699": {
+      "type": "rotating-text",
       "settings": {
-        "container_width": "global",
-        "videofile": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "fullwidth": true,
-        "desktop_height": 500,
-        "mobile_height": 350,
-        "autoplay": false,
-        "video_size": "cover",
-        "bg_pattern": "none",
-        "title": "Video Banner Heading Here",
-        "highlight_font": "body",
-        "seo_heading": "h2",
-        "subtitle": "Video Banner Sub Heading Here",
-        "subtitle_text_size": "text",
-        "button_text": "Shop Now",
-        "button_link": "shopify://collections/all",
-        "button_size": "small",
-        "mobile_button_size": "m-small",
-        "overlay_content": true,
-        "sticky_text": false,
-        "bgcolor": "primary",
-        "title_color": "#000000",
-        "subtitle_color": "#000000",
-        "btn_color": "#000000",
-        "overlay_color": "#ffffff",
-        "text_gradient_color": "#fae9cb",
-        "overlay_opacity": 36,
+        "text1": "<p><strong>GLOW</strong> YOUR SKIN</p>",
+        "desktop_text_gap": 17,
+        "mobile_text_gap": 17,
+        "text2": "",
+        "desktop_subtext_gap": 17,
+        "mobile_subtext_gap": 17,
+        "rotating_text_style": "vertical",
+        "pause_on_hover": false,
+        "row1_font_family": "--font-family",
+        "row2_font_family": "--font-family",
+        "row1_direction": "left",
+        "row2_direction": "right",
+        "heading_font_size": 46,
+        "subheading_font_size": 24,
+        "heading_font_size_m": 18,
+        "subheading_font_size_m": 16,
+        "section_border": true,
+        "section_border_bottom": true,
+        "border_width": "2px",
+        "border_style": "solid",
+        "background_opacity": 50,
+        "min_height_desktop": 400,
+        "min_height_mobile": 200,
+        "bgcolor": "#ffffff",
+        "bg_gradient_color": "",
+        "text1color": "#000000",
+        "outlinetext1color": "#000000",
+        "text2color": "#a56748",
+        "outlinetext2color": "#a56748",
+        "background_overlay": "#000000",
+        "border_color": "#000000",
         "section_visibility": "always",
-        "top_space_desktop": 60,
-        "bottom_space_desktop": 60,
+        "top_space_desktop": 10,
+        "bottom_space_desktop": 10,
+        "top_space_mobile": 15,
+        "bottom_space_mobile": 15
+      }
+    },
+    "image_with_text_NdEFXK": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_XQg8NK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Vision",
+            "highlight_font": "body",
+            "heading_size": "h2",
+            "seo_heading": "h2"
+          }
+        },
+        "text_VgkJk7": {
+          "type": "text",
+          "settings": {
+            "content": "<p><strong>Spirèlle</strong> is redefining what skincare means, turning everyday care into a refined, transformative experience. We are driven by a vision to lead the beauty industry with integrity, innovation, and a deep commitment to natural excellence. Our aim is to build lasting trust and inspire a global community to embrace self-love through clean, effective, and elegant skincare solutions. Inspired by the natural richness of Lebanon, we’re committed to taking Spirèlle beyond borders, showing the world the high quality and care that Lebanese skincare can offer.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_XQg8NK",
+        "text_VgkJk7"
+      ],
+      "settings": {
+        "enable_fullwidth": false,
+        "enable_top_border": false,
+        "enable_bottom_border": false,
+        "border_style": "solid",
+        "image_shadow": true,
+        "enable_image_animation": true,
+        "image_alignment": "right",
+        "image_height": "aspect",
+        "show_icon_on_image": false,
+        "icon": "snail",
+        "left_to_right": 50,
+        "top_to_bottom": 50,
+        "mobile_left_to_right": 50,
+        "mobile_top_to_bottom": 50,
+        "icon_animated_color": "#000000",
+        "content_position": "center",
+        "bgcolor": "primary",
+        "image_shadow_color": "#ffd1d1",
+        "section_visibility": "always",
+        "top_space_desktop": 50,
+        "bottom_space_desktop": 50,
         "top_space_mobile": 30,
         "bottom_space_mobile": 30
       }
@@ -245,8 +256,8 @@
         "template--16809124135205__8bce3833-93d0-4d63-977e-1fb74bd00e34-16678153947e06f808-0": {
           "type": "richtext",
           "settings": {
-            "heading": "Rich text",
-            "highlight_font": "body",
+            "heading": "Who is behind <strong>Spirèlle</strong>",
+            "highlight_font": "accent",
             "seo_heading": "h2",
             "size": "h2",
             "content": "<p>Use this section to welcome customers to your store, say a bit about your brand, or share news and seasonal promotions.</p>"
@@ -381,47 +392,6 @@
         "bottom_space_mobile": 0
       }
     },
-    "1150b3e1-1567-48c0-b405-dac1b7cc9699": {
-      "type": "rotating-text",
-      "settings": {
-        "text1": "<p>Add promotional text here</p>",
-        "desktop_text_gap": 17,
-        "mobile_text_gap": 17,
-        "text2": "",
-        "desktop_subtext_gap": 17,
-        "mobile_subtext_gap": 17,
-        "rotating_text_style": "vertical",
-        "pause_on_hover": false,
-        "row1_font_family": "--font-family",
-        "row2_font_family": "--font-family",
-        "row1_direction": "left",
-        "row2_direction": "right",
-        "heading_font_size": 90,
-        "subheading_font_size": 24,
-        "heading_font_size_m": 18,
-        "subheading_font_size_m": 16,
-        "section_border": false,
-        "section_border_bottom": true,
-        "border_width": "2px",
-        "border_style": "solid",
-        "background_opacity": 50,
-        "min_height_desktop": 400,
-        "min_height_mobile": 200,
-        "bgcolor": "#ffffff",
-        "bg_gradient_color": "",
-        "text1color": "#000000",
-        "outlinetext1color": "#000000",
-        "text2color": "#a56748",
-        "outlinetext2color": "#a56748",
-        "background_overlay": "#000000",
-        "border_color": "#000000",
-        "section_visibility": "always",
-        "top_space_desktop": 10,
-        "bottom_space_desktop": 10,
-        "top_space_mobile": 15,
-        "bottom_space_mobile": 15
-      }
-    },
     "ff015715-0609-4147-9635-c7aeb0b715c5": {
       "type": "multi-image-with-text",
       "blocks": {
@@ -463,94 +433,16 @@
         "top_space_mobile": 15,
         "bottom_space_mobile": 30
       }
-    },
-    "b5e68c3d-39d8-4c4d-b1d7-08a20f698123": {
-      "type": "text-with-icons",
-      "blocks": {
-        "template--16809124135205__b5e68c3d-39d8-4c4d-b1d7-08a20f698123-16678156452c1b3b7e-0": {
-          "type": "column",
-          "settings": {
-            "icon": "shipping",
-            "heading": "Add Heading here",
-            "seo_heading": "h2",
-            "size": "text-medium",
-            "subtext": "Add subtext here"
-          }
-        },
-        "template--16809124135205__b5e68c3d-39d8-4c4d-b1d7-08a20f698123-16678156452c1b3b7e-1": {
-          "type": "column",
-          "settings": {
-            "icon": "shipping",
-            "heading": "Add Heading here",
-            "seo_heading": "h2",
-            "size": "text-medium",
-            "subtext": "Add subtext here"
-          }
-        },
-        "template--16809124135205__b5e68c3d-39d8-4c4d-b1d7-08a20f698123-16678156452c1b3b7e-2": {
-          "type": "column",
-          "settings": {
-            "icon": "shipping",
-            "heading": "Add Heading here",
-            "seo_heading": "h2",
-            "size": "text-medium",
-            "subtext": "Add subtext here"
-          }
-        },
-        "template--16809124135205__b5e68c3d-39d8-4c4d-b1d7-08a20f698123-16678156452c1b3b7e-3": {
-          "type": "column",
-          "settings": {
-            "icon": "shipping",
-            "heading": "Add Heading here",
-            "seo_heading": "h2",
-            "size": "text-medium",
-            "subtext": "Add subtext here"
-          }
-        }
-      },
-      "block_order": [
-        "template--16809124135205__b5e68c3d-39d8-4c4d-b1d7-08a20f698123-16678156452c1b3b7e-0",
-        "template--16809124135205__b5e68c3d-39d8-4c4d-b1d7-08a20f698123-16678156452c1b3b7e-1",
-        "template--16809124135205__b5e68c3d-39d8-4c4d-b1d7-08a20f698123-16678156452c1b3b7e-2",
-        "template--16809124135205__b5e68c3d-39d8-4c4d-b1d7-08a20f698123-16678156452c1b3b7e-3"
-      ],
-      "settings": {
-        "container_width": false,
-        "enable_top_border": false,
-        "enable_bottom_border": false,
-        "section_border_style": "solid",
-        "column_background": false,
-        "mobile_column_count": "1",
-        "alignment": "center",
-        "icon_content_space_desktop": 15,
-        "icon_content_space_mobile": 15,
-        "enable_border": false,
-        "border_style": "dashed",
-        "column_radius_desktop": 10,
-        "column_radius_mobile": 10,
-        "icon_background": false,
-        "icon_position": "top",
-        "bgcolor": "secondary",
-        "column_background_color": "",
-        "icon_color": "#000000",
-        "icon_background_color": "",
-        "border_color": "#000000",
-        "section_visibility": "always",
-        "top_space_desktop": 30,
-        "bottom_space_desktop": 30,
-        "top_space_mobile": 30,
-        "bottom_space_mobile": 30
-      }
     }
   },
   "order": [
     "slider_nTmbcG",
+    "multi_image_with_text_BFYNna",
     "57a0ac3d-0018-449d-b5d4-2b42fdc08019",
-    "93002ef3-b657-4003-9d3b-e93778e59dcb",
+    "1150b3e1-1567-48c0-b405-dac1b7cc9699",
+    "image_with_text_NdEFXK",
     "8bce3833-93d0-4d63-977e-1fb74bd00e34",
     "6da6aceb-86b2-4c44-b1fd-8d044a9ca4bc",
-    "1150b3e1-1567-48c0-b405-dac1b7cc9699",
-    "ff015715-0609-4147-9635-c7aeb0b715c5",
-    "b5e68c3d-39d8-4c4d-b1d7-08a20f698123"
+    "ff015715-0609-4147-9635-c7aeb0b715c5"
   ]
 }
