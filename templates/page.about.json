@@ -1,13 +1,208 @@
-
- {
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+        "seo_heading": "h2",
         "banner_height_desktop": "auto",
         "banner_height_mobile": "auto",
-        "bgcolor": "#f3efec",
+        "bgcolor": "#ffd1d1",
         "textcolor": "#000000"
+      }
+    },
+    "slider_t4JzV9": {
+      "type": "slider",
+      "blocks": {
+        "slide_Twnweq": {
+          "type": "slide",
+          "settings": {
+            "videofile": "",
+            "banner_subtitle": "Banner Sub Heading Here",
+            "glass_effect": false,
+            "banner_title": "Banner Heading Here",
+            "seo_heading": "h2",
+            "banner_desc": "Banner Description Here",
+            "description_size": "text",
+            "desktop_title_size": 70,
+            "mobile_title_size": 36,
+            "button_size": "large",
+            "mobile_button_size": "m-med",
+            "button_text": "Shop Now",
+            "button_link": "shopify://collections/all",
+            "button_text2": "",
+            "button_link2": "",
+            "button2_alternate": true,
+            "desktop_content_position": "d-center",
+            "mobile_content_position": "m-center",
+            "title_color": "#000000",
+            "subtitle_color": "#000000",
+            "subtitle_bgcolor": "#DCDCDC",
+            "desc_color": "#000000",
+            "btn_bg": "#000000",
+            "btn_text": "#ffffff",
+            "btn_border": "#000000",
+            "overlay_color": "",
+            "overlay_opacity": 50,
+            "title_color_m": "#ffffff",
+            "subtitle_color_m": "#000000",
+            "subtitle_bgcolor_m": "#DCDCDC",
+            "desc_color_m": "#ffffff",
+            "btn_bg_m": "#ffffff",
+            "btn_text_m": "#000000",
+            "btn_border_m": "#ffffff",
+            "overlay_color_m": "",
+            "overlay_opacity_m": 50
+          }
+        },
+        "slide_mzqeid": {
+          "type": "slide",
+          "settings": {
+            "videofile": "",
+            "banner_subtitle": "Banner Sub Heading Here",
+            "glass_effect": false,
+            "banner_title": "Banner Heading Here",
+            "seo_heading": "h2",
+            "banner_desc": "Banner Description Here",
+            "description_size": "text",
+            "desktop_title_size": 70,
+            "mobile_title_size": 36,
+            "button_size": "large",
+            "mobile_button_size": "m-med",
+            "button_text": "Shop Now",
+            "button_link": "shopify://collections/all",
+            "button_text2": "",
+            "button_link2": "",
+            "button2_alternate": true,
+            "desktop_content_position": "d-center",
+            "mobile_content_position": "m-center",
+            "title_color": "#000000",
+            "subtitle_color": "#000000",
+            "subtitle_bgcolor": "#DCDCDC",
+            "desc_color": "#000000",
+            "btn_bg": "#000000",
+            "btn_text": "#ffffff",
+            "btn_border": "#000000",
+            "overlay_color": "",
+            "overlay_opacity": 50,
+            "title_color_m": "#ffffff",
+            "subtitle_color_m": "#000000",
+            "subtitle_bgcolor_m": "#DCDCDC",
+            "desc_color_m": "#ffffff",
+            "btn_bg_m": "#ffffff",
+            "btn_text_m": "#000000",
+            "btn_border_m": "#ffffff",
+            "overlay_color_m": "",
+            "overlay_opacity_m": 50
+          }
+        },
+        "slide_Cz9Qc4": {
+          "type": "slide",
+          "settings": {
+            "videofile": "",
+            "banner_subtitle": "Banner Sub Heading Here",
+            "glass_effect": false,
+            "banner_title": "Banner Heading Here",
+            "seo_heading": "h2",
+            "banner_desc": "Banner Description Here",
+            "description_size": "text",
+            "desktop_title_size": 70,
+            "mobile_title_size": 36,
+            "button_size": "large",
+            "mobile_button_size": "m-med",
+            "button_text": "Shop Now",
+            "button_link": "shopify://collections/all",
+            "button_text2": "",
+            "button_link2": "",
+            "button2_alternate": true,
+            "desktop_content_position": "d-center",
+            "mobile_content_position": "m-center",
+            "title_color": "#000000",
+            "subtitle_color": "#000000",
+            "subtitle_bgcolor": "#DCDCDC",
+            "desc_color": "#000000",
+            "btn_bg": "#000000",
+            "btn_text": "#ffffff",
+            "btn_border": "#000000",
+            "overlay_color": "",
+            "overlay_opacity": 50,
+            "title_color_m": "#ffffff",
+            "subtitle_color_m": "#000000",
+            "subtitle_bgcolor_m": "#DCDCDC",
+            "desc_color_m": "#ffffff",
+            "btn_bg_m": "#ffffff",
+            "btn_text_m": "#000000",
+            "btn_border_m": "#ffffff",
+            "overlay_color_m": "",
+            "overlay_opacity_m": 50
+          }
+        },
+        "slide_dRdxcm": {
+          "type": "slide",
+          "settings": {
+            "videofile": "",
+            "banner_subtitle": "Banner Sub Heading Here",
+            "glass_effect": false,
+            "banner_title": "Banner Heading Here",
+            "seo_heading": "h2",
+            "banner_desc": "Banner Description Here",
+            "description_size": "text",
+            "desktop_title_size": 70,
+            "mobile_title_size": 36,
+            "button_size": "large",
+            "mobile_button_size": "m-med",
+            "button_text": "Shop Now",
+            "button_link": "shopify://collections/all",
+            "button_text2": "",
+            "button_link2": "",
+            "button2_alternate": true,
+            "desktop_content_position": "d-center",
+            "mobile_content_position": "m-center",
+            "title_color": "#000000",
+            "subtitle_color": "#000000",
+            "subtitle_bgcolor": "#DCDCDC",
+            "desc_color": "#000000",
+            "btn_bg": "#000000",
+            "btn_text": "#ffffff",
+            "btn_border": "#000000",
+            "overlay_color": "",
+            "overlay_opacity": 50,
+            "title_color_m": "#ffffff",
+            "subtitle_color_m": "#000000",
+            "subtitle_bgcolor_m": "#DCDCDC",
+            "desc_color_m": "#ffffff",
+            "btn_bg_m": "#ffffff",
+            "btn_text_m": "#000000",
+            "btn_border_m": "#ffffff",
+            "overlay_color_m": "",
+            "overlay_opacity_m": 50
+          }
+        }
+      },
+      "block_order": [
+        "slide_Twnweq",
+        "slide_mzqeid",
+        "slide_Cz9Qc4",
+        "slide_dRdxcm"
+      ],
+      "name": "t:sections.slider.presets.name",
+      "settings": {
+        "nav_style": "dots-center-right",
+        "content_below_image": false,
+        "rotate": false,
+        "interval": 5,
+        "desktop_height": "750px",
+        "mobile_height": "550px",
+        "bgcolor": "primary"
       }
     },
     "57a0ac3d-0018-449d-b5d4-2b42fdc08019": {
@@ -16,36 +211,43 @@
         "template--16809124135205__57a0ac3d-0018-449d-b5d4-2b42fdc08019-1667815190820c6958-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": "Spirèlle Beauty Care",
+            "highlight_font": "body",
+            "heading_size": "h2",
+            "seo_heading": "h2"
           }
         },
-        "template--16809124135205__57a0ac3d-0018-449d-b5d4-2b42fdc08019-1667815190820c6958-1": {
-          "type": "icon-with-text",
+        "text_73BhHB": {
+          "type": "text",
           "settings": {
-            "icon": "shipping",
-            "heading": "Icon with text",
-            "content": "<p>To provide clients insight into your brand, pair words with any image to introduce a new campaign.</p>"
-          }
-        },
-        "template--16809124135205__57a0ac3d-0018-449d-b5d4-2b42fdc08019-1667815190820c6958-2": {
-          "type": "icon-with-text",
-          "settings": {
-            "icon": "shipping",
-            "heading": "Icon with text",
-            "content": "<p>To provide clients insight into your brand, pair words with any image to introduce a new campaign.</p>"
+            "content": "<p>To provide clients insight into your brand, pair words with any image. Here you can tell a narrative, explain a product feature, or introduce a new campaign.</p>"
           }
         }
       },
       "block_order": [
         "template--16809124135205__57a0ac3d-0018-449d-b5d4-2b42fdc08019-1667815190820c6958-0",
-        "template--16809124135205__57a0ac3d-0018-449d-b5d4-2b42fdc08019-1667815190820c6958-1",
-        "template--16809124135205__57a0ac3d-0018-449d-b5d4-2b42fdc08019-1667815190820c6958-2"
+        "text_73BhHB"
       ],
       "settings": {
+        "enable_fullwidth": false,
+        "enable_top_border": false,
+        "enable_bottom_border": false,
+        "border_style": "solid",
         "image_shadow": true,
+        "enable_image_animation": true,
         "image_alignment": "left",
+        "image_height": "aspect",
+        "show_icon_on_image": false,
+        "icon": "snail",
+        "left_to_right": 50,
+        "top_to_bottom": 50,
+        "mobile_left_to_right": 50,
+        "mobile_top_to_bottom": 50,
+        "icon_animated_color": "#000000",
+        "content_position": "center",
         "bgcolor": "primary",
-        "image_shadow_color": "#ede6e0",
+        "image_shadow_color": "#ffd1d1",
+        "section_visibility": "always",
         "top_space_desktop": 50,
         "bottom_space_desktop": 50,
         "top_space_mobile": 30,
@@ -55,20 +257,37 @@
     "93002ef3-b657-4003-9d3b-e93778e59dcb": {
       "type": "video-section",
       "settings": {
+        "container_width": "global",
         "videofile": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "fullwidth": true,
         "desktop_height": 500,
         "mobile_height": 350,
         "autoplay": false,
+        "video_size": "cover",
         "bg_pattern": "none",
         "title": "Video Banner Heading Here",
+        "highlight_font": "body",
+        "seo_heading": "h2",
         "subtitle": "Video Banner Sub Heading Here",
+        "subtitle_text_size": "text",
+        "button_text": "Shop Now",
+        "button_link": "shopify://collections/all",
+        "button_size": "small",
+        "mobile_button_size": "m-small",
         "overlay_content": true,
+        "sticky_text": false,
+        "bgcolor": "primary",
         "title_color": "#000000",
         "subtitle_color": "#000000",
         "btn_color": "#000000",
         "overlay_color": "#ffffff",
-        "overlay_opacity": 36
+        "text_gradient_color": "#fae9cb",
+        "overlay_opacity": 36,
+        "section_visibility": "always",
+        "top_space_desktop": 60,
+        "bottom_space_desktop": 60,
+        "top_space_mobile": 30,
+        "bottom_space_mobile": 30
       }
     },
     "8bce3833-93d0-4d63-977e-1fb74bd00e34": {
@@ -78,6 +297,9 @@
           "type": "richtext",
           "settings": {
             "heading": "Rich text",
+            "highlight_font": "body",
+            "seo_heading": "h2",
+            "size": "h2",
             "content": "<p>Use this section to welcome customers to your store, say a bit about your brand, or share news and seasonal promotions.</p>"
           }
         }
@@ -86,8 +308,10 @@
         "template--16809124135205__8bce3833-93d0-4d63-977e-1fb74bd00e34-16678153947e06f808-0"
       ],
       "settings": {
+        "content_width": "container sm-container",
         "content_alignment": "center",
         "bgcolor": "primary",
+        "section_visibility": "always",
         "top_space_desktop": 30,
         "bottom_space_desktop": 0,
         "top_space_mobile": 30,
@@ -102,14 +326,24 @@
           "settings": {
             "image_width": "col-md-4",
             "heading": "Heading",
+            "seo_heading": "h2",
+            "enable_text_shadow": false,
             "subheading": "Sub heading",
             "link": "",
             "btn_text": "",
+            "outline_button": false,
+            "heading_size": "h2",
+            "button_size": "xsmall",
+            "content_width": "medium",
+            "heading_size_m": "h2",
+            "button_size_m": "m-xsmall",
+            "content_width_m": "medium",
             "overlayopacity": 0,
             "desktop_content_position": "d-center",
             "mobile_content_position": "m-center",
             "overlaycolor": "rgba(0,0,0,0)",
             "textcolor": "#000000",
+            "text_shadow_color": "#000000",
             "button_text_color": "#ffffff",
             "button_bg_color": "#000000",
             "button_border_color": "#000000"
@@ -120,14 +354,24 @@
           "settings": {
             "image_width": "col-md-4",
             "heading": "Heading",
+            "seo_heading": "h2",
+            "enable_text_shadow": false,
             "subheading": "Sub heading",
             "link": "",
             "btn_text": "",
+            "outline_button": false,
+            "heading_size": "h2",
+            "button_size": "xsmall",
+            "content_width": "medium",
+            "heading_size_m": "h2",
+            "button_size_m": "m-xsmall",
+            "content_width_m": "medium",
             "overlayopacity": 0,
             "desktop_content_position": "d-center",
             "mobile_content_position": "m-center",
             "overlaycolor": "rgba(0,0,0,0)",
             "textcolor": "#000000",
+            "text_shadow_color": "#000000",
             "button_text_color": "#ffffff",
             "button_bg_color": "#000000",
             "button_border_color": "#000000"
@@ -138,14 +382,24 @@
           "settings": {
             "image_width": "col-md-4",
             "heading": "Heading",
+            "seo_heading": "h2",
+            "enable_text_shadow": false,
             "subheading": "Sub heading",
             "link": "",
             "btn_text": "",
+            "outline_button": false,
+            "heading_size": "h2",
+            "button_size": "xsmall",
+            "content_width": "medium",
+            "heading_size_m": "h2",
+            "button_size_m": "m-xsmall",
+            "content_width_m": "medium",
             "overlayopacity": 0,
             "desktop_content_position": "d-center",
             "mobile_content_position": "m-center",
             "overlaycolor": "rgba(0,0,0,0)",
             "textcolor": "#000000",
+            "text_shadow_color": "#000000",
             "button_text_color": "#ffffff",
             "button_bg_color": "#000000",
             "button_border_color": "#000000"
@@ -159,11 +413,19 @@
       ],
       "settings": {
         "enable_fullwidth": false,
+        "enable_swipe": true,
         "image_layout": "rounded",
+        "enable_image_animation": true,
+        "enable_hover_effect": false,
+        "image_radius_desktop": 10,
+        "image_radius_mobile": 10,
         "heading_size": "h2",
         "button_size": "xsmall",
         "space_in_images": true,
+        "image_spacing_desktop": 10,
+        "image_spacing_mobile": 10,
         "bgcolor": "primary",
+        "section_visibility": "always",
         "top_space_desktop": 0,
         "bottom_space_desktop": 0,
         "top_space_mobile": 0,
@@ -174,20 +436,37 @@
       "type": "rotating-text",
       "settings": {
         "text1": "<p>Add promotional text here</p>",
+        "desktop_text_gap": 17,
+        "mobile_text_gap": 17,
         "text2": "",
+        "desktop_subtext_gap": 17,
+        "mobile_subtext_gap": 17,
+        "rotating_text_style": "vertical",
+        "pause_on_hover": false,
         "row1_font_family": "--font-family",
         "row2_font_family": "--font-family",
         "row1_direction": "left",
         "row2_direction": "right",
         "heading_font_size": 90,
         "subheading_font_size": 24,
+        "heading_font_size_m": 18,
+        "subheading_font_size_m": 16,
         "section_border": false,
+        "section_border_bottom": true,
+        "border_width": "2px",
+        "border_style": "solid",
+        "background_opacity": 50,
+        "min_height_desktop": 400,
+        "min_height_mobile": 200,
         "bgcolor": "#ffffff",
         "bg_gradient_color": "",
         "text1color": "#000000",
         "outlinetext1color": "#000000",
-        "text2color": "#A56748",
-        "outlinetext2color": "#A56748",
+        "text2color": "#a56748",
+        "outlinetext2color": "#a56748",
+        "background_overlay": "#000000",
+        "border_color": "#000000",
+        "section_visibility": "always",
         "top_space_desktop": 10,
         "bottom_space_desktop": 10,
         "top_space_mobile": 15,
@@ -200,7 +479,10 @@
         "template--16809124135205__ff015715-0609-4147-9635-c7aeb0b715c5-166781556393cfaa7c-0": {
           "type": "heading",
           "settings": {
-            "heading": "Multi image with text"
+            "heading": "Multi image with text",
+            "highlight_font": "body",
+            "seo_heading": "h2",
+            "heading_size": "h2"
           }
         },
         "template--16809124135205__ff015715-0609-4147-9635-c7aeb0b715c5-166781556393cfaa7c-1": {
@@ -224,6 +506,9 @@
         "template--16809124135205__ff015715-0609-4147-9635-c7aeb0b715c5-166781556393cfaa7c-2"
       ],
       "settings": {
+        "text_alignment": "left",
+        "section_visibility": "always",
+        "bgcolor": "primary",
         "top_space_desktop": 40,
         "bottom_space_desktop": 40,
         "top_space_mobile": 15,
@@ -237,28 +522,40 @@
           "type": "column",
           "settings": {
             "icon": "shipping",
-            "heading": "Add Heading here"
+            "heading": "Add Heading here",
+            "seo_heading": "h2",
+            "size": "text-medium",
+            "subtext": "Add subtext here"
           }
         },
         "template--16809124135205__b5e68c3d-39d8-4c4d-b1d7-08a20f698123-16678156452c1b3b7e-1": {
           "type": "column",
           "settings": {
             "icon": "shipping",
-            "heading": "Add Heading here"
+            "heading": "Add Heading here",
+            "seo_heading": "h2",
+            "size": "text-medium",
+            "subtext": "Add subtext here"
           }
         },
         "template--16809124135205__b5e68c3d-39d8-4c4d-b1d7-08a20f698123-16678156452c1b3b7e-2": {
           "type": "column",
           "settings": {
             "icon": "shipping",
-            "heading": "Add Heading here"
+            "heading": "Add Heading here",
+            "seo_heading": "h2",
+            "size": "text-medium",
+            "subtext": "Add subtext here"
           }
         },
         "template--16809124135205__b5e68c3d-39d8-4c4d-b1d7-08a20f698123-16678156452c1b3b7e-3": {
           "type": "column",
           "settings": {
             "icon": "shipping",
-            "heading": "Add Heading here"
+            "heading": "Add Heading here",
+            "seo_heading": "h2",
+            "size": "text-medium",
+            "subtext": "Add subtext here"
           }
         }
       },
@@ -269,7 +566,27 @@
         "template--16809124135205__b5e68c3d-39d8-4c4d-b1d7-08a20f698123-16678156452c1b3b7e-3"
       ],
       "settings": {
+        "container_width": false,
+        "enable_top_border": false,
+        "enable_bottom_border": false,
+        "section_border_style": "solid",
+        "column_background": false,
+        "mobile_column_count": "1",
+        "alignment": "center",
+        "icon_content_space_desktop": 15,
+        "icon_content_space_mobile": 15,
+        "enable_border": false,
+        "border_style": "dashed",
+        "column_radius_desktop": 10,
+        "column_radius_mobile": 10,
+        "icon_background": false,
+        "icon_position": "top",
         "bgcolor": "secondary",
+        "column_background_color": "",
+        "icon_color": "#000000",
+        "icon_background_color": "",
+        "border_color": "#000000",
+        "section_visibility": "always",
         "top_space_desktop": 30,
         "bottom_space_desktop": 30,
         "top_space_mobile": 30,
@@ -279,6 +596,7 @@
   },
   "order": [
     "main",
+    "slider_t4JzV9",
     "57a0ac3d-0018-449d-b5d4-2b42fdc08019",
     "93002ef3-b657-4003-9d3b-e93778e59dcb",
     "8bce3833-93d0-4d63-977e-1fb74bd00e34",
