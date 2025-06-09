@@ -364,8 +364,8 @@
         "autoplay": false,
         "video_size": "cover",
         "bg_pattern": "wave",
-        "title": "BIGGEST SALE OF THE YEAR! ++GET UP TO 70% OFF ON OUR BUNDLE",
-        "highlight_font": "body",
+        "title": "BIGGEST SALE OF THE [YEAR] ++GET UP TO [70% OFF] ON OUR BUNDLE",
+        "highlight_font": "accent",
         "seo_heading": "h1",
         "subtitle": "Enjoy our full bundle package right now",
         "subtitle_text_size": "text",
@@ -766,8 +766,8 @@
         "quote_amDbJX"
       ],
       "settings": {
-        "heading": "Our Happy Customers",
-        "highlight_font": "body",
+        "heading": "Our Happy <strong>Customers</strong>",
+        "highlight_font": "accent",
         "seo_heading": "h2",
         "heading_size": "h2",
         "description": "description here",
@@ -792,8 +792,8 @@
     "newsletter_qhayQM": {
       "type": "newsletter",
       "settings": {
-        "heading": "Join Our Newsletter",
-        "highlight_font": "body",
+        "heading": "Join Our <strong>Newsletter</strong>",
+        "highlight_font": "accent",
         "seo_heading": "h2",
         "description": "Sign up it only takes a second to be the news.",
         "placeholder": "Email Address",
@@ -803,6 +803,38 @@
         "button_bg_color": "#893347",
         "button_border_color": "#893347",
         "section_visibility": "always",
+        "top_space_desktop": 30,
+        "bottom_space_desktop": 30,
+        "top_space_mobile": 30,
+        "bottom_space_mobile": 30
+      }
+    },
+    "17494761109970625d": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_BiVBPL": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_BiVBPL"
+      ],
+      "settings": {
         "top_space_desktop": 30,
         "bottom_space_desktop": 30,
         "top_space_mobile": 30,
@@ -820,6 +852,7 @@
     "media_grid_Q6xE8z",
     "before_after_image_nFzzic",
     "testimonials_nXhRKw",
-    "newsletter_qhayQM"
+    "newsletter_qhayQM",
+    "17494761109970625d"
   ]
 }
