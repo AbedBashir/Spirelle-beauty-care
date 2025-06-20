@@ -55,6 +55,10 @@
             "sticky_add_to_cart": true,
             "sticky_add_to_cart_position": "top"
           }
+        },
+        "social_icons_4fwNP7": {
+          "type": "social-icons",
+          "settings": {}
         }
       },
       "block_order": [
@@ -64,11 +68,12 @@
         "5540566c-63cd-4a90-b9b6-7707e45d7066",
         "8658b9a0-c9c5-4055-a2e1-56a8f49d0b68",
         "811e6d87-a5e5-4457-9124-d3c2ed070ba9",
-        "16819786-9d1e-449d-966d-08d21e1c91af"
+        "16819786-9d1e-449d-966d-08d21e1c91af",
+        "social_icons_4fwNP7"
       ],
       "settings": {
         "gallery_style": "slider",
-        "show_description": true,
+        "show_description": false,
         "open_description_accordion": false,
         "show_variant-media": false,
         "enable_shipping_policy": false,
@@ -81,12 +86,29 @@
         "width": "half",
         "style": "accordion",
         "accordion_content_alignment": "left",
-        "content_heading": "",
-        "content": "Add Second tab description here.",
-        "content_heading2": "",
-        "content2": "",
+        "content_heading": "Ingredients",
+        "content": "{{ product.metafields.product.ingredients | metafield_tag }}",
+        "content_heading2": "Features & Benefits",
+        "content2": "{{ product.metafields.product.features_benefits | metafield_tag }}",
         "content_heading3": "",
         "content3": ""
+      }
+    },
+    "shapes_7Ba4wt": {
+      "type": "shapes",
+      "name": "t:sections.shapes.presets.name",
+      "settings": {
+        "select_shape": "shape4",
+        "image_fit": "cover",
+        "svg_code": "",
+        "flip_shape": true,
+        "enable_marquee": true,
+        "marquee_direction": "ltr",
+        "bgcolor": "primary",
+        "svg_color": "#893347",
+        "shape_ratio": "aspect",
+        "desktop_height": 200,
+        "mobile_height": 100
       }
     },
     "image_with_text_tAXXbQ": {
@@ -95,53 +117,42 @@
         "heading_UkbCD3": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "How To Use",
             "highlight_font": "body",
             "heading_size": "h2",
             "seo_heading": "h2"
           }
         },
-        "icon_with_text_EGh6r8": {
-          "type": "icon-with-text",
+        "text_Pdf8zF": {
+          "type": "text",
           "settings": {
-            "icon": "shipping",
-            "heading": "Icon with text",
-            "content": "<p>To provide clients insight into your brand, pair words with any image to introduce a new campaign.</p>"
-          }
-        },
-        "icon_with_text_apfYLr": {
-          "type": "icon-with-text",
-          "settings": {
-            "icon": "shipping",
-            "heading": "Icon with text",
-            "content": "<p>To provide clients insight into your brand, pair words with any image to introduce a new campaign.</p>"
+            "content": "{{ product.metafields.product.usage_instructions | metafield_tag }}"
           }
         }
       },
       "block_order": [
         "heading_UkbCD3",
-        "icon_with_text_EGh6r8",
-        "icon_with_text_apfYLr"
+        "text_Pdf8zF"
       ],
       "settings": {
         "enable_fullwidth": false,
         "enable_top_border": false,
         "enable_bottom_border": false,
         "border_style": "solid",
-        "image_shadow": false,
+        "image_shadow": true,
         "enable_image_animation": true,
         "image_alignment": "left",
         "image_height": "aspect",
-        "show_icon_on_image": false,
-        "icon": "snail",
-        "left_to_right": 50,
-        "top_to_bottom": 50,
-        "mobile_left_to_right": 50,
-        "mobile_top_to_bottom": 50,
+        "show_icon_on_image": true,
+        "icon": "sparkle",
+        "left_to_right": 90,
+        "top_to_bottom": 0,
+        "mobile_left_to_right": 70,
+        "mobile_top_to_bottom": 0,
         "icon_animated_color": "#000000",
         "content_position": "center",
-        "bgcolor": "secondary",
-        "image_shadow_color": "#dddddd",
+        "bgcolor": "primary",
+        "image_shadow_color": "#893347",
         "section_visibility": "always",
         "top_space_desktop": 60,
         "bottom_space_desktop": 30,
@@ -247,6 +258,7 @@
   },
   "order": [
     "main-product",
+    "shapes_7Ba4wt",
     "image_with_text_tAXXbQ",
     "product_recommendations",
     "166133727946ffaeaa"
