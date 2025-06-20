@@ -81,7 +81,7 @@
         "width": "half",
         "style": "accordion",
         "accordion_content_alignment": "left",
-        "content_heading": "Heading",
+        "content_heading": "",
         "content": "Add Second tab description here.",
         "content_heading2": "",
         "content2": "",
