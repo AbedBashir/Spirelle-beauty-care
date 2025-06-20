@@ -160,6 +160,40 @@
         "bottom_space_mobile": 30
       }
     },
+    "before_after_image_QLxBUb": {
+      "type": "before-after-image",
+      "name": "t:sections.before-after.presets.name",
+      "settings": {
+        "container_width": "small",
+        "fullwidth": true,
+        "enable_top_border": false,
+        "enable_bottom_border": false,
+        "border_style": "solid",
+        "title": "Our Products Never <strong>Lies</strong>",
+        "highlight_font": "accent",
+        "seo_heading": "h2",
+        "description": "",
+        "image_height": 600,
+        "mobile_image_height": 300,
+        "before_text": "Before",
+        "after_text": "After",
+        "text_alignment": "center",
+        "drag_position": 23,
+        "bg_color": "",
+        "title_color": "#000000",
+        "description_color": "#000000",
+        "before_text_color": "#000000",
+        "after_text_color": "#000000",
+        "drag_bg_color": "#ffffff",
+        "drag_text_color": "#000000",
+        "section_border_color": "#000000",
+        "section_visibility": "always",
+        "top_space_desktop": 65,
+        "bottom_space_desktop": 30,
+        "top_space_mobile": 30,
+        "bottom_space_mobile": 30
+      }
+    },
     "product_recommendations": {
       "type": "product_recommendations",
       "settings": {
@@ -176,91 +210,13 @@
         "top_space_mobile": 30,
         "bottom_space_mobile": 30
       }
-    },
-    "166133727946ffaeaa": {
-      "type": "text-with-icons",
-      "blocks": {
-        "5f2a17c3-6834-4f30-ac33-dd871134b6c4": {
-          "type": "column",
-          "settings": {
-            "icon": "shipping",
-            "heading": "Add Heading here",
-            "seo_heading": "h2",
-            "size": "text-medium",
-            "subtext": "Add subtext here"
-          }
-        },
-        "1619ab47-2031-4339-961b-21ca08f7f33e": {
-          "type": "column",
-          "settings": {
-            "icon": "shipping",
-            "heading": "Add Heading here",
-            "seo_heading": "h2",
-            "size": "text-medium",
-            "subtext": "Add subtext here"
-          }
-        },
-        "f37730b5-14aa-462c-bbfe-db24fa287e5b": {
-          "type": "column",
-          "settings": {
-            "icon": "shipping",
-            "heading": "Add Heading here",
-            "seo_heading": "h2",
-            "size": "text-medium",
-            "subtext": "Add subtext here"
-          }
-        },
-        "d192928f-441f-42d2-852c-5e1864672797": {
-          "type": "column",
-          "settings": {
-            "icon": "shipping",
-            "heading": "Add Heading here",
-            "seo_heading": "h2",
-            "size": "text-medium",
-            "subtext": "Add subtext here"
-          }
-        }
-      },
-      "block_order": [
-        "5f2a17c3-6834-4f30-ac33-dd871134b6c4",
-        "1619ab47-2031-4339-961b-21ca08f7f33e",
-        "f37730b5-14aa-462c-bbfe-db24fa287e5b",
-        "d192928f-441f-42d2-852c-5e1864672797"
-      ],
-      "settings": {
-        "container_width": false,
-        "enable_top_border": true,
-        "enable_bottom_border": false,
-        "section_border_style": "dashed",
-        "column_background": false,
-        "mobile_column_count": "1",
-        "alignment": "center",
-        "icon_content_space_desktop": 15,
-        "icon_content_space_mobile": 15,
-        "enable_border": false,
-        "border_style": "dashed",
-        "column_radius_desktop": 10,
-        "column_radius_mobile": 10,
-        "icon_background": false,
-        "icon_position": "top",
-        "bgcolor": "primary",
-        "column_background_color": "",
-        "icon_color": "#000000",
-        "icon_background_color": "",
-        "border_color": "#000000",
-        "section_visibility": "always",
-        "top_space_desktop": 25,
-        "bottom_space_desktop": 25,
-        "top_space_mobile": 30,
-        "bottom_space_mobile": 30
-      }
     }
   },
   "order": [
     "main-product",
     "shapes_7Ba4wt",
     "image_with_text_tAXXbQ",
-    "product_recommendations",
-    "166133727946ffaeaa"
+    "before_after_image_QLxBUb",
+    "product_recommendations"
   ]
 }
