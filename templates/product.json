@@ -160,9 +160,9 @@
         "bottom_space_mobile": 30
       }
     },
-    "before_after_image_QLxBUb": {
-      "type": "before-after-image",
-      "name": "t:sections.before-after.presets.name",
+    "pfp_before_after_iryehG": {
+      "type": "pfp-before-after",
+      "name": "PDP Before/After Image",
       "settings": {
         "container_width": "small",
         "fullwidth": true,
@@ -192,7 +192,7 @@
         "drag_text_color": "#000000",
         "section_border_color": "#000000",
         "section_visibility": "always",
-        "top_space_desktop": 65,
+        "top_space_desktop": 60,
         "bottom_space_desktop": 30,
         "top_space_mobile": 30,
         "bottom_space_mobile": 30
@@ -220,7 +220,7 @@
     "main-product",
     "shapes_7Ba4wt",
     "image_with_text_tAXXbQ",
-    "before_after_image_QLxBUb",
+    "pfp_before_after_iryehG",
     "product_recommendations"
   ]
 }
