@@ -24,7 +24,7 @@ function changeGridLayout() {
                 document.querySelector('.sort-grid-icon[data-value="' + grid_layout_collection + '"]').classList.add('active');
                 parent.setAttribute("data-view", grid_layout_collection)
             } else {
-                document.querySelector('.sort-grid-icon[data-value="grid-layout-1"]').classList.add('active');
+                document.querySelector('.sort-grid-icon[data-value="grid-layout-2"]').classList.add('active');
                 parent.setAttribute("data-view", "grid-layout-1")
             }
         } else if (window.innerWidth >= 768 && window.innerWidth < 992) {
