@@ -49,7 +49,7 @@
         "products_per_page": 60,
         "product_count": true,
         "enable_filtering": true,
-        "filters_layout": "sidebar",
+        "filters_layout": "drawer",
         "enable_sorting": true,
         "enable_display_options": true,
         "filter_menu": "",
