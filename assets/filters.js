@@ -1,3 +1,4 @@
+var layout1 = "col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6";
 var layout2 = "col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6";
 var layout3 = "col-6 col-sm-6 col-md-4 col-lg-4 col-xl-4";
 var layout4 = "col-6 col-sm-6 col-md-4 col-lg-3 col-xl-3";
@@ -372,8 +373,8 @@ function updateGridView(section) {
         var productItems = section.querySelectorAll('[data-product-grid]');
         if (productItems.length > 0) {
             Array.from(productItems).forEach(function(item) {
-                if (_layout == 'grid-layout-2') {
-                    item.setAttribute('class', layout2);
+                if (_layout == 'grid-layout-1') {
+                    item.setAttribute('class', layout1);
                 } else if (_layout == 'grid-layout-3') {
                     item.setAttribute('class', layout3);
                 } else if (_layout == 'grid-layout-4') {
