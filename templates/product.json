@@ -77,22 +77,6 @@
         "social_icons_4fwNP7": {
           "type": "social-icons",
           "settings": {}
-        },
-        "accordion_RECAWm": {
-          "type": "accordion",
-          "settings": {
-            "content_heading": "Ingredients",
-            "content": "{{ product.metafields.product.ingredients | metafield_tag }}",
-            "open_default_accordion": false
-          }
-        },
-        "accordion_wpADdJ": {
-          "type": "accordion",
-          "settings": {
-            "content_heading": "Features & Benefits",
-            "content": "{{ product.metafields.product.features_benefits | metafield_tag }}",
-            "open_default_accordion": false
-          }
         }
       },
       "block_order": [
@@ -105,9 +89,7 @@
         "811e6d87-a5e5-4457-9124-d3c2ed070ba9",
         "16819786-9d1e-449d-966d-08d21e1c91af",
         "complementary_products_T4dfme",
-        "social_icons_4fwNP7",
-        "accordion_RECAWm",
-        "accordion_wpADdJ"
+        "social_icons_4fwNP7"
       ],
       "settings": {
         "gallery_style": "slider",
