@@ -24,7 +24,7 @@ function changeGridLayout() {
                 parent.setAttribute("data-view", grid_layout_collection)
             } else {
                 document.querySelector('.sort-grid-icon[data-value="grid-layout-2"]').classList.add('active');
-                parent.setAttribute("data-view", "grid-layout-2")
+                parent.setAttribute("data-view", "grid-layout-1")
             }
         } else if (window.innerWidth >= 768 && window.innerWidth < 992) {
             if (grid_layout_collection && grid_layout_collection != "grid-layout-4" && grid_layout_collection != "grid-layout-5") {
