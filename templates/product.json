@@ -35,6 +35,17 @@
           "type": "price",
           "settings": {}
         },
+        "icons_pDyjhY": {
+          "type": "icons",
+          "settings": {
+            "icon1": "smile",
+            "heading1": "100% Natural",
+            "icon2": "secure",
+            "heading2": "Lab Tested",
+            "icon3": "heart",
+            "heading3": "Organic"
+          }
+        },
         "8658b9a0-c9c5-4055-a2e1-56a8f49d0b68": {
           "type": "variant",
           "settings": {
@@ -56,6 +67,17 @@
             "sticky_add_to_cart_position": "top"
           }
         },
+        "complementary_products_T4dfme": {
+          "type": "complementary_products",
+          "settings": {
+            "heading": "Pairs well with",
+            "products_count": 8
+          }
+        },
+        "payment_icons_kcRnai": {
+          "type": "payment-icons",
+          "settings": {}
+        },
         "social_icons_4fwNP7": {
           "type": "social-icons",
           "settings": {}
@@ -66,9 +88,12 @@
         "description_QMxPJN",
         "c069e4ad-5908-400d-a0ad-e071aa04cf33",
         "5540566c-63cd-4a90-b9b6-7707e45d7066",
+        "icons_pDyjhY",
         "8658b9a0-c9c5-4055-a2e1-56a8f49d0b68",
         "811e6d87-a5e5-4457-9124-d3c2ed070ba9",
         "16819786-9d1e-449d-966d-08d21e1c91af",
+        "complementary_products_T4dfme",
+        "payment_icons_kcRnai",
         "social_icons_4fwNP7"
       ],
       "settings": {
