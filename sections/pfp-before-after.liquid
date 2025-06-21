@@ -1,4 +1,5 @@
-<div class="{% if section.settings.container_width == 'small' %}container md-container{% elsif settings.layout_width == 'boxed' %}container{% else %}container-fluid{% endif %}">
+{% if product.metafields.product.before_image and product.metafields.product.after_image %}
+  <div class="{% if section.settings.container_width == 'small' %}container md-container{% elsif settings.layout_width == 'boxed' %}container{% else %}container-fluid{% endif %}">
   {% if  section.settings.title != blank or section.settings.description != blank %}
   <div class="section-heading text-center">
   {% if section.settings.title != blank %}
@@ -142,6 +143,7 @@
       }
   {% endif %}
 </style>
+{% endif %}
  {% schema %}
 {
   "name": "PDP Before/After Image",
