@@ -290,16 +290,27 @@
         "template--16809124135205__8bce3833-93d0-4d63-977e-1fb74bd00e34-16678153947e06f808-0": {
           "type": "richtext",
           "settings": {
-            "heading": "Who is behind <strong>Spirèlle</strong>",
+            "heading": "Who is behind <strong>Spirèlle?</strong>",
             "highlight_font": "accent",
             "seo_heading": "h2",
             "size": "h2",
-            "content": ""
+            "content": "<p><strong>Founders’ Message</strong></p>"
+          }
+        },
+        "richtext_YTT7jH": {
+          "type": "richtext",
+          "settings": {
+            "heading": "",
+            "highlight_font": "body",
+            "seo_heading": "h2",
+            "size": "h2",
+            "content": "<p>Spirèlle is not just a business — it’s a dream, a journey, and a promise. From the very beginning, we knew this project was about far more than products. It’s about connection, passion, and creating something that carries meaning into people’s lives. We are building Spirèlle block by block, with every detail crafted to bring you satisfaction, joy, and trust.<br/><br/>We are proudly Lebanese. Our homeland, with its beauty, resilience, and unshakable spirit, is at the heart of everything we do. Even as Lebanon faces difficult times, we chose to begin here — not somewhere easier — because our roots run deep, and we believe in the talent, creativity, and determination of our people.<br/><br/>Spirèlle was born from a belief: that beauty, care, and well-being are not luxuries, but essentials that connect us to ourselves and to each other. Every product we create carries a piece of our story, our values, and our unwavering commitment to quality.<br/><br/>This is only the beginning. We see Spirèlle growing beyond Lebanon’s borders, carrying our heritage to the world, and showing that from a small country with a big heart, great things can rise.<br/><br/>To every person who supports us, believes in us, or simply chooses to try what we have created — you are part of our journey. Thank you for walking this path with us.<br/><br/>With gratitude and passion,<br/>The Founders of Spirèlle</p>"
           }
         }
       },
       "block_order": [
-        "template--16809124135205__8bce3833-93d0-4d63-977e-1fb74bd00e34-16678153947e06f808-0"
+        "template--16809124135205__8bce3833-93d0-4d63-977e-1fb74bd00e34-16678153947e06f808-0",
+        "richtext_YTT7jH"
       ],
       "settings": {
         "content_width": "container sm-container",
@@ -309,120 +320,6 @@
         "top_space_desktop": 30,
         "bottom_space_desktop": 0,
         "top_space_mobile": 30,
-        "bottom_space_mobile": 0
-      }
-    },
-    "6da6aceb-86b2-4c44-b1fd-8d044a9ca4bc": {
-      "type": "collage",
-      "blocks": {
-        "7c659d38-26ba-4f94-b1f5-0f80f2878e43": {
-          "type": "image",
-          "settings": {
-            "image_width": "col-md-4",
-            "heading": "Majd Noureldine",
-            "seo_heading": "h2",
-            "enable_text_shadow": false,
-            "subheading": "",
-            "link": "",
-            "btn_text": "",
-            "outline_button": false,
-            "heading_size": "h2",
-            "button_size": "xsmall",
-            "content_width": "large",
-            "heading_size_m": "h2",
-            "button_size_m": "m-xsmall",
-            "content_width_m": "medium",
-            "overlayopacity": 0,
-            "desktop_content_position": "d-bottom-left",
-            "mobile_content_position": "m-center",
-            "overlaycolor": "rgba(0,0,0,0)",
-            "textcolor": "#000000",
-            "text_shadow_color": "#000000",
-            "button_text_color": "#ffffff",
-            "button_bg_color": "#000000",
-            "button_border_color": "#000000"
-          }
-        },
-        "image_MjiCH3": {
-          "type": "image",
-          "settings": {
-            "image_width": "col-md-4",
-            "heading": "Haitham Haitham",
-            "seo_heading": "h2",
-            "enable_text_shadow": false,
-            "subheading": "",
-            "link": "",
-            "btn_text": "",
-            "outline_button": false,
-            "heading_size": "h2",
-            "button_size": "xsmall",
-            "content_width": "large",
-            "heading_size_m": "h2",
-            "button_size_m": "m-xsmall",
-            "content_width_m": "medium",
-            "overlayopacity": 0,
-            "desktop_content_position": "d-bottom-left",
-            "mobile_content_position": "m-center",
-            "overlaycolor": "rgba(0,0,0,0)",
-            "textcolor": "#000000",
-            "text_shadow_color": "#000000",
-            "button_text_color": "#ffffff",
-            "button_bg_color": "#000000",
-            "button_border_color": "#000000"
-          }
-        },
-        "image_84Kmi3": {
-          "type": "image",
-          "settings": {
-            "image_width": "col-md-4",
-            "heading": "Dear James",
-            "seo_heading": "h2",
-            "enable_text_shadow": false,
-            "subheading": "",
-            "link": "",
-            "btn_text": "",
-            "outline_button": false,
-            "heading_size": "h2",
-            "button_size": "xsmall",
-            "content_width": "large",
-            "heading_size_m": "h2",
-            "button_size_m": "m-xsmall",
-            "content_width_m": "medium",
-            "overlayopacity": 0,
-            "desktop_content_position": "d-bottom-left",
-            "mobile_content_position": "m-center",
-            "overlaycolor": "rgba(0,0,0,0)",
-            "textcolor": "#000000",
-            "text_shadow_color": "#000000",
-            "button_text_color": "#ffffff",
-            "button_bg_color": "#000000",
-            "button_border_color": "#000000"
-          }
-        }
-      },
-      "block_order": [
-        "7c659d38-26ba-4f94-b1f5-0f80f2878e43",
-        "image_MjiCH3",
-        "image_84Kmi3"
-      ],
-      "settings": {
-        "enable_fullwidth": false,
-        "enable_swipe": true,
-        "image_layout": "rounded",
-        "enable_image_animation": false,
-        "enable_hover_effect": true,
-        "image_radius_desktop": 10,
-        "image_radius_mobile": 10,
-        "heading_size": "h2",
-        "button_size": "xsmall",
-        "space_in_images": true,
-        "image_spacing_desktop": 10,
-        "image_spacing_mobile": 10,
-        "bgcolor": "primary",
-        "section_visibility": "always",
-        "top_space_desktop": 0,
-        "bottom_space_desktop": 0,
-        "top_space_mobile": 0,
         "bottom_space_mobile": 0
       }
     },
@@ -595,7 +492,6 @@
     "shapes_wyTbUA",
     "image_with_text_NdEFXK",
     "8bce3833-93d0-4d63-977e-1fb74bd00e34",
-    "6da6aceb-86b2-4c44-b1fd-8d044a9ca4bc",
     "rich_text_hT3DFr",
     "image_with_text_CYckbh",
     "image_with_text_nFWeCq",
