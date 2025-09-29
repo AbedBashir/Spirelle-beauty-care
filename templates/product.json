@@ -101,7 +101,7 @@
         "enable_thumb": true,
         "content_divider_mobile": "none",
         "carousel_thumbnail_position": "left",
-        "carousel_height_desktop": "adapt",
+        "carousel_height_desktop": "800px",
         "carousel_height_mobile": "adapt",
         "width": "half",
         "style": "accordion",
