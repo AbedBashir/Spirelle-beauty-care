@@ -97,7 +97,7 @@
         "open_description_accordion": false,
         "show_variant-media": false,
         "enable_shipping_policy": false,
-        "enable_zoom_icon": false,
+        "enable_zoom_icon": true,
         "enable_thumb": true,
         "content_divider_mobile": "none",
         "carousel_thumbnail_position": "left",
