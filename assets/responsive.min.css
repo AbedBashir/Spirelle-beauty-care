@@ -2940,9 +2940,9 @@
       .yv-product-big-slider:not(.flickity-enabled).multi-images
       .yv-product-slider-item,
     .yv-product-slider.multi-images .yv-product-slider-item {
-      flex: 0 0 90%;
-      max-width: 90%;
-      width: 90%;
+      flex: 0 0 100%;
+      max-width: 100%;
+      width: 100%;
       margin-right: 10px;
       padding: 0;
     }
