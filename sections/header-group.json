@@ -137,7 +137,7 @@
         "logo": "shopify://shop_images/Spirelle__logo-01_1_1.svg",
         "logo_width": 150,
         "logo_position": "center",
-        "menu_navigations": "click",
+        "menu_navigations": "hover",
         "menu": "main-menu",
         "menu_type": "dropdown",
         "type_font_size": 16,
