@@ -146,7 +146,7 @@
         "is_catalog_normal": true,
         "enable_catalog_drawer": true,
         "view_catalog": "View catalog",
-        "catalog_menu": "catalog",
+        "catalog_menu": "main-menu",
         "trust_badge_link": "",
         "show_search": true,
         "account_type": "page",
