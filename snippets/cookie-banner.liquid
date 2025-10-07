@@ -56,24 +56,10 @@ padding: 15px 25px;
       {% endif %}
     <div class="cookies-banner-btn">
       {% if settings.decline_cookie_btn_text != blank %}
-      <button class="button small-btn"  onclick="handleDecline()">{{ settings.decline_cookie_btn_text }}
-        {% if settings.buttonAnimation == 'animated-arrow'%}
-          <span class="btn-animated-arrow"><svg fill="none" viewBox="0 0 8 8">
-            <path fill="currentColor" fill-rule="evenodd" d="M0 0h8v8H7V1.707L1.354 7.354 1 7.707.293 7l.353-.354L6.293 1H0V0Z" clip-rule="evenodd"></path>
-            </svg>
-          </span>
-        {% endif %}
-      </button>
+      <button class="button small-btn"  onclick="handleDecline()">{{ settings.decline_cookie_btn_text }}</button>
       {% endif %}
       {% if settings.accept_cookie_btn_text != blank %}
-      <button class="button small-btn secondary-button"  onclick="handleAccept()">{{ settings.accept_cookie_btn_text }}
-        {% if settings.buttonAnimation == 'animated-arrow'%}
-          <span class="btn-animated-arrow"><svg fill="none" viewBox="0 0 8 8">
-            <path fill="currentColor" fill-rule="evenodd" d="M0 0h8v8H7V1.707L1.354 7.354 1 7.707.293 7l.353-.354L6.293 1H0V0Z" clip-rule="evenodd"></path>
-            </svg>
-          </span>
-        {% endif %}
-      </button>
+      <button class="button small-btn secondary-button"  onclick="handleAccept()">{{ settings.accept_cookie_btn_text }}</button>
       {% endif %}
     </div>
   </div>
