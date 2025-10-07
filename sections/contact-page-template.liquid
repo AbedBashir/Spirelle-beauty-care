@@ -15,7 +15,21 @@
         <input type="text" class="form-control" id="ContactForm-username" name="contact[Name]" placeholder="{{ 'sections.contact.name' | t }}" required>
       </div>
     </div>
-
+    <!-- ✅ New Phone Field -->
+    <div class="col-md-12 col-lg-12">
+      <div class="form-group">
+        <label for="ContactForm-phone">{{ 'Phone' | default: 'Phone Number' }}</label>
+        <input
+          type="tel"
+          id="ContactForm-phone"
+          class="form-control"
+          name="contact[Phone]"
+          placeholder="{{ 'Phone' | default: 'Your phone number' }}"
+          pattern="[0-9+\-\s()]{5,}"
+        >
+      </div>
+    </div>
+    <!-- End Phone Field -->
     <div class="col-md-12 col-lg-12">
       <div class="form-group">
         <label class="field__label" for="ContactForm-email">{{ 'templates.contact.form.email' | t }} <span aria-hidden="true">*</span></label>
@@ -44,21 +58,7 @@
       </div>
     </div>
 
-    <!-- ✅ New Phone Field -->
-    <div class="col-md-12 col-lg-12">
-      <div class="form-group">
-        <label for="ContactForm-phone">{{ 'sections.contact.phone' | default: 'Phone Number' }}</label>
-        <input
-          type="tel"
-          id="ContactForm-phone"
-          class="form-control"
-          name="contact[Phone]"
-          placeholder="{{ 'sections.contact.phone' | default: 'Your phone number' }}"
-          pattern="[0-9+\-\s()]{5,}"
-        >
-      </div>
-    </div>
-    <!-- End Phone Field -->
+
 
     <div class="col-md-12 col-lg-12">
       <div class="form-group">
