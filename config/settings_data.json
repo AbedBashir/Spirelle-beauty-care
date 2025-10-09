@@ -82,7 +82,7 @@
     "gift_wrap_product": "",
     "gift_wrap_text": "Add a gift wrap",
     "enable_shipping": true,
-    "shipping_rate": "100",
+    "shipping_rate": "45",
     "shipping_text": "Spend ||amount|| to receive free shipping",
     "free_shipping_text": "Congrats! You are eligible for Free Shipping",
     "upsell_products": true,
