@@ -159,6 +159,7 @@
         "enable_top_border": false,
         "enable_bottom_border": false,
         "border_style": "solid",
+        "image": "shopify://shop_images/15.webp",
         "image_shadow": true,
         "enable_image_animation": true,
         "image_alignment": "left",
