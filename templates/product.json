@@ -183,6 +183,7 @@
     },
     "pfp_before_after_iryehG": {
       "type": "pfp-before-after",
+      "disabled": true,
       "name": "PDP Before/After Image",
       "settings": {
         "container_width": "global",
