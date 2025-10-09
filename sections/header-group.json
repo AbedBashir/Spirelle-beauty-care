@@ -18,7 +18,17 @@
           "type": "announcement",
           "settings": {
             "icon": "gift",
-            "first_text": "Bundles Available",
+            "first_text": "Save more with our Gift Set",
+            "date": "",
+            "btn": "",
+            "link": ""
+          }
+        },
+        "announcement_V4CU4U": {
+          "type": "announcement",
+          "settings": {
+            "icon": "tag",
+            "first_text": "Free Gift Box with every Set",
             "date": "",
             "btn": "",
             "link": ""
@@ -37,6 +47,7 @@
       },
       "block_order": [
         "announcement_DExyD8",
+        "announcement_V4CU4U",
         "announcement_qqJdiJ"
       ],
       "settings": {
