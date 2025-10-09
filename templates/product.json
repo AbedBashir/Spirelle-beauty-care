@@ -56,6 +56,13 @@
           "type": "quantity",
           "settings": {}
         },
+        "complementary_products_T4dfme": {
+          "type": "complementary_products",
+          "settings": {
+            "heading": "Pairs well with",
+            "products_count": 8
+          }
+        },
         "16819786-9d1e-449d-966d-08d21e1c91af": {
           "type": "button",
           "settings": {
@@ -65,13 +72,6 @@
             "show_recipient_form": false,
             "sticky_add_to_cart": true,
             "sticky_add_to_cart_position": "top"
-          }
-        },
-        "complementary_products_T4dfme": {
-          "type": "complementary_products",
-          "settings": {
-            "heading": "Pairs well with",
-            "products_count": 8
           }
         },
         "social_icons_4fwNP7": {
@@ -87,8 +87,8 @@
         "icons_pDyjhY",
         "8658b9a0-c9c5-4055-a2e1-56a8f49d0b68",
         "811e6d87-a5e5-4457-9124-d3c2ed070ba9",
-        "16819786-9d1e-449d-966d-08d21e1c91af",
         "complementary_products_T4dfme",
+        "16819786-9d1e-449d-966d-08d21e1c91af",
         "social_icons_4fwNP7"
       ],
       "settings": {
