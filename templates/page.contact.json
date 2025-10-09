@@ -37,6 +37,7 @@
     },
     "d4990aa8-00b1-4fd3-bf9d-3832c1bd440a": {
       "type": "map",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "mapaddress": "",
