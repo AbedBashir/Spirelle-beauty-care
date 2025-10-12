@@ -14,8 +14,8 @@
       "settings": {
         "enable_parallax": false,
         "section_visibility": "always",
-        "image": "shopify://shop_images/Banner_2_73be00fb-3ee6-4910-8c46-491c3534dd22.webp",
-        "desktop_height": "550px",
+        "image": "shopify://shop_images/4_5b5185a4-41af-4bdf-ab58-fd5c0796323c.webp",
+        "desktop_height": "750px",
         "mobile_height": "500px",
         "block_display": "category_products",
         "banner_title": "Our Products",
