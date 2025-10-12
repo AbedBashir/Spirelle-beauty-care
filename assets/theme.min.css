@@ -1,3 +1,6 @@
+.yv-product-hover-image:hover .yv-product-img .image-wrapper .product-first-img {
+    opacity: 0;
+}
 .product-loop-variants .option,
 .quantity input {
     font-family: var(--variantFontFamily);
