@@ -73,10 +73,6 @@
             "sticky_add_to_cart": true,
             "sticky_add_to_cart_position": "top"
           }
-        },
-        "social_icons_4fwNP7": {
-          "type": "social-icons",
-          "settings": {}
         }
       },
       "block_order": [
@@ -88,8 +84,7 @@
         "8658b9a0-c9c5-4055-a2e1-56a8f49d0b68",
         "811e6d87-a5e5-4457-9124-d3c2ed070ba9",
         "complementary_products_T4dfme",
-        "16819786-9d1e-449d-966d-08d21e1c91af",
-        "social_icons_4fwNP7"
+        "16819786-9d1e-449d-966d-08d21e1c91af"
       ],
       "settings": {
         "gallery_style": "slider",
