@@ -115,7 +115,7 @@
     "show_vendor": false,
     "show_reviews": true,
     "show_inventory": false,
-    "show_hover": "slider",
+    "show_hover": "image",
     "product_hover_auto_slide": false,
     "enable_color_swatches": false,
     "show_size_options": true,
