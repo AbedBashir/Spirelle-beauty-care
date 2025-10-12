@@ -15,7 +15,7 @@
         "slide_ammkR9": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Banner.webp",
+            "image": "shopify://shop_images/3_2921910d-0128-4c49-b543-95e89159917f.webp",
             "videofile": "",
             "banner_subtitle": "",
             "glass_effect": true,
@@ -41,7 +41,7 @@
             "btn_bg": "#893347",
             "btn_text": "#ffffff",
             "btn_border": "#893347",
-            "overlay_color": "",
+            "overlay_color": "#181818",
             "overlay_opacity": 50,
             "title_color_m": "#ffffff",
             "subtitle_color_m": "#000000",
@@ -83,6 +83,8 @@
         "image_fL9PrQ": {
           "type": "image",
           "settings": {
+            "first_image": "shopify://shop_images/Untitled_design_5.webp",
+            "second_image": "shopify://shop_images/2_3_b6e07267-f399-4d15-963f-13646a3254c5.webp",
             "image_shadow": true,
             "bgcolor": "primary",
             "image_shadow_color": "#ffd1d1"
@@ -139,6 +141,7 @@
         "enable_top_border": false,
         "enable_bottom_border": false,
         "border_style": "solid",
+        "image": "shopify://shop_images/4_1_e2ede71f-2399-4c60-b711-434f05e14d4f.webp",
         "image_shadow": true,
         "enable_image_animation": true,
         "image_alignment": "left",
@@ -263,6 +266,7 @@
         "enable_top_border": false,
         "enable_bottom_border": false,
         "border_style": "solid",
+        "image": "shopify://shop_images/1_3_1234c037-32a1-4cd7-9207-71dc5d13b942.webp",
         "image_shadow": true,
         "enable_image_animation": true,
         "image_alignment": "right",
@@ -369,6 +373,7 @@
         "enable_top_border": false,
         "enable_bottom_border": false,
         "border_style": "solid",
+        "image": "shopify://shop_images/2_3_3d32ba8f-190c-4070-8709-c19c27f31835.webp",
         "image_shadow": true,
         "enable_image_animation": true,
         "image_alignment": "left",
@@ -408,6 +413,7 @@
         "enable_top_border": false,
         "enable_bottom_border": false,
         "border_style": "solid",
+        "image": "shopify://shop_images/3_1_d6ba373c-ec4b-43ba-939a-175e07d3e1c8.webp",
         "image_shadow": true,
         "enable_image_animation": true,
         "image_alignment": "right",
