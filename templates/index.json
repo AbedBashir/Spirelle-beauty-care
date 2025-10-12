@@ -202,47 +202,6 @@
         "bottom_space_mobile": 15
       }
     },
-    "product_carousel_jckkeX": {
-      "type": "product-carousel",
-      "blocks": {
-        "collection_Fyrm84": {
-          "type": "collection",
-          "settings": {
-            "heading": "",
-            "collection": "all-products"
-          }
-        }
-      },
-      "block_order": [
-        "collection_Fyrm84"
-      ],
-      "name": "Product Carousel",
-      "settings": {
-        "enable_fullwidth": true,
-        "enable_top_border": false,
-        "enable_bottom_border": false,
-        "border_style": "solid",
-        "heading": "Our Products",
-        "highlight_font": "body",
-        "seo_heading": "h2",
-        "heading_size": "h2",
-        "gallery_style": "auto-slide",
-        "slide_direction": "right",
-        "image_style": "square",
-        "image_size": "medium",
-        "text_alignment": "center",
-        "enable_image_animation": true,
-        "image_crop": true,
-        "image_background": false,
-        "enable_swipe": true,
-        "bgcolor": "primary",
-        "section_visibility": "always",
-        "top_space_desktop": 45,
-        "bottom_space_desktop": 45,
-        "top_space_mobile": 35,
-        "bottom_space_mobile": 0
-      }
-    },
     "promotion_banner_LiyC3T": {
       "type": "promotion-banner",
       "blocks": {
@@ -883,7 +842,6 @@
   "order": [
     "slider_nTmbcG",
     "tabbed_collections_JRKB3F",
-    "product_carousel_jckkeX",
     "promotion_banner_LiyC3T",
     "split_banner_ynGqX3",
     "video_section_3CUTaE",
