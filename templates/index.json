@@ -205,35 +205,16 @@
     "product_carousel_jckkeX": {
       "type": "product-carousel",
       "blocks": {
-        "image_FUkHNB": {
-          "type": "image",
+        "collection_Fyrm84": {
+          "type": "collection",
           "settings": {
-            "heading": "Heading",
-            "subheading": "Sub heading",
-            "link": ""
-          }
-        },
-        "image_RwLqAK": {
-          "type": "image",
-          "settings": {
-            "heading": "Heading",
-            "subheading": "Sub heading",
-            "link": ""
-          }
-        },
-        "image_ti6kPz": {
-          "type": "image",
-          "settings": {
-            "heading": "Heading",
-            "subheading": "Sub heading",
-            "link": ""
+            "heading": "",
+            "collection": "all-products"
           }
         }
       },
       "block_order": [
-        "image_FUkHNB",
-        "image_RwLqAK",
-        "image_ti6kPz"
+        "collection_Fyrm84"
       ],
       "name": "Product Carousel",
       "settings": {
