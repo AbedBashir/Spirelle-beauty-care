@@ -271,13 +271,13 @@
         "split_banner_rnpHF8": {
           "type": "split_banner",
           "settings": {
-            "image": "shopify://shop_images/sadd.webp",
-            "heading": "Good For Summer",
+            "image": "shopify://shop_images/1_3.webp",
+            "heading": "Body Mist",
             "highlight_font": "body",
             "heading_size": "h2",
             "seo_heading": "h2",
-            "description": "Add short description for this section",
-            "btn_link": "shopify://collections/all",
+            "description": "",
+            "btn_link": "shopify://collections/body-mist",
             "heading_color": "#ffffff",
             "description_color": "#ffffff",
             "overlay_bgcolor": "#000000",
@@ -287,29 +287,13 @@
         "split_banner_aGCx6p": {
           "type": "split_banner",
           "settings": {
-            "image": "shopify://shop_images/2_2.webp",
-            "heading": "Good For Summer",
+            "image": "shopify://shop_images/2_3.webp",
+            "heading": "Body Scrub",
             "highlight_font": "body",
             "heading_size": "h2",
             "seo_heading": "h2",
-            "description": "Add short description for this section",
-            "btn_link": "shopify://collections/all",
-            "heading_color": "#ffffff",
-            "description_color": "#ffffff",
-            "overlay_bgcolor": "#000000",
-            "overlay_opacity": 0.2
-          }
-        },
-        "split_banner_gmRAp4": {
-          "type": "split_banner",
-          "settings": {
-            "image": "shopify://shop_images/3_2.webp",
-            "heading": "Good For Summer",
-            "highlight_font": "body",
-            "heading_size": "h2",
-            "seo_heading": "h2",
-            "description": "Add short description for this section",
-            "btn_link": "shopify://collections/all",
+            "description": "",
+            "btn_link": "shopify://collections/body-scrub",
             "heading_color": "#ffffff",
             "description_color": "#ffffff",
             "overlay_bgcolor": "#000000",
@@ -319,13 +303,29 @@
         "split_banner_nGiMqi": {
           "type": "split_banner",
           "settings": {
-            "image": "shopify://shop_images/4_2_df51d027-d1e9-45c3-b4b9-ae9ef7b44710.webp",
-            "heading": "Good For Summer",
+            "image": "shopify://shop_images/4_1.webp",
+            "heading": "Body Lotion",
             "highlight_font": "body",
             "heading_size": "h2",
             "seo_heading": "h2",
-            "description": "Add short description for this section",
-            "btn_link": "shopify://collections/all",
+            "description": "",
+            "btn_link": "shopify://collections/body-lotions",
+            "heading_color": "#ffffff",
+            "description_color": "#ffffff",
+            "overlay_bgcolor": "#000000",
+            "overlay_opacity": 0.2
+          }
+        },
+        "split_banner_gmRAp4": {
+          "type": "split_banner",
+          "settings": {
+            "image": "shopify://shop_images/3_1.webp",
+            "heading": "Lip Balm",
+            "highlight_font": "body",
+            "heading_size": "h2",
+            "seo_heading": "h2",
+            "description": "",
+            "btn_link": "shopify://collections/lip-balm",
             "heading_color": "#ffffff",
             "description_color": "#ffffff",
             "overlay_bgcolor": "#000000",
@@ -336,8 +336,8 @@
       "block_order": [
         "split_banner_rnpHF8",
         "split_banner_aGCx6p",
-        "split_banner_gmRAp4",
-        "split_banner_nGiMqi"
+        "split_banner_nGiMqi",
+        "split_banner_gmRAp4"
       ],
       "settings": {
         "section_visibility": "always",
