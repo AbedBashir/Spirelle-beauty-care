@@ -35,6 +35,24 @@
       {%- for i in (1..repeatCount) -%}
         <ul class="list-unstyled yv-gallery-box {{ section.settings.image_size }} {% if section.settings.image_style == 'circle' %}rounded{% else %}{{ section.settings.image_style }}{% endif %}">
           {%- for block in section.blocks -%}
+            {% liquid
+             assign collection = block.settings.collection              
+              assign mainAttr = 'data-filter-item="product-' | append: block.id | append: '"'
+              if forloop.index == collectionAvailable
+              	assign mainClass='filter-slide active product-' | append: block.id 
+              else 
+                assign mainAttr=mainAttr | append: ' style="display:none"'
+                assign mainClass='filter-slide product-' | append: block.id
+              endif
+              if collection != blank and collection.all_products_count > 0 
+                for product in collection.products limit: 10
+                assign delay = 100 | times : forloop.index
+                  assign productFormId = 'product-form-' | append : section.id | append : forloop.index | append : '-' | append : collection.handle
+                  assign animationAttr = 'data-aos="fade-up" data-aos-delay="' | append : delay | append : '"'   
+                  render 'product-grid' product : product, section : section, productFormId : productFormId, tabbedCollection : true, productClasses: mainClass, mainAttr: mainAttr, animationAttr: animationAttr, customRadius: true
+                endfor 
+              endif 
+             %}
             {%- capture style -%}{% cycle 1, 2, 3 %}{%- endcapture -%}
             <li
               class=" yv-gallery-item{% if section.settings.enable_image_animation %} image-hover-animation{% endif %}"
