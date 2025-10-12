@@ -58,27 +58,30 @@
               class=" yv-gallery-item{% if section.settings.enable_image_animation %} image-hover-animation{% endif %}"
               {{ block.shopify_attributes }}
             >
-              <a
-                href="{{ block.settings.link }}"
-                class="yv-gallery-img {% if block.settings.heading == blank and block.settings.subheading == blank %}no-content{% endif %} image-background-{{ section.settings.image_background }}"
-                aria-label="{{ block.settings.heading | default : shop.name }}"
-              >
-                {% if block.settings.image != blank %}
-                  {% render 'lazy-image', image: block.settings.image, sizes: '[375]' %}
-                {% else %}
-                  {{ 'product-' | append: style | placeholder_svg_tag: 'placeholder-svg' }}
-                {% endif %}
-              </a>
-              {%- unless block.settings.heading == blank and block.settings.subheading == blank -%}
-                <div class="yv-gallery-detail text-{{ section.settings.text_alignment }}">
-                  {%- if block.settings.heading != blank -%}
-                    <p class="gallery-item-title">{{ block.settings.heading }}</p>
-                  {%- endif -%}
-                  {%- if block.settings.subheading != blank -%}
-                    <p class="gallery-item-desc text-medium">{{ block.settings.subheading }}</p>
-                  {%- endif -%}
+               <div class="yv-product-card product-grid-layout-rounded">
+              <div class="animated-grid" data-aos="fade-up" data-aos-delay="{{ 100 | t : forloop.index }}">
+                <div class="yv-product-card-img">
+                  <div class="yv-product-img">
+                    {%- if settings.product_image_style != 'aspect' -%}
+                    <div class="image-wrapper no-product-image" style="padding-bottom:{{- productImageRatio -}}%">
+                    {%- endif -%}
+                    {%- capture current -%}{% cycle 1, 2, 3, 4, 5, 6 %}{%- endcapture -%}
+                    {{ 'product-' | append: current | placeholder_svg_tag: 'placeholder-svg' }}
+                    {%- if settings.product_image_style != 'aspect' -%}
+                    </div>
+                    {%- endif -%}
+                  </div>
                 </div>
-              {%- endunless -%}
+                <div class="yv-product-information yv-product-information{{ settings.product_grid_content_alignment }}">
+                  <span class="yv-product-title" title="{{ 'onboarding.product_title' | t }}">
+                    {{ 'onboarding.product_title' | t }}
+                  </span>
+                  <div class="yv-prizebox" data-saved="true" data-saved-style="percentage" data-price-wrapper="">
+                    <span class="yv-product-price">{{ 1999 | money }}</span>
+                  </div>
+                </div>
+              </div>
+          </div> 
             </li>
           {% endfor %}
         </ul>
@@ -505,6 +508,31 @@
           "type": "url",
           "id": "link",
           "label": "t:sections.gallery-carousel.blocks.image.settings.link.label"
+        }
+      ]
+    },
+    {
+      "type": "collection",
+      "name": "t:sections.tabbed-collections.blocks.collection.name",
+      "settings": [
+        {
+          "type": "text",
+          "id": "heading",
+          "label": "t:sections.tabbed-collections.blocks.collection.settings.heading.label"
+        },
+        {
+          "type": "collection",
+          "id": "collection",
+          "label": "t:sections.tabbed-collections.blocks.collection.settings.collection.label"
+        },
+        {
+          "type": "paragraph",
+          "content": "t:sections.tabbed-collections.blocks.collection.settings.paragraph.content"
+        },
+        {
+          "type": "image_picker",
+          "id": "tab_image",
+          "label": "t:sections.tabbed-collections.blocks.collection.settings.tab_image.label"
         }
       ]
     }
