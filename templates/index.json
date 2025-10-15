@@ -147,8 +147,8 @@
       "settings": {
         "nav_style": "dots-bottom-right",
         "content_below_image": false,
-        "rotate": false,
-        "interval": 5,
+        "rotate": true,
+        "interval": 3,
         "desktop_height": "adapt_image",
         "mobile_height": "550px",
         "bgcolor": "primary"
