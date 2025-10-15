@@ -53,11 +53,11 @@
               </a>
               {%- unless block.settings.heading == blank and block.settings.subheading == blank -%}
                 <div class="yv-gallery-detail text-{{ section.settings.text_alignment }}">
-                  {%- if block.settings.heading != blank -%}
-                    <p class="gallery-item-title">{{ block.settings.heading }}</p>
-                  {%- endif -%}
                   {%- if block.settings.subheading != blank -%}
                     <p class="gallery-item-desc text-medium">{{ block.settings.subheading }}</p>
+                  {%- endif -%}
+                  {%- if block.settings.heading != blank -%}
+                    <p class="gallery-item-title">{{ block.settings.heading }}</p>
                   {%- endif -%}
                 </div>
               {%- endunless -%}
