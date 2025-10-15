@@ -154,54 +154,6 @@
         "bgcolor": "primary"
       }
     },
-    "tabbed_collections_JRKB3F": {
-      "type": "tabbed-collections",
-      "blocks": {
-        "collection_gMMNnA": {
-          "type": "collection",
-          "settings": {
-            "heading": "",
-            "collection": "all-products"
-          }
-        }
-      },
-      "block_order": [
-        "collection_gMMNnA"
-      ],
-      "settings": {
-        "enable_top_border": false,
-        "enable_bottom_border": false,
-        "border_style": "solid",
-        "arrow_position": "top",
-        "heading": "Our Products",
-        "highlight_font": "body",
-        "seo_heading": "h2",
-        "heading_size": "h2",
-        "tabs_style": "tilted",
-        "tabs_position": "bottom",
-        "tabs_alignment": "center-center",
-        "products_style": "carousel",
-        "enable_swipe": true,
-        "products_per_row": 4,
-        "product_grid_radius_desktop": 10,
-        "product_grid_radius_mobile": 10,
-        "product_grid_spacing_desktop": 10,
-        "product_grid_spacing_mobile": 10,
-        "show_image_in_tab": false,
-        "hide_tab_name": true,
-        "show_tabs_border": true,
-        "enable_view_all_button": false,
-        "view_all_button_text": "View all",
-        "button_size": "med",
-        "mobile_button_size": "m-med",
-        "bgcolor": "primary",
-        "section_visibility": "always",
-        "top_space_desktop": 40,
-        "bottom_space_desktop": 40,
-        "top_space_mobile": 15,
-        "bottom_space_mobile": 15
-      }
-    },
     "gallery_carousel_pUiFG9": {
       "type": "gallery-carousel",
       "blocks": {
@@ -304,17 +256,17 @@
         "enable_top_border": false,
         "enable_bottom_border": false,
         "border_style": "solid",
-        "heading": "Add Your Heading Here",
+        "heading": "Our Products",
         "highlight_font": "body",
         "seo_heading": "h2",
         "heading_size": "h2",
         "gallery_style": "auto-slide",
         "slide_direction": "right",
         "image_style": "square",
-        "image_size": "medium",
+        "image_size": "large",
         "text_alignment": "center",
         "enable_image_animation": true,
-        "image_crop": false,
+        "image_crop": true,
         "image_background": false,
         "enable_swipe": true,
         "bgcolor": "primary",
@@ -964,7 +916,6 @@
   },
   "order": [
     "slider_nTmbcG",
-    "tabbed_collections_JRKB3F",
     "gallery_carousel_pUiFG9",
     "promotion_banner_LiyC3T",
     "split_banner_ynGqX3",
