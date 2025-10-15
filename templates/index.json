@@ -202,6 +202,129 @@
         "bottom_space_mobile": 15
       }
     },
+    "gallery_carousel_pUiFG9": {
+      "type": "gallery-carousel",
+      "blocks": {
+        "image_Bqf8Tz": {
+          "type": "image",
+          "settings": {
+            "heading": "$12.50",
+            "subheading": "Pink Mallow Body Lotion",
+            "image": "shopify://shop_images/7_a290e71c-0310-4788-b05f-74bb860aa7b8.webp",
+            "link": "shopify://products/pink-mallow-body-lotion"
+          }
+        },
+        "image_kaKxk3": {
+          "type": "image",
+          "settings": {
+            "heading": "$12.50",
+            "subheading": "Vanilla Whisper Body Lotion",
+            "image": "shopify://shop_images/6_c8c6a896-8eb8-4c8c-b891-d96998495cab.webp",
+            "link": "shopify://products/vanilla-whisper-body-lotion"
+          }
+        },
+        "image_yeKeAU": {
+          "type": "image",
+          "settings": {
+            "heading": "$14.99",
+            "subheading": "Pink Mallow Body Mist",
+            "image": "shopify://shop_images/1_1.webp",
+            "link": "shopify://products/pink-mallow-body-mist"
+          }
+        },
+        "image_3den7R": {
+          "type": "image",
+          "settings": {
+            "heading": "$14.99",
+            "subheading": "Vanilla Whisper Body Mist",
+            "image": "shopify://shop_images/2_1_564ce93f-31dd-483a-907d-8bacff14329a.webp",
+            "link": "shopify://products/vanilla-whisper-body-mist"
+          }
+        },
+        "image_VzJ6WK": {
+          "type": "image",
+          "settings": {
+            "heading": "$13.50",
+            "subheading": "Pink Mallow Foaming Body Scrub",
+            "image": "shopify://shop_images/13_a4836e49-10ef-4971-9793-2d0bf3a68c0e.webp",
+            "link": "shopify://products/pink-mallow-foaming-body-scrub"
+          }
+        },
+        "image_egHUUJ": {
+          "type": "image",
+          "settings": {
+            "heading": "$13.50",
+            "subheading": "Vanilla Whisper Foaming Body Scrub",
+            "image": "shopify://shop_images/12_bcd25de1-e18b-4796-ba73-fcea22cb4577.webp",
+            "link": "shopify://products/vanilla-whisper-foaming-body-scrub"
+          }
+        },
+        "image_qLVBwq": {
+          "type": "image",
+          "settings": {
+            "heading": "$45.00",
+            "subheading": "Pink Mallow Bundle",
+            "image": "shopify://shop_images/15.webp",
+            "link": "shopify://products/pink-mallow-bundle"
+          }
+        },
+        "image_Rt9kU6": {
+          "type": "image",
+          "settings": {
+            "heading": "$8.50",
+            "subheading": "Strawberry Lip Balm",
+            "image": "shopify://shop_images/14.webp",
+            "link": "shopify://products/strawberry-lip-balm"
+          }
+        },
+        "image_pPAAgB": {
+          "type": "image",
+          "settings": {
+            "heading": "$45.00",
+            "subheading": "Vanilla Whisper Bundle",
+            "image": "shopify://shop_images/15.webp",
+            "link": "shopify://products/vanilla-bundle"
+          }
+        }
+      },
+      "block_order": [
+        "image_Bqf8Tz",
+        "image_kaKxk3",
+        "image_yeKeAU",
+        "image_3den7R",
+        "image_VzJ6WK",
+        "image_egHUUJ",
+        "image_qLVBwq",
+        "image_Rt9kU6",
+        "image_pPAAgB"
+      ],
+      "name": "t:sections.gallery-carousel.presets.name",
+      "settings": {
+        "enable_fullwidth": true,
+        "enable_top_border": false,
+        "enable_bottom_border": false,
+        "border_style": "solid",
+        "heading": "Add Your Heading Here",
+        "highlight_font": "body",
+        "seo_heading": "h2",
+        "heading_size": "h2",
+        "gallery_style": "auto-slide",
+        "slide_direction": "right",
+        "image_style": "square",
+        "image_size": "medium",
+        "text_alignment": "center",
+        "enable_image_animation": true,
+        "image_crop": false,
+        "image_background": false,
+        "enable_swipe": true,
+        "bgcolor": "primary",
+        "section_visibility": "always",
+        "top_space_desktop": 45,
+        "bottom_space_desktop": 45,
+        "top_space_mobile": 35,
+        "bottom_space_mobile": 0
+      }
+    },
     "promotion_banner_LiyC3T": {
       "type": "promotion-banner",
       "blocks": {
@@ -842,6 +965,7 @@
   "order": [
     "slider_nTmbcG",
     "tabbed_collections_JRKB3F",
+    "gallery_carousel_pUiFG9",
     "promotion_banner_LiyC3T",
     "split_banner_ynGqX3",
     "video_section_3CUTaE",
