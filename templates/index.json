@@ -853,7 +853,7 @@
         "text_alignment": "left",
         "divider_top": false,
         "divider_bottom": false,
-        "bgcolor": "gradient",
+        "bgcolor": "primary",
         "section_visibility": "always",
         "top_space_desktop": 60,
         "bottom_space_desktop": 60,
