@@ -294,16 +294,16 @@
           "settings": {
             "counter_number": 100,
             "unit_text": "%",
-            "heading": "Organic ingredients",
+            "heading": "Enriched with natural ingredients",
             "description": ""
           }
         },
         "counter_3DDBPL": {
           "type": "counter",
           "settings": {
-            "counter_number": 2100,
-            "unit_text": "+",
-            "heading": "Happy Customers",
+            "counter_number": 24,
+            "unit_text": "h",
+            "heading": "24/7 Customer Support",
             "description": ""
           }
         }
