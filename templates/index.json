@@ -149,7 +149,7 @@
         "content_below_image": false,
         "rotate": false,
         "interval": 3,
-        "desktop_height": "adapt_image",
+        "desktop_height": "850px",
         "mobile_height": "550px",
         "bgcolor": "primary"
       }
