@@ -58,9 +58,7 @@
       "block_order": [
         "slide_LYAnpn"
       ],
-      "custom_css": [
-        "@media (max-width: 1440px) {img, .yv-banner-image {height: 70vh; }}"
-      ],
+      "custom_css": [],
       "settings": {
         "nav_style": "dots-bottom-right",
         "content_below_image": false,
