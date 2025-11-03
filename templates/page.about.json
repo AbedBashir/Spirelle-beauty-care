@@ -445,7 +445,7 @@
         "description": "Sign up it only takes a second to be the news.",
         "placeholder": "Email Address",
         "btn": "Subscribe",
-        "bgcolor": "secondary",
+        "bgcolor": "primary",
         "button_text_color": "#ffffff",
         "button_bg_color": "#000000",
         "button_border_color": "#000000",
