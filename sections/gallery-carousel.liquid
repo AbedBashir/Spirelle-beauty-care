@@ -24,10 +24,10 @@
           {{ section.settings.heading | replace: "<strong>", highlightStyle | replace: "</strong>", '</span>' | replace: '++', '<br/>' }}
         </{{ section.settings.seo_heading }}>
       {%- endif -%}
-      {% if block.settings.banner_desc != blank %}
+      {% if section.settings.banner_desc != blank %}
       <div>
-        <p class="yv-banner-desc{% if block.settings.description_size == 'h5' %} h5 default{% else %} {{ block.settings.description_size }}{% endif %}{% if settings.enable_animation %} fade-animate{% endif %}">
-          {{ block.settings.banner_desc | replace: '++', '<br/>' }}
+        <p class="yv-banner-desc{% if block.settings.description_size == 'h5' %} h5 default{% else %} {% endif %}{% if settings.enable_animation %} fade-animate{% endif %}">
+          {{ section.settings.banner_desc | replace: '++', '<br/>' }}
         </p>
       </div>
     {% endif %}
