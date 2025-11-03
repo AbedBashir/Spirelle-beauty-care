@@ -1,5 +1,5 @@
 
-{%- assign img_url = image | image_url: width: '1200x' | replace: 'width=100', 'width={width}' -%}
+{%- assign img_url = image | image_url -%}
 <img
   {% if id != blank %}
     id="{{ id }}"
