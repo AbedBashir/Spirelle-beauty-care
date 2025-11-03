@@ -144,7 +144,7 @@
         "sticky_header_style": "on_scroll_up",
         "enable_header_shadow": true,
         "has_border": false,
-        "enable_transparent_header": false,
+        "enable_transparent_header": true,
         "logo": "shopify://shop_images/Spirelle__logo-01_1_1.svg",
         "logo_width": 150,
         "logo_position": "center",
