@@ -98,6 +98,7 @@
         },
         "slide_RWMXHd": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/4_5b5185a4-41af-4bdf-ab58-fd5c0796323c.webp",
             "videofile": "",
