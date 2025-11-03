@@ -145,7 +145,7 @@
         "slide_RWMXHd"
       ],
       "custom_css": [
-        "@media (max-width: 1800px) {img, .yv-banner-image {height: 60vh; }}"
+        "@media (max-width: 1800px) {img, .yv-banner-image {height: 80vh; }}"
       ],
       "settings": {
         "nav_style": "dots-bottom-right",
