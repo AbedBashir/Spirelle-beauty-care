@@ -24,6 +24,13 @@
           {{ section.settings.heading | replace: "<strong>", highlightStyle | replace: "</strong>", '</span>' | replace: '++', '<br/>' }}
         </{{ section.settings.seo_heading }}>
       {%- endif -%}
+      {% if block.settings.banner_desc != blank %}
+      <div>
+        <p class="yv-banner-desc{% if block.settings.description_size == 'h5' %} h5 default{% else %} {{ block.settings.description_size }}{% endif %}{% if settings.enable_animation %} fade-animate{% endif %}">
+          {{ block.settings.banner_desc | replace: '++', '<br/>' }}
+        </p>
+      </div>
+    {% endif %}
     </div>
     <div class="yv-gallery-outer yv-gallery-style-{{ section.settings.gallery_style }}{% if section.settings.enable_swipe %} mobile-swipe{% endif %} yv-image-style-{{ section.settings.image_crop }} yv-gallery-direction-{{ section.settings.slide_direction }}">
       {% liquid
@@ -239,6 +246,13 @@
         }
       ]
     },
+            {
+          "type": "text",
+          "id": "banner_desc",
+          "label": "t:sections.slider.blocks.slide.settings.banner_desc.label",
+          "default": "Banner Description Here",
+          "info": "t:common.line_break_text.info"
+        },
     {
       "type": "select",
       "id": "gallery_style",
