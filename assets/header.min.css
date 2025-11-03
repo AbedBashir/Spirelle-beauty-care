@@ -331,6 +331,7 @@ header {
     max-width: 80%;
     justify-content: center;
     line-height: initial;
+    gap: 20px;
 }
 
 .navbar-nav.trust-badge-enabled {
