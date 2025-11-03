@@ -15,7 +15,7 @@
         "slide_eyeHpT": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/3_637948c1-1f2d-4ce2-9bed-9ef9664ba16a.webp",
+            "image": "shopify://shop_images/3_637948c1-1f2d-4ce2-9bed-9ef9664ba16a_1.png",
             "videofile": "",
             "banner_subtitle": "",
             "glass_effect": true,
@@ -145,7 +145,7 @@
         "slide_RWMXHd"
       ],
       "custom_css": [
-        "@media (max-width: 1440px) {img, .yv-banner-image{height: 70vh; }}"
+        "@media (max-width: 1440px) {img, .yv-banner-image {height: 70vh; }}"
       ],
       "settings": {
         "nav_style": "dots-bottom-right",
