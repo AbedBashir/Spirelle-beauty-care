@@ -151,7 +151,7 @@
         "menu_navigations": "hover",
         "menu": "main-menu",
         "menu_type": "dropdown",
-        "type_font_size": 16,
+        "type_font_size": 18,
         "menu_position": "center",
         "enable_catalog": true,
         "is_catalog_normal": true,
