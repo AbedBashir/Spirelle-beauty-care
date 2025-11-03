@@ -252,6 +252,9 @@
         "image_Rt9kU6",
         "image_pPAAgB"
       ],
+      "custom_css": [
+        "p{color:black;}"
+      ],
       "name": "t:sections.gallery-carousel.presets.name",
       "settings": {
         "enable_fullwidth": true,
