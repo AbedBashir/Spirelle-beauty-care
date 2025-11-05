@@ -1,0 +1,244 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main-product": {
+      "type": "main-product",
+      "blocks": {
+        "fe3c09d6-15d2-4555-a0f5-c87ab0cf370f": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h2",
+            "seo_heading": "h2"
+          }
+        },
+        "description_QMxPJN": {
+          "type": "description",
+          "settings": {
+            "description_visibility": "always",
+            "show_as_accordion": false,
+            "open_default_accordion": false
+          }
+        },
+        "c069e4ad-5908-400d-a0ad-e071aa04cf33": {
+          "type": "review-star",
+          "settings": {}
+        },
+        "5540566c-63cd-4a90-b9b6-7707e45d7066": {
+          "type": "price",
+          "settings": {}
+        },
+        "icons_pDyjhY": {
+          "type": "icons",
+          "settings": {
+            "icon1": "smile",
+            "heading1": "100% Natural",
+            "icon2": "secure",
+            "heading2": "Lab Tested",
+            "icon3": "heart",
+            "heading3": "Organic"
+          }
+        },
+        "8658b9a0-c9c5-4055-a2e1-56a8f49d0b68": {
+          "type": "variant",
+          "settings": {
+            "size_chart": ""
+          }
+        },
+        "811e6d87-a5e5-4457-9124-d3c2ed070ba9": {
+          "type": "quantity",
+          "settings": {}
+        },
+        "complementary_products_T4dfme": {
+          "type": "complementary_products",
+          "settings": {
+            "heading": "Pairs well with",
+            "products_count": 8
+          }
+        },
+        "16819786-9d1e-449d-966d-08d21e1c91af": {
+          "type": "button",
+          "settings": {
+            "dynamic_checkout_btn": true,
+            "enable_fullwidth": true,
+            "show_subscriptions_plan": false,
+            "show_recipient_form": false,
+            "sticky_add_to_cart": true,
+            "sticky_add_to_cart_position": "top"
+          }
+        }
+      },
+      "block_order": [
+        "fe3c09d6-15d2-4555-a0f5-c87ab0cf370f",
+        "description_QMxPJN",
+        "c069e4ad-5908-400d-a0ad-e071aa04cf33",
+        "5540566c-63cd-4a90-b9b6-7707e45d7066",
+        "icons_pDyjhY",
+        "8658b9a0-c9c5-4055-a2e1-56a8f49d0b68",
+        "811e6d87-a5e5-4457-9124-d3c2ed070ba9",
+        "complementary_products_T4dfme",
+        "16819786-9d1e-449d-966d-08d21e1c91af"
+      ],
+      "settings": {
+        "gallery_style": "slider",
+        "show_description": false,
+        "open_description_accordion": false,
+        "show_variant-media": false,
+        "enable_shipping_policy": false,
+        "enable_zoom_icon": true,
+        "enable_thumb": true,
+        "content_divider_mobile": "none",
+        "carousel_thumbnail_position": "left",
+        "carousel_height_desktop": "600px",
+        "carousel_height_mobile": "400px",
+        "width": "half",
+        "style": "accordion",
+        "accordion_content_alignment": "left",
+        "content_heading": "Ingredients",
+        "content": "{{ product.metafields.product.ingredients | metafield_tag }}",
+        "content_heading2": "Features & Benefits",
+        "content2": "{{ product.metafields.product.features_benefits | metafield_tag }}",
+        "content_heading3": "",
+        "content3": ""
+      }
+    },
+    "shapes_7Ba4wt": {
+      "type": "shapes",
+      "name": "t:sections.shapes.presets.name",
+      "settings": {
+        "select_shape": "shape4",
+        "image_fit": "cover",
+        "svg_code": "",
+        "flip_shape": true,
+        "enable_marquee": true,
+        "marquee_direction": "ltr",
+        "bgcolor": "primary",
+        "svg_color": "#893347",
+        "shape_ratio": "aspect",
+        "desktop_height": 200,
+        "mobile_height": 100
+      }
+    },
+    "image_with_text_tAXXbQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_UkbCD3": {
+          "type": "heading",
+          "settings": {
+            "heading": "How To Use",
+            "highlight_font": "body",
+            "heading_size": "h2",
+            "seo_heading": "h2"
+          }
+        },
+        "text_Pdf8zF": {
+          "type": "text",
+          "settings": {
+            "content": "{{ product.metafields.product.usage_instructions | metafield_tag }}"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UkbCD3",
+        "text_Pdf8zF"
+      ],
+      "disabled": true,
+      "settings": {
+        "enable_fullwidth": false,
+        "enable_top_border": false,
+        "enable_bottom_border": false,
+        "border_style": "solid",
+        "image": "shopify://shop_images/WhatsApp_Image_2025-11-03_at_18.19.07_61438424.jpg",
+        "image_shadow": true,
+        "enable_image_animation": true,
+        "image_alignment": "left",
+        "image_height": "aspect",
+        "show_icon_on_image": true,
+        "icon": "sparkle",
+        "left_to_right": 90,
+        "top_to_bottom": 0,
+        "mobile_left_to_right": 70,
+        "mobile_top_to_bottom": 0,
+        "icon_animated_color": "#000000",
+        "content_position": "center",
+        "bgcolor": "primary",
+        "image_shadow_color": "#893347",
+        "section_visibility": "always",
+        "top_space_desktop": 60,
+        "bottom_space_desktop": 30,
+        "top_space_mobile": 30,
+        "bottom_space_mobile": 30
+      }
+    },
+    "pfp_before_after_iryehG": {
+      "type": "pfp-before-after",
+      "disabled": true,
+      "name": "PDP Before/After Image",
+      "settings": {
+        "container_width": "global",
+        "fullwidth": false,
+        "enable_top_border": false,
+        "enable_bottom_border": false,
+        "border_style": "solid",
+        "title": "Our Products Never <strong>Lies</strong>",
+        "highlight_font": "accent",
+        "seo_heading": "h2",
+        "description": "",
+        "before_image": "{{ product.metafields.product.before_image.value }}",
+        "before_image_m": "{{ product.metafields.product.before_image.value }}",
+        "after_image": "{{ product.metafields.product.after_image.value }}",
+        "after_image_m": "{{ product.metafields.product.after_image.value }}",
+        "image_height": 700,
+        "mobile_image_height": 500,
+        "before_text": "Before",
+        "after_text": "After",
+        "text_alignment": "center",
+        "drag_position": 50,
+        "bg_color": "",
+        "title_color": "#000000",
+        "description_color": "#000000",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_bg_color": "#893347",
+        "drag_text_color": "#ffffff",
+        "section_border_color": "#000000",
+        "section_visibility": "always",
+        "top_space_desktop": 60,
+        "bottom_space_desktop": 30,
+        "top_space_mobile": 30,
+        "bottom_space_mobile": 30
+      }
+    },
+    "product_recommendations": {
+      "type": "product_recommendations",
+      "settings": {
+        "heading": "Recommended Products",
+        "seo_heading": "h2",
+        "products_count": 8,
+        "product_grid_radius_desktop": 10,
+        "product_grid_radius_mobile": 10,
+        "product_grid_spacing_desktop": 10,
+        "product_grid_spacing_mobile": 10,
+        "bgcolor": "primary",
+        "top_space_desktop": 60,
+        "bottom_space_desktop": 60,
+        "top_space_mobile": 30,
+        "bottom_space_mobile": 30
+      }
+    }
+  },
+  "order": [
+    "main-product",
+    "shapes_7Ba4wt",
+    "image_with_text_tAXXbQ",
+    "pfp_before_after_iryehG",
+    "product_recommendations"
+  ]
+}
