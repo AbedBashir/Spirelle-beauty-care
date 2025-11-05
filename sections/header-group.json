@@ -176,7 +176,7 @@
         "header_bgcolor": "#f9f1f1",
         "header_textcolor": "#010101",
         "header_textcolor_hover": "#893347",
-        "transparent_text_color": "#ffffff",
+        "transparent_text_color": "#000000",
         "hamburger_bgcolor": "#4d473f",
         "hamburger_textcolor": "#ffffff",
         "hamburger_textcolor_hover": "#9b9b9b",
