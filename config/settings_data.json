@@ -138,6 +138,7 @@
     "favicon": "shopify://shop_images/favicon.png",
     "enable_stickers": true,
     "enable_test_mode": false,
+    "sticker_timer": "300000",
     "sticker_color_1": "#893347",
     "sticker_color_2": "#ffffff",
     "sticker_color_3": "#010101",
