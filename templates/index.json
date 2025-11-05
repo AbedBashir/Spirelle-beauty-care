@@ -451,7 +451,7 @@
         "subtitle": "ENJOY OUR FULL GIFT SET PACKAGE RIGHT NOW",
         "subtitle_text_size": "text",
         "button_text": "Shop Now",
-        "button_link": "shopify://collections/all",
+        "button_link": "shopify://products/gift-set",
         "button_size": "small",
         "mobile_button_size": "m-small",
         "overlay_content": false,
