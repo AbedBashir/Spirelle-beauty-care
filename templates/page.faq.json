@@ -19,44 +19,45 @@
         "textcolor": "#010101"
       }
     },
-    "1658318505f1feb568": {
+    "faq_section_EpzCcm": {
       "type": "faq-section",
       "blocks": {
-        "c14a79c5-80ab-4ecf-afaf-92d59c5b44e2": {
+        "faq_hibnVg": {
           "type": "faq",
           "settings": {
             "heading": "Are your products tested in a lab?",
-            "answer": "<p>Yes! We rigorously test our products in certified laboratories, following the highest industry standards to ensure every natural ingredient is safe, suitable for your skin, and delivers exceptional benefits you can trust.</p>"
+            "answer": "<p>Yes! We rigorously test our products<br/>in certified laboratories, following the highest industry standards to ensure<br/>every natural ingredient is safe, suitable for your skin, and delivers<br/>exceptional benefits you can trust.</p>"
           }
         },
-        "3d382006-13d6-496a-865c-f186c23dc69f": {
+        "faq_mGLbzG": {
           "type": "faq",
           "settings": {
             "heading": "Are your products all-natural?",
-            "answer": "<p>Definitely, our products are made from natural ingredients, including skin-loving plant-based oils known for their nourishing and restorative benefits. Every formulation is carefully developed and laboratory-tested to ensure safety, effectiveness, and the highest quality standards.</p>"
+            "answer": "<p>Definitely, our products are made<br/>from natural ingredients, including skin-loving plant-based oils known for<br/>their nourishing and restorative benefits. Every formulation is carefully<br/>developed and laboratory-tested to ensure safety, effectiveness, and the<br/>highest quality standards.</p>"
           }
         },
-        "1a799c22-ff4b-4880-bbb9-9b70d9cd34a5": {
+        "faq_QLrpdQ": {
           "type": "faq",
           "settings": {
-            "heading": "How long does it take to receive my order?",
-            "answer": "<p>Fast delivery is a top priority for us to provide you with the best experience before, during, and after your purchase. For orders within Lebanon, you can expect your package to arrive within 1 to 4 business days, with the convenience of cash on delivery available.</p>"
+            "heading": "How long does it take to receive myorder?",
+            "answer": "<p>Fast delivery is a top priority for<br/>us to provide you with the best experience before, during, and after your<br/>purchase. For orders within Lebanon, you can expect your package to arrive<br/>within 1 to 4 business days, with the convenience of cash on delivery<br/>available.</p>"
           }
         },
-        "2db4a2a5-9aea-4c47-a46b-5fcc49035b13": {
+        "faq_TC3Qrr": {
           "type": "faq",
           "settings": {
             "heading": "How should I store the products?",
-            "answer": "<p>Store in a cool, dry place away from direct sunlight to maintain product effectiveness and longevity.</p>"
+            "answer": "<p>Store in a cool, dry place away from<br/>direct sunlight to maintain product effectiveness and longevity.</p>"
           }
         }
       },
       "block_order": [
-        "c14a79c5-80ab-4ecf-afaf-92d59c5b44e2",
-        "3d382006-13d6-496a-865c-f186c23dc69f",
-        "1a799c22-ff4b-4880-bbb9-9b70d9cd34a5",
-        "2db4a2a5-9aea-4c47-a46b-5fcc49035b13"
+        "faq_hibnVg",
+        "faq_mGLbzG",
+        "faq_QLrpdQ",
+        "faq_TC3Qrr"
       ],
+      "name": "t:sections.faq-section.presets.name",
       "settings": {
         "enable_top_border": false,
         "enable_bottom_border": false,
@@ -66,17 +67,17 @@
         "highlight_font": "body",
         "seo_heading": "h2",
         "bgcolor": "primary",
-        "row_bgcolor": "primary",
+        "row_bgcolor": "quaternary",
         "section_visibility": "always",
-        "top_space_desktop": 45,
-        "bottom_space_desktop": 45,
-        "top_space_mobile": 40,
-        "bottom_space_mobile": 40
+        "top_space_desktop": 30,
+        "bottom_space_desktop": 30,
+        "top_space_mobile": 30,
+        "bottom_space_mobile": 30
       }
     }
   },
   "order": [
     "page-header",
-    "1658318505f1feb568"
+    "faq_section_EpzCcm"
   ]
 }
