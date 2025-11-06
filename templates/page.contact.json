@@ -36,6 +36,62 @@
         "form_button": "SEND MESSAGE"
       }
     },
+    "faq_section_U6WUNf": {
+      "type": "faq-section",
+      "blocks": {
+        "faq_PptJc3": {
+          "type": "faq",
+          "settings": {
+            "heading": "Are your products tested in a lab?",
+            "answer": "<p>Yes! We rigorously test our products<br/>in certified laboratories, following the highest industry standards to ensure<br/>every natural ingredient is safe, suitable for your skin, and delivers<br/>exceptional benefits you can trust.</p>"
+          }
+        },
+        "faq_FLMN8c": {
+          "type": "faq",
+          "settings": {
+            "heading": "Are your products all-natural?",
+            "answer": "<p>Definitely, our products are made<br/>from natural ingredients, including skin-loving plant-based oils known for<br/>their nourishing and restorative benefits. Every formulation is carefully<br/>developed and laboratory-tested to ensure safety, effectiveness, and the<br/>highest quality standards.</p>"
+          }
+        },
+        "faq_3JWKRp": {
+          "type": "faq",
+          "settings": {
+            "heading": "How long does it take to receive myorder?",
+            "answer": "<p>Fast delivery is a top priority for<br/>us to provide you with the best experience before, during, and after your<br/>purchase. For orders within Lebanon, you can expect your package to arrive<br/>within 1 to 4 business days, with the convenience of cash on delivery<br/>available.</p>"
+          }
+        },
+        "faq_4ByDwm": {
+          "type": "faq",
+          "settings": {
+            "heading": "How should I store the products?",
+            "answer": "<p>Store in a cool, dry place away from<br/>direct sunlight to maintain product effectiveness and longevity.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq_PptJc3",
+        "faq_FLMN8c",
+        "faq_3JWKRp",
+        "faq_4ByDwm"
+      ],
+      "name": "t:sections.faq-section.presets.name",
+      "settings": {
+        "enable_top_border": false,
+        "enable_bottom_border": false,
+        "open_first": true,
+        "section_border_style": "solid",
+        "heading": "FAQs",
+        "highlight_font": "body",
+        "seo_heading": "h2",
+        "bgcolor": "primary",
+        "row_bgcolor": "quaternary",
+        "section_visibility": "always",
+        "top_space_desktop": 30,
+        "bottom_space_desktop": 30,
+        "top_space_mobile": 30,
+        "bottom_space_mobile": 30
+      }
+    },
     "d4990aa8-00b1-4fd3-bf9d-3832c1bd440a": {
       "type": "map",
       "disabled": true,
@@ -64,6 +120,7 @@
   "order": [
     "main-page",
     "main",
+    "faq_section_U6WUNf",
     "d4990aa8-00b1-4fd3-bf9d-3832c1bd440a",
     "ffdeadde-5060-4cc0-bf3c-1351ff984a59"
   ]
