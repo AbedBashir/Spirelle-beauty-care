@@ -1,5 +1,61 @@
 {%- if section.blocks.size > 0 -%}
-  <div class="{% if settings.layout_width == 'boxed' %}container{% else %}container-fluid{% endif %}">
+  <div class="{% if settings.layout_width == 'boxed' %}container{% else %}<div class="container-fluid">
+    <div class="">
+        <h2 class="h4">FAQs</h2><div class="yv-product-accordion yv-faq-accordion" data-tabs-open-method="click" data-faq-accordions=""><div class="yv-accordion-card">
+              <div class="yv-accordion-header faq-template--19634008064259__faq_section_U6WUNf faqSection-header active" content="faq-content-faq_PptJc3">
+                <h6 class="accordion-heading text-medium" data-live-text-setting="template--19634008064259__faq_section_U6WUNf__faq_PptJc3.heading">Are your products tested in a lab?</h6>
+                <svg viewBox="0 0 13 12" width="13" height="12">
+                  <path d="m6 0h1v13h-1z" class="v-line"></path>
+                  <path d="m0 6h13v1h-13z" class="h-line"></path>
+                </svg>
+              </div>
+              <div class="yv-accordion-content faqSection-content" id="faq-content-faq_PptJc3" style="display:block;">
+                <div class="yv-content-body" data-live-text-setting="template--19634008064259__faq_section_U6WUNf__faq_PptJc3.answer">
+                  <p>Yes! We rigorously test our products<br>in certified laboratories, following the highest industry standards to ensure<br>every natural ingredient is safe, suitable for your skin, and delivers<br>exceptional benefits you can trust.</p>
+                </div>
+              </div>
+            </div><div class="yv-accordion-card">
+              <div class="yv-accordion-header faq-template--19634008064259__faq_section_U6WUNf faqSection-header " content="faq-content-faq_FLMN8c">
+                <h6 class="accordion-heading text-medium" data-live-text-setting="template--19634008064259__faq_section_U6WUNf__faq_FLMN8c.heading">Are your products all-natural?</h6>
+                <svg viewBox="0 0 13 12" width="13" height="12">
+                  <path d="m6 0h1v13h-1z" class="v-line"></path>
+                  <path d="m0 6h13v1h-13z" class="h-line"></path>
+                </svg>
+              </div>
+              <div class="yv-accordion-content faqSection-content" id="faq-content-faq_FLMN8c">
+                <div class="yv-content-body" data-live-text-setting="template--19634008064259__faq_section_U6WUNf__faq_FLMN8c.answer">
+                  <p>Definitely, our products are made<br>from natural ingredients, including skin-loving plant-based oils known for<br>their nourishing and restorative benefits. Every formulation is carefully<br>developed and laboratory-tested to ensure safety, effectiveness, and the<br>highest quality standards.</p>
+                </div>
+              </div>
+            </div><div class="yv-accordion-card">
+              <div class="yv-accordion-header faq-template--19634008064259__faq_section_U6WUNf faqSection-header " content="faq-content-faq_3JWKRp">
+                <h6 class="accordion-heading text-medium" data-live-text-setting="template--19634008064259__faq_section_U6WUNf__faq_3JWKRp.heading">How long does it take to receive myorder?</h6>
+                <svg viewBox="0 0 13 12" width="13" height="12">
+                  <path d="m6 0h1v13h-1z" class="v-line"></path>
+                  <path d="m0 6h13v1h-13z" class="h-line"></path>
+                </svg>
+              </div>
+              <div class="yv-accordion-content faqSection-content" id="faq-content-faq_3JWKRp">
+                <div class="yv-content-body" data-live-text-setting="template--19634008064259__faq_section_U6WUNf__faq_3JWKRp.answer">
+                  <p>Fast delivery is a top priority for<br>us to provide you with the best experience before, during, and after your<br>purchase. For orders within Lebanon, you can expect your package to arrive<br>within 1 to 4 business days, with the convenience of cash on delivery<br>available.</p>
+                </div>
+              </div>
+            </div><div class="yv-accordion-card">
+              <div class="yv-accordion-header faq-template--19634008064259__faq_section_U6WUNf faqSection-header " content="faq-content-faq_4ByDwm">
+                <h6 class="accordion-heading text-medium" data-live-text-setting="template--19634008064259__faq_section_U6WUNf__faq_4ByDwm.heading">How should I store the products?</h6>
+                <svg viewBox="0 0 13 12" width="13" height="12">
+                  <path d="m6 0h1v13h-1z" class="v-line"></path>
+                  <path d="m0 6h13v1h-13z" class="h-line"></path>
+                </svg>
+              </div>
+              <div class="yv-accordion-content faqSection-content" id="faq-content-faq_4ByDwm">
+                <div class="yv-content-body" data-live-text-setting="template--19634008064259__faq_section_U6WUNf__faq_4ByDwm.answer">
+                  <p>Store in a cool, dry place away from<br>direct sunlight to maintain product effectiveness and longevity.</p>
+                </div>
+              </div>
+            </div></div>
+    </div>
+  </div>{% endif %}">
     <div class="yv-faq-detail">
       {%- if section.settings.heading != blank -%}
         {% if section.settings.highlight_font == 'body' %}
