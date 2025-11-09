@@ -798,49 +798,60 @@
         "quote_RjNtgx": {
           "type": "quote",
           "settings": {
-            "rating": 4,
-            "message": "Add client reviews & testimonials to showcase your store’s happy clients.",
-            "author": "Author name here",
-            "author_city": "Author City here",
+            "rating": 5,
+            "message": "The Vanilla Whisper Bundle smells amazing and leaves my skin silky smooth. It’s soft, cozy, and perfect for everyday use.",
+            "author": "Sarah H.",
+            "author_city": "",
             "video_text": ""
           }
         },
-        "quote_dY6QTe": {
+        "quote_ijThVV": {
           "type": "quote",
           "settings": {
-            "rating": 4,
-            "message": "Add client reviews & testimonials to showcase your store’s happy clients.",
-            "author": "Author name here",
-            "author_city": "Author City here",
+            "rating": 5,
+            "message": "The Pink Mallow Body Mist has such a pretty scent that lasts all day. I always get compliments when I wear it.",
+            "author": "Leila M.",
+            "author_city": "",
             "video_text": ""
           }
         },
-        "quote_XmBe6V": {
+        "quote_4kgaHp": {
           "type": "quote",
           "settings": {
-            "rating": 4,
-            "message": "Add client reviews & testimonials to showcase your store’s happy clients.",
-            "author": "Author name here",
-            "author_city": "Author City here",
+            "rating": 5,
+            "message": "The Strawberry Lip Balm keeps my lips soft and hydrated for hours. I love how natural and light it feels.",
+            "author": "Rania K.",
+            "author_city": "",
             "video_text": ""
           }
         },
-        "quote_amDbJX": {
+        "quote_3Mfw6x": {
           "type": "quote",
           "settings": {
-            "rating": 4,
-            "message": "Add client reviews & testimonials to showcase your store’s happy clients.",
-            "author": "Author name here",
-            "author_city": "Author City here",
+            "rating": 5,
+            "message": "The Spirelle Gift Box looks beautiful and smells like a luxury spa. It made the perfect self-care treat.",
+            "author": "Maya T.",
+            "author_city": "",
+            "video_text": ""
+          }
+        },
+        "quote_gWJUXU": {
+          "type": "quote",
+          "settings": {
+            "rating": 5,
+            "message": "The Pink Mallow Sugar Body Scrub makes my skin feel baby soft. I can’t stop using it before every shower.",
+            "author": "Dina A.",
+            "author_city": "",
             "video_text": ""
           }
         }
       },
       "block_order": [
         "quote_RjNtgx",
-        "quote_dY6QTe",
-        "quote_XmBe6V",
-        "quote_amDbJX"
+        "quote_ijThVV",
+        "quote_4kgaHp",
+        "quote_3Mfw6x",
+        "quote_gWJUXU"
       ],
       "settings": {
         "heading": "Our Happy <strong>Customers</strong>",
