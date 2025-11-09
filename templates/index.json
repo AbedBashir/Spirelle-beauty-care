@@ -16,6 +16,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/3_637948c1-1f2d-4ce2-9bed-9ef9664ba16a_1.png",
+            "image_mobile": "shopify://shop_images/3_1_portrait_4x5_1080x1350_19d9146c-88d1-47cb-a996-65b0314f3402.jpg",
             "videofile": "",
             "banner_subtitle": "",
             "glass_effect": true,
@@ -58,6 +59,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/1_2.webp",
+            "image_mobile": "shopify://shop_images/1_2_story_9x16_1080x1920_01604696-ad5b-4fd6-82c0-7befc7c8edc4.jpg",
             "videofile": "",
             "banner_subtitle": "",
             "glass_effect": true,
@@ -152,7 +154,7 @@
         "rotate": true,
         "interval": 3,
         "desktop_height": "adapt_image",
-        "mobile_height": "550px",
+        "mobile_height": "adapt_image",
         "bgcolor": "primary"
       }
     },
