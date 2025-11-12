@@ -444,7 +444,7 @@
         "desktop_height": 580,
         "mobile_height": 350,
         "autoplay": false,
-        "video_size": "cover",
+        "video_size": "contain",
         "bg_pattern": "wave",
         "title": "SAVE MORE WITH OUR [GIFT SET]",
         "highlight_font": "accent",
