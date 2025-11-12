@@ -74,6 +74,7 @@
         "faq_3JWKRp",
         "faq_4ByDwm"
       ],
+      "disabled": true,
       "name": "t:sections.faq-section.presets.name",
       "settings": {
         "enable_top_border": false,
