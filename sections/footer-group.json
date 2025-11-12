@@ -121,7 +121,7 @@
           "type": "newsletter",
           "settings": {
             "heading": "Newsletter",
-            "description": "Description here",
+            "description": "Sign up it only takes a second to be the news.",
             "show_newsletter": true,
             "placeholder": "Email address",
             "button_style": "icon",
