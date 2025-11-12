@@ -11,6 +11,7 @@
   "sections": {
     "page-header": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "seo_heading": "h2",
         "banner_height_desktop": "auto",
