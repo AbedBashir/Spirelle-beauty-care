@@ -443,7 +443,7 @@
         "fullwidth": true,
         "desktop_height": 580,
         "mobile_height": 350,
-        "autoplay": false,
+        "autoplay": true,
         "video_size": "contain",
         "bg_pattern": "wave",
         "title": "SAVE MORE WITH OUR [GIFT SET]",
