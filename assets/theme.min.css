@@ -1380,15 +1380,17 @@ html:not(.no-js) .yv-collection-slider-wrapper:not(.flickity-enabled) {
 }
 
 .yv-product-badge {
-  top: 0;
-  left: 0;
-  padding: 4px 10px;
-  text-transform: uppercase;
-  font-size: 11px;
-  line-height: 1.2;
-  position: absolute;
-  z-index: 0;
-  letter-spacing: 0;
+    top: 0;
+    left: 0;
+    padding: 5px 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 1.2;
+    position: absolute;
+    z-index: 0;
+    letter-spacing: 0;
+    transform: rotate(-10deg);
 }
 
 .yv-product-badge:nth-child(2) {
