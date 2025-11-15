@@ -34,7 +34,7 @@
             "button_link2": "",
             "button2_alternate": true,
             "desktop_content_position": "d-center-left",
-            "mobile_content_position": "m-center",
+            "mobile_content_position": "m-bottom-center",
             "title_color": "#000000",
             "subtitle_color": "#000000",
             "subtitle_bgcolor": "#dcdcdc",
