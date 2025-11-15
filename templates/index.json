@@ -267,7 +267,7 @@
         "highlight_font": "body",
         "seo_heading": "h2",
         "heading_size": "h2",
-        "banner_desc": "All prices are discounted at 40%",
+        "banner_desc": "<strong>All prices are discounted at 40%</strong>",
         "gallery_style": "auto-slide",
         "slide_direction": "right",
         "image_style": "square",
