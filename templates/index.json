@@ -255,7 +255,7 @@
         "image_pPAAgB"
       ],
       "custom_css": [
-        "p {color: black;}"
+        "p {color: black; font-size:16px;}"
       ],
       "name": "t:sections.gallery-carousel.presets.name",
       "settings": {
