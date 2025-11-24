@@ -237,9 +237,9 @@
           "type": "image",
           "settings": {
             "heading": "$45.00",
-            "subheading": "Vanilla Whisper Bundle",
+            "subheading": "Gift Set",
             "image": "shopify://shop_images/15.webp",
-            "link": "shopify://products/vanilla-bundle"
+            "link": "shopify://products/gift-set"
           }
         }
       },
