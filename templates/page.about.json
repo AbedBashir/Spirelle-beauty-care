@@ -15,7 +15,7 @@
         "slide_ammkR9": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/3_2921910d-0128-4c49-b543-95e89159917f.webp",
+            "image": "shopify://shop_images/about_us_compressed_2X1A9103_1.png",
             "videofile": "",
             "banner_subtitle": "",
             "glass_effect": true,
@@ -42,7 +42,7 @@
             "btn_text": "#ffffff",
             "btn_border": "#893347",
             "overlay_color": "#181818",
-            "overlay_opacity": 50,
+            "overlay_opacity": 60,
             "title_color_m": "#ffffff",
             "subtitle_color_m": "#000000",
             "subtitle_bgcolor_m": "#dcdcdc",
