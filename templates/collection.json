@@ -16,6 +16,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/compressed_2X1A9041_products.png",
+            "image_mobile": "shopify://shop_images/compressed_2X1A9041.webp",
             "videofile": "",
             "banner_subtitle": "",
             "glass_effect": true,
