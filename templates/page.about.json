@@ -87,7 +87,7 @@
           "settings": {
             "first_image": "shopify://shop_images/Lynn_mission.png",
             "second_image": "shopify://shop_images/WhatsApp_Image_2025-11-03_at_18.26.29_a2320b43.jpg",
-            "image_shadow": true,
+            "image_shadow": false,
             "bgcolor": "primary",
             "image_shadow_color": "#ffd1d1"
           }
