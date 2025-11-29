@@ -52,7 +52,7 @@
             "btn_text_m": "#000000",
             "btn_border_m": "#ffffff",
             "overlay_color_m": "#010101",
-            "overlay_opacity_m": 70
+            "overlay_opacity_m": 60
           }
         }
       },
