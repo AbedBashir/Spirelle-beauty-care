@@ -59,7 +59,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/Homepage_banner.png",
-            "image_mobile": "shopify://shop_images/Home_page_Lynn.png",
+            "image_mobile": "shopify://shop_images/Lynn_home_page.png",
             "videofile": "",
             "banner_subtitle": "",
             "glass_effect": true,
