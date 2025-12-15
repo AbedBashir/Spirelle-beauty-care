@@ -85,8 +85,8 @@
         "image_fL9PrQ": {
           "type": "image",
           "settings": {
-            "first_image": "shopify://shop_images/Lynn_mission.png",
-            "second_image": "shopify://shop_images/WhatsApp_Image_2025-11-03_at_18.26.29_a2320b43.jpg",
+            "first_image": "shopify://shop_images/Lynn_home_page.png",
+            "second_image": "shopify://shop_images/Lynn_about_is.png",
             "image_shadow": false,
             "bgcolor": "primary",
             "image_shadow_color": "#ffd1d1"
@@ -104,9 +104,7 @@
         "image_fL9PrQ",
         "text_49XzQ6"
       ],
-      "custom_css": [
-        "@media (max-width: 768px) {img {object-fit: fill; }}"
-      ],
+      "custom_css": [],
       "name": "t:sections.multi-image-with-text.presets.name",
       "settings": {
         "text_alignment": "center",
