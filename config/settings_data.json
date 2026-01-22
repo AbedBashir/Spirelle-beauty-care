@@ -398,13 +398,13 @@
         "disabled": false,
         "settings": {}
       },
-      "14900259222037449619": {
-        "type": "shopify://apps/chaty-whatsapp-chat-buttons/blocks/chaty/0aaf5812-760f-4dd7-be9b-cca564d8200b",
+      "5674012996228588682": {
+        "type": "shopify://apps/cartbot/blocks/cartbot-script-append/f7a44e3b-3901-4412-9d5a-3db0980a9db0",
         "disabled": false,
         "settings": {}
       },
-      "5674012996228588682": {
-        "type": "shopify://apps/cartbot/blocks/cartbot-script-append/f7a44e3b-3901-4412-9d5a-3db0980a9db0",
+      "14900259222037449619": {
+        "type": "shopify://apps/chaty-chat-buttons-whatsapp/blocks/chaty/0aaf5812-760f-4dd7-be9b-cca564d8200b",
         "disabled": false,
         "settings": {}
       }
