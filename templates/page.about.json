@@ -145,55 +145,6 @@
         "bottom_space_mobile": 30
       }
     },
-    "57a0ac3d-0018-449d-b5d4-2b42fdc08019": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16809124135205__57a0ac3d-0018-449d-b5d4-2b42fdc08019-1667815190820c6958-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Our Mission",
-            "highlight_font": "body",
-            "heading_size": "h2",
-            "seo_heading": "h2"
-          }
-        },
-        "text_73BhHB": {
-          "type": "text",
-          "settings": {
-            "content": "<p>At Spirèlle, our mission is to inspire confidence and self-love through luxurious, science-backed skincare crafted with nature’s finest ingredients. We believe in the power of natural beauty, which is why we carefully select natural-based, high-quality ingredients that are both gentle and effective. Every product is designed to not only nourish your skin but also elevate your daily rituals into moments of elegance and self-care. Above all, we are dedicated to earning your trustthrough transparency, purity, and results you can truly feel.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--16809124135205__57a0ac3d-0018-449d-b5d4-2b42fdc08019-1667815190820c6958-0",
-        "text_73BhHB"
-      ],
-      "settings": {
-        "enable_fullwidth": false,
-        "enable_top_border": false,
-        "enable_bottom_border": false,
-        "border_style": "solid",
-        "image_shadow": true,
-        "enable_image_animation": true,
-        "image_alignment": "left",
-        "image_height": "aspect",
-        "show_icon_on_image": false,
-        "icon": "snail",
-        "left_to_right": 50,
-        "top_to_bottom": 50,
-        "mobile_left_to_right": 50,
-        "mobile_top_to_bottom": 50,
-        "icon_animated_color": "#000000",
-        "content_position": "center",
-        "bgcolor": "primary",
-        "image_shadow_color": "#ffd1d1",
-        "section_visibility": "always",
-        "top_space_desktop": 50,
-        "bottom_space_desktop": 50,
-        "top_space_mobile": 30,
-        "bottom_space_mobile": 30
-      }
-    },
     "shapes_xQHAc3": {
       "type": "shapes",
       "name": "t:sections.shapes.presets.name",
@@ -269,52 +220,31 @@
         "mobile_height": 100
       }
     },
-    "image_with_text_NdEFXK": {
-      "type": "image-with-text",
+    "rich_text_8GpefU": {
+      "type": "rich-text",
       "blocks": {
-        "heading_XQg8NK": {
-          "type": "heading",
+        "richtext_EU7Awt": {
+          "type": "richtext",
           "settings": {
             "heading": "Our Vision",
             "highlight_font": "body",
-            "heading_size": "h2",
-            "seo_heading": "h2"
-          }
-        },
-        "text_VgkJk7": {
-          "type": "text",
-          "settings": {
-            "content": "<p>Spirèlle is redefining what skincare means, turning everyday care into a refined, transformative experience. We are driven by a vision to lead the beauty industry with integrity, innovation, and a deep commitment to natural excellence. Our aim is to build lasting trust and inspire a global community to embrace self-love through clean, effective, and elegant skincare solutions. Inspired by the natural richness of Lebanon, we’re committed to taking Spirèlle beyond borders, showing the world the high quality and care that Lebanese skincare can offer.</p>"
+            "seo_heading": "h2",
+            "size": "h2",
+            "content": "<p>Spirèlle is redefining what skincare means, turning everyday care into a refined, transformative experience. We are driven by a vision to lead the beauty industry with integrity, innovation, and a deep commitment to natural excellence. Our aim is to build lasting trust and inspire a global community to embrace self-love through clean, effective, and elegant skincare solutions. Inspired by the natural richness of Lebanon, we’re committed to taking Spirèlle beyond borders, showing the world the high quality and care that Lebanese skincare can offer.<br/><br/></p>"
           }
         }
       },
       "block_order": [
-        "heading_XQg8NK",
-        "text_VgkJk7"
+        "richtext_EU7Awt"
       ],
+      "name": "t:sections.rich-text.presets.name",
       "settings": {
-        "enable_fullwidth": false,
-        "enable_top_border": false,
-        "enable_bottom_border": false,
-        "border_style": "solid",
-        "image": "shopify://shop_images/2X1A60284X5.jpg",
-        "image_shadow": true,
-        "enable_image_animation": true,
-        "image_alignment": "right",
-        "image_height": "aspect",
-        "show_icon_on_image": false,
-        "icon": "snail",
-        "left_to_right": 50,
-        "top_to_bottom": 50,
-        "mobile_left_to_right": 50,
-        "mobile_top_to_bottom": 50,
-        "icon_animated_color": "#000000",
-        "content_position": "center",
+        "content_width": "container sm-container",
+        "content_alignment": "center",
         "bgcolor": "primary",
-        "image_shadow_color": "#ffd1d1",
         "section_visibility": "always",
         "top_space_desktop": 50,
-        "bottom_space_desktop": 50,
+        "bottom_space_desktop": 0,
         "top_space_mobile": 30,
         "bottom_space_mobile": 30
       }
@@ -524,11 +454,10 @@
     "slider_nTmbcG",
     "multi_image_with_text_BFYNna",
     "rich_text_tHEX7r",
-    "57a0ac3d-0018-449d-b5d4-2b42fdc08019",
     "shapes_xQHAc3",
     "1150b3e1-1567-48c0-b405-dac1b7cc9699",
     "shapes_wyTbUA",
-    "image_with_text_NdEFXK",
+    "rich_text_8GpefU",
     "8bce3833-93d0-4d63-977e-1fb74bd00e34",
     "rich_text_hT3DFr",
     "image_with_text_CYckbh",
