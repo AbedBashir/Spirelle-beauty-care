@@ -116,6 +116,35 @@
         "bottom_space_mobile": 30
       }
     },
+    "rich_text_tHEX7r": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_8GxikR": {
+          "type": "richtext",
+          "settings": {
+            "heading": "Our Mission",
+            "highlight_font": "body",
+            "seo_heading": "h2",
+            "size": "h2",
+            "content": "<p>At Spirèlle, our mission is to inspire confidence and self-love through luxurious, science-backed skincare crafted with nature’s finest ingredients. We believe in the power of natural beauty, which is why we carefully select natural-based, high-quality ingredients that are both gentle and effective. Every product is designed to not only nourish your skin but also elevate your daily rituals into moments of elegance and self-care. Above all, we are dedicated to earning your trustthrough transparency, purity, and results you can truly feel.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_8GxikR"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "content_width": "container sm-container",
+        "content_alignment": "center",
+        "bgcolor": "primary",
+        "section_visibility": "always",
+        "top_space_desktop": 50,
+        "bottom_space_desktop": 0,
+        "top_space_mobile": 30,
+        "bottom_space_mobile": 30
+      }
+    },
     "57a0ac3d-0018-449d-b5d4-2b42fdc08019": {
       "type": "image-with-text",
       "blocks": {
@@ -144,7 +173,6 @@
         "enable_top_border": false,
         "enable_bottom_border": false,
         "border_style": "solid",
-        "image": "shopify://shop_images/2X1A1873WITH_LIGHT.jpg",
         "image_shadow": true,
         "enable_image_animation": true,
         "image_alignment": "left",
@@ -495,6 +523,7 @@
   "order": [
     "slider_nTmbcG",
     "multi_image_with_text_BFYNna",
+    "rich_text_tHEX7r",
     "57a0ac3d-0018-449d-b5d4-2b42fdc08019",
     "shapes_xQHAc3",
     "1150b3e1-1567-48c0-b405-dac1b7cc9699",
