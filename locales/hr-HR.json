@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "days": "dana",
@@ -12,7 +21,7 @@
       "login_form_error": "Pogrešna lozinka!",
       "login_form_submit": "Unesi",
       "modal": "Lozinka modalna",
-      "admin_link_html": "Jeste li vi vlasnik trgovine? <a href=\"\/admin\" class=\"link underlined-link\">Prijavite se ovdje<\/a>",
+      "admin_link_html": "Jeste li vi vlasnik trgovine? <a href=\"/admin\" class=\"link underlined-link\">Prijavite se ovdje</a>",
       "powered_by_shopify_html": "Ovu trgovinu će pokretati {{ shopify }}",
       "opening_soon": "NAPRAVITI"
     },
@@ -142,7 +151,7 @@
       "size_chart_label": "Tablica veličina",
       "tax_included": "Porez uključen.",
       "shipping_policy": "Dostava se obračunava na blagajni.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">dostava<\/a> obračunava se na blagajni",
+      "shipping_policy_html": "<a href=\"{{ link }}\">dostava</a> obračunava se na blagajni",
       "media": {
         "heading": "Galerija",
         "open_featured_media": "Otvorite istaknute medije u prikazu galerije",
@@ -168,8 +177,8 @@
         "check_other_stores": "Provjerite dostupnost u drugim trgovinama",
         "pick_up_available": "Moguće preuzimanje",
         "pick_up_unavailable": "Preuzimanje trenutno nije dostupno",
-        "pick_up_available_at_html": "Moguće preuzimanje u <span class=\"color-foreground\">{{ location_name }}<\/span>",
-        "pick_up_unavailable_at_html": "Preuzimanje trenutno nije dostupno u <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_available_at_html": "Moguće preuzimanje u <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_unavailable_at_html": "Preuzimanje trenutno nije dostupno u <span class=\"color-foreground\">{{ location_name }}</span>",
         "unavailable": "Nije moguće učitati dostupnost preuzimanja",
         "refresh": "Osvježiti"
       },
@@ -231,7 +240,7 @@
     "404": {
       "tag": "Ups!",
       "title": "Stranica nije pronađena",
-      "subtext_html": "Stranica koju ste tražili ne postoji.  <a href=\"\/collections\/all\">ovdje<\/a> za nastavak kupovine.",
+      "subtext_html": "Stranica koju ste tražili ne postoji.  <a href=\"/collections/all\">ovdje</a> za nastavak kupovine.",
       "button_txt": "Idi na početnu stranicu"
     },
     "search": {
@@ -286,7 +295,7 @@
     },
     "cart": {
       "title": "Vaša kolica",
-      "heading_html": "U tvojoj torbi <span data-cart-item-count=\"\">{{itemCount}}<\/span> stavke",
+      "heading_html": "U tvojoj torbi <span data-cart-item-count=\"\">{{itemCount}}</span> stavke",
       "caption": "Stavke u košarici",
       "price_detail": "Cijena Detalji",
       "remove_title": "Ukloniti {{ title }}",
@@ -303,9 +312,9 @@
       "payment": "Metode Plačanja",
       "cart_error": "Došlo je do pogreške prilikom ažuriranja vaše košarice. ",
       "cart_quantity_error_html": "Možete samo dodati {{ quantity }} ovog artikla u vašu košaricu.",
-      "taxes_and_shipping_policy_at_checkout_html": "Porezi i <a href=\"{{ link }}\">dostava<\/a> obračunava se na blagajni",
+      "taxes_and_shipping_policy_at_checkout_html": "Porezi i <a href=\"{{ link }}\">dostava</a> obračunava se na blagajni",
       "taxes_included_but_shipping_at_checkout": "Porez je uključen i poštarina se obračunava na blagajni",
-      "taxes_included_and_shipping_policy_html": "Porez uključen. <a href=\"{{ link }}\">dostava<\/a> obračunava se na blagajni.",
+      "taxes_included_and_shipping_policy_html": "Porez uključen. <a href=\"{{ link }}\">dostava</a> obračunava se na blagajni.",
       "taxes_and_shipping_at_checkout": "Porezi i poštarina obračunavaju se prilikom naplate",
       "headings": {
         "product": "Proizvod",
@@ -317,7 +326,7 @@
       "update": "Ažuriraj",
       "login": {
         "title": "Imate račun?",
-        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Prijaviti se<\/a> da se brže odjavite."
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Prijaviti se</a> da se brže odjavite."
       },
       "shipping_estimates": {
         "heading": "Dobijte procjenu dostave za svoju narudžbu",
@@ -375,7 +384,7 @@
       "sort_by_label": "Poredaj po",
       "title": "Kolekcija",
       "to": "Do",
-      "use_fewer_filters_html": "Koristite manje filtera ili <a class=\"{{ class }}\" href=\"{{ link }}\">očistiti sve<\/a>"
+      "use_fewer_filters_html": "Koristite manje filtera ili <a class=\"{{ class }}\" href=\"{{ link }}\">očistiti sve</a>"
     },
     "video": {
       "load_video": "Učitaj video: {{ description }}"
@@ -392,10 +401,10 @@
   },
   "localization": {
     "update": "Ažuriraj",
-    "country_label": "Država\/regija",
+    "country_label": "Država/regija",
     "language_label": "Jezik",
     "update_language": "Ažurirajte jezik",
-    "update_country": "Ažurirajte državu\/regiju"
+    "update_country": "Ažurirajte državu/regiju"
   },
   "customer": {
     "account": {
@@ -425,7 +434,7 @@
       "address1": "adresa 1",
       "address2": "Adresa 2",
       "city": "Grad",
-      "country": "Država\/regija",
+      "country": "Država/regija",
       "province": "Pokrajina",
       "zip": "Poštanski broj",
       "phone": "Telefon",
@@ -548,6 +557,51 @@
       "expired": "Istekao",
       "copy_code_success": "Kod je uspješno kopiran",
       "print_gift_card": "Ispis"
+    }
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
+      }
+    },
+    "article": {
+      "tags": "Tags:",
+      "all_topics": "All topics",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    },
+    "password_page": {
+      "login_form_message": "Enter store using password:",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "password_link": "Enter using password"
     }
   }
 }

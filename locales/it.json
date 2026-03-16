@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "days": "Giorni",
@@ -12,7 +21,7 @@
       "login_form_error": "Password errata!",
       "login_form_submit": "accedere",
       "modal": "Password modale",
-      "admin_link_html": "Sei il proprietario del negozio? <a href=\"\/admin\" class=\"link underlined-link\">Accedi qui<\/a>",
+      "admin_link_html": "Sei il proprietario del negozio? <a href=\"/admin\" class=\"link underlined-link\">Accedi qui</a>",
       "powered_by_shopify_html": "Questo negozio sarà alimentato da {{ shopify }}",
       "opening_soon": "FARE"
     },
@@ -142,7 +151,7 @@
       "size_chart_label": "Tabella di formato",
       "tax_included": "Tasse incluse.",
       "shipping_policy": "Spedizione calcolata al momento del pagamento.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Spedizione<\/a> calcolato alla cassa",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Spedizione</a> calcolato alla cassa",
       "media": {
         "heading": "Galleria",
         "open_featured_media": "Apri i media in primo piano nella visualizzazione galleria",
@@ -168,8 +177,8 @@
         "check_other_stores": "Verifica la disponibilità in altri negozi",
         "pick_up_available": "Ritiro disponibile",
         "pick_up_unavailable": "Ritiro al momento non disponibile",
-        "pick_up_available_at_html": "Ritiro disponibile a <span class=\"color-foreground\">{{ location_name }}<\/span>",
-        "pick_up_unavailable_at_html": "Ritiro attualmente non disponibile presso <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_available_at_html": "Ritiro disponibile a <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_unavailable_at_html": "Ritiro attualmente non disponibile presso <span class=\"color-foreground\">{{ location_name }}</span>",
         "unavailable": "Impossibile caricare la disponibilità del ritiro",
         "refresh": "ricaricare"
       },
@@ -231,7 +240,7 @@
     "404": {
       "tag": "Ops!",
       "title": "Pagina non trovata",
-      "subtext_html": "La pagina richiesta non esiste.  <a href=\"\/collections\/all\">Qui<\/a> per continuare a fare acquisti.",
+      "subtext_html": "La pagina richiesta non esiste.  <a href=\"/collections/all\">Qui</a> per continuare a fare acquisti.",
       "button_txt": "Vai alla pagina principale"
     },
     "search": {
@@ -286,7 +295,7 @@
     },
     "cart": {
       "title": "Il tuo carrello",
-      "heading_html": "Nella tua borsa <span data-cart-item-count=\"\">{{itemCount}}<\/span> elementi",
+      "heading_html": "Nella tua borsa <span data-cart-item-count=\"\">{{itemCount}}</span> elementi",
       "caption": "Articoli del carrello",
       "price_detail": "Dettagli sul prezzo",
       "remove_title": "Rimuovere {{ title }}",
@@ -303,9 +312,9 @@
       "payment": "Modalità di pagamento",
       "cart_error": "Si è verificato un errore durante l'aggiornamento del carrello. ",
       "cart_quantity_error_html": "Puoi solo aggiungere {{ quantity }} di questo articolo nel carrello.",
-      "taxes_and_shipping_policy_at_checkout_html": "Tasse e <a href=\"{{ link }}\">spedizione<\/a> calcolato alla cassa",
+      "taxes_and_shipping_policy_at_checkout_html": "Tasse e <a href=\"{{ link }}\">spedizione</a> calcolato alla cassa",
       "taxes_included_but_shipping_at_checkout": "Tasse incluse e spedizione calcolata al momento del pagamento",
-      "taxes_included_and_shipping_policy_html": "Tasse incluse. <a href=\"{{ link }}\">Spedizione<\/a> calcolato alla cassa.",
+      "taxes_included_and_shipping_policy_html": "Tasse incluse. <a href=\"{{ link }}\">Spedizione</a> calcolato alla cassa.",
       "taxes_and_shipping_at_checkout": "Tasse e spedizione calcolate al momento del pagamento",
       "headings": {
         "product": "Prodotto",
@@ -317,7 +326,7 @@
       "update": "Aggiornamento",
       "login": {
         "title": "Avere un conto?",
-        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Login<\/a> per effettuare il check-out più velocemente."
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Login</a> per effettuare il check-out più velocemente."
       },
       "shipping_estimates": {
         "heading": "Ottieni una spedizione stimata per il tuo ordine",
@@ -375,7 +384,7 @@
       "sort_by_label": "Ordina per",
       "title": "Collezione",
       "to": "A",
-      "use_fewer_filters_html": "Usa meno filtri o <a class=\"{{ class }}\" href=\"{{ link }}\">cancella tutto<\/a>"
+      "use_fewer_filters_html": "Usa meno filtri o <a class=\"{{ class }}\" href=\"{{ link }}\">cancella tutto</a>"
     },
     "video": {
       "load_video": "Carica video: {{ description }}"
@@ -392,10 +401,10 @@
   },
   "localization": {
     "update": "Aggiornamento",
-    "country_label": "Paese\/regione",
+    "country_label": "Paese/regione",
     "language_label": "Lingua",
     "update_language": "Aggiorna lingua",
-    "update_country": "Aggiorna paese\/regione"
+    "update_country": "Aggiorna paese/regione"
   },
   "customer": {
     "account": {
@@ -425,7 +434,7 @@
       "address1": "Indirizzo 1",
       "address2": "Indirizzo 2",
       "city": "Città",
-      "country": "Paese\/regione",
+      "country": "Paese/regione",
       "province": "Provincia",
       "zip": "Codice postale",
       "phone": "Telefono",
@@ -548,6 +557,51 @@
       "expired": "Scaduto",
       "copy_code_success": "Codice copiato con successo",
       "print_gift_card": "Stampa"
+    }
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
+      }
+    },
+    "article": {
+      "tags": "Tags:",
+      "all_topics": "All topics",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    },
+    "password_page": {
+      "login_form_message": "Enter store using password:",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "password_link": "Enter using password"
     }
   }
 }
