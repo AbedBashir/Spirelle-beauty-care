@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "days": "Dager",
@@ -12,7 +21,7 @@
       "login_form_error": "Feil passord!",
       "login_form_submit": "Tast inn",
       "modal": "Passord modal",
-      "admin_link_html": "Er du butikkeier? <a href=\"\/admin\" class=\"link underlined-link\">Logg inn her<\/a>",
+      "admin_link_html": "Er du butikkeier? <a href=\"/admin\" class=\"link underlined-link\">Logg inn her</a>",
       "powered_by_shopify_html": "Denne butikken vil bli drevet av {{ shopify }}",
       "opening_soon": "Å GJØRE"
     },
@@ -142,7 +151,7 @@
       "size_chart_label": "Størrelsesoversikt",
       "tax_included": "Avgift inkludert.",
       "shipping_policy": "Frakt beregnes i kassen.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Shipping<\/a> beregnes i kassen",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Shipping</a> beregnes i kassen",
       "media": {
         "heading": "Galleri",
         "open_featured_media": "Åpne fremhevede medier i gallerivisning",
@@ -168,8 +177,8 @@
         "check_other_stores": "Sjekk tilgjengelighet i andre butikker",
         "pick_up_available": "Henting tilgjengelig",
         "pick_up_unavailable": "Henting er for øyeblikket ikke tilgjengelig",
-        "pick_up_available_at_html": "Kan hentes kl <span class=\"color-foreground\">{{ location_name }}<\/span>",
-        "pick_up_unavailable_at_html": "Henting er for øyeblikket ikke tilgjengelig kl <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_available_at_html": "Kan hentes kl <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_unavailable_at_html": "Henting er for øyeblikket ikke tilgjengelig kl <span class=\"color-foreground\">{{ location_name }}</span>",
         "unavailable": "Kunne ikke laste inn tilgjengelighet for henting",
         "refresh": "Forfriske"
       },
@@ -231,7 +240,7 @@
     "404": {
       "tag": "Oops!",
       "title": "Side ikke funnet",
-      "subtext_html": "Siden du ba om finnes ikke.  <a href=\"\/collections\/all\">her<\/a> å fortsette å handle.",
+      "subtext_html": "Siden du ba om finnes ikke.  <a href=\"/collections/all\">her</a> å fortsette å handle.",
       "button_txt": "Gå til hjemmesiden"
     },
     "search": {
@@ -286,7 +295,7 @@
     },
     "cart": {
       "title": "Handlevognen din",
-      "heading_html": "I bagen din <span data-cart-item-count=\"\">{{itemCount}}<\/span> gjenstander",
+      "heading_html": "I bagen din <span data-cart-item-count=\"\">{{itemCount}}</span> gjenstander",
       "caption": "Handlevogn varer",
       "price_detail": "Prisdetaljer",
       "remove_title": "Fjerne {{ title }}",
@@ -303,9 +312,9 @@
       "payment": "Betalingsmetoder",
       "cart_error": "Det oppsto en feil under oppdatering av handlekurven. ",
       "cart_quantity_error_html": "Du kan bare legge til {{ quantity }} av denne varen til handlekurven din.",
-      "taxes_and_shipping_policy_at_checkout_html": "Skatter og <a href=\"{{ link }}\">Shipping<\/a> beregnes i kassen",
+      "taxes_and_shipping_policy_at_checkout_html": "Skatter og <a href=\"{{ link }}\">Shipping</a> beregnes i kassen",
       "taxes_included_but_shipping_at_checkout": "Inkludert moms og frakt beregnes i kassen",
-      "taxes_included_and_shipping_policy_html": "Avgift inkludert. <a href=\"{{ link }}\">Shipping<\/a> beregnes i kassen.",
+      "taxes_included_and_shipping_policy_html": "Avgift inkludert. <a href=\"{{ link }}\">Shipping</a> beregnes i kassen.",
       "taxes_and_shipping_at_checkout": "Avgifter og frakt beregnes i kassen",
       "headings": {
         "product": "Produkt",
@@ -317,7 +326,7 @@
       "update": "Oppdater",
       "login": {
         "title": "Har en konto?",
-        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Logg Inn<\/a> for å sjekke ut raskere."
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Logg Inn</a> for å sjekke ut raskere."
       },
       "shipping_estimates": {
         "heading": "Få estimert frakt for bestillingen din",
@@ -375,7 +384,7 @@
       "sort_by_label": "Sorter etter",
       "title": "Samling",
       "to": "Til",
-      "use_fewer_filters_html": "Bruk færre filtre eller <a class=\"{{ class }}\" href=\"{{ link }}\">Rydd alt<\/a>"
+      "use_fewer_filters_html": "Bruk færre filtre eller <a class=\"{{ class }}\" href=\"{{ link }}\">Rydd alt</a>"
     },
     "video": {
       "load_video": "Last inn video: {{ description }}"
@@ -392,10 +401,10 @@
   },
   "localization": {
     "update": "Oppdater",
-    "country_label": "Land\/region",
+    "country_label": "Land/region",
     "language_label": "Språk",
     "update_language": "Oppdater språk",
-    "update_country": "Oppdater land\/region"
+    "update_country": "Oppdater land/region"
   },
   "customer": {
     "account": {
@@ -425,7 +434,7 @@
       "address1": "Adresse 1",
       "address2": "adresse 2",
       "city": "By",
-      "country": "Land\/region",
+      "country": "Land/region",
       "province": "Provins",
       "zip": "Postnummer",
       "phone": "Telefon",
@@ -548,6 +557,51 @@
       "expired": "Utløpt",
       "copy_code_success": "Koden ble kopiert",
       "print_gift_card": "Skrive ut"
+    }
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
+      }
+    },
+    "article": {
+      "tags": "Tags:",
+      "all_topics": "All topics",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    },
+    "password_page": {
+      "login_form_message": "Enter store using password:",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "password_link": "Enter using password"
     }
   }
 }

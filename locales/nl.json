@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "days": "Dagen",
@@ -12,7 +21,7 @@
       "login_form_error": "Verkeerd wachtwoord!",
       "login_form_submit": "Binnenkomen",
       "modal": "Modaal wachtwoord",
-      "admin_link_html": "Ben jij de winkeleigenaar? <a href=\"\/admin\" class=\"link underlined-link\">Hier inloggen<\/a>",
+      "admin_link_html": "Ben jij de winkeleigenaar? <a href=\"/admin\" class=\"link underlined-link\">Hier inloggen</a>",
       "powered_by_shopify_html": "Deze winkel wordt mogelijk gemaakt door {{ shopify }}",
       "opening_soon": "TE DOEN"
     },
@@ -142,7 +151,7 @@
       "size_chart_label": "Maattabel",
       "tax_included": "Inclusief belasting.",
       "shipping_policy": "Verzendkosten berekend bij het afrekenen.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Verzenden<\/a> Berekend bij het afrekenen",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Verzenden</a> Berekend bij het afrekenen",
       "media": {
         "heading": "Galerij",
         "open_featured_media": "Open uitgelichte media in de galerijweergave",
@@ -168,8 +177,8 @@
         "check_other_stores": "Controleer beschikbaarheid bij andere winkels",
         "pick_up_available": "Ophalen mogelijk",
         "pick_up_unavailable": "Ophalen momenteel niet mogelijk",
-        "pick_up_available_at_html": "Afhalen mogelijk bij <span class=\"color-foreground\">{{ location_name }}<\/span>",
-        "pick_up_unavailable_at_html": "Ophalen momenteel niet mogelijk op <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_available_at_html": "Afhalen mogelijk bij <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_unavailable_at_html": "Ophalen momenteel niet mogelijk op <span class=\"color-foreground\">{{ location_name }}</span>",
         "unavailable": "Kan ophaalbeschikbaarheid niet laden",
         "refresh": "Vernieuwen"
       },
@@ -231,7 +240,7 @@
     "404": {
       "tag": "Oeps!",
       "title": "Pagina niet gevonden",
-      "subtext_html": "De door u opgevraagde pagina bestaat niet.  <a href=\"\/collections\/all\">hier<\/a> om verder te winkelen.",
+      "subtext_html": "De door u opgevraagde pagina bestaat niet.  <a href=\"/collections/all\">hier</a> om verder te winkelen.",
       "button_txt": "Ga naar homepagina"
     },
     "search": {
@@ -286,7 +295,7 @@
     },
     "cart": {
       "title": "Jouw winkelwagen",
-      "heading_html": "In uw tas <span data-cart-item-count=\"\">{{itemCount}}<\/span> artikelen",
+      "heading_html": "In uw tas <span data-cart-item-count=\"\">{{itemCount}}</span> artikelen",
       "caption": "Artikelen in de winkelwagen",
       "price_detail": "Prijs Details",
       "remove_title": "Verwijderen {{ title }}",
@@ -303,9 +312,9 @@
       "payment": "Betaalmethoden",
       "cart_error": "Er is een fout opgetreden tijdens het bijwerken van uw winkelwagen. ",
       "cart_quantity_error_html": "Je kunt alleen toevoegen {{ quantity }} van dit artikel toe aan uw winkelwagen.",
-      "taxes_and_shipping_policy_at_checkout_html": "Belastingen en <a href=\"{{ link }}\">Verzenden<\/a> Berekend bij het afrekenen",
+      "taxes_and_shipping_policy_at_checkout_html": "Belastingen en <a href=\"{{ link }}\">Verzenden</a> Berekend bij het afrekenen",
       "taxes_included_but_shipping_at_checkout": "Inclusief belasting en verzendkosten berekend bij het afrekenen",
-      "taxes_included_and_shipping_policy_html": "Inclusief belasting. <a href=\"{{ link }}\">Verzenden<\/a> Berekend bij het afrekenen.",
+      "taxes_included_and_shipping_policy_html": "Inclusief belasting. <a href=\"{{ link }}\">Verzenden</a> Berekend bij het afrekenen.",
       "taxes_and_shipping_at_checkout": "Belastingen en verzendkosten berekend bij het afrekenen",
       "headings": {
         "product": "Product",
@@ -317,7 +326,7 @@
       "update": "Update",
       "login": {
         "title": "Een account hebben?",
-        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Log in<\/a> om sneller uit te checken."
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Log in</a> om sneller uit te checken."
       },
       "shipping_estimates": {
         "heading": "Ontvang geschatte verzendkosten voor uw bestelling",
@@ -375,7 +384,7 @@
       "sort_by_label": "Sorteer op",
       "title": "Verzameling",
       "to": "Naar",
-      "use_fewer_filters_html": "Gebruik minder filters of <a class=\"{{ class }}\" href=\"{{ link }}\">wis alles<\/a>"
+      "use_fewer_filters_html": "Gebruik minder filters of <a class=\"{{ class }}\" href=\"{{ link }}\">wis alles</a>"
     },
     "video": {
       "load_video": "Laad video: {{ description }}"
@@ -392,10 +401,10 @@
   },
   "localization": {
     "update": "Update",
-    "country_label": "Land\/regio",
+    "country_label": "Land/regio",
     "language_label": "Taal",
     "update_language": "Taal bijwerken",
-    "update_country": "Land\/regio bijwerken"
+    "update_country": "Land/regio bijwerken"
   },
   "customer": {
     "account": {
@@ -425,7 +434,7 @@
       "address1": "adres 1",
       "address2": "Adres 2",
       "city": "Stad",
-      "country": "Land\/regio",
+      "country": "Land/regio",
       "province": "Provincie",
       "zip": "Postcode",
       "phone": "Telefoon",
@@ -548,6 +557,51 @@
       "expired": "Verlopen",
       "copy_code_success": "Code gekopieerd",
       "print_gift_card": "Afdrukken"
+    }
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
+      }
+    },
+    "article": {
+      "tags": "Tags:",
+      "all_topics": "All topics",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    },
+    "password_page": {
+      "login_form_message": "Enter store using password:",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "password_link": "Enter using password"
     }
   }
 }
