@@ -143,7 +143,7 @@
         "before_image_m": "shopify://shop_images/174507.png",
         "after_image": "shopify://shop_images/after.png",
         "after_image_m": "shopify://shop_images/174506.png",
-        "image_height": 560,
+        "image_height": 400,
         "mobile_image_height": 300,
         "before_text": "Before",
         "after_text": "After",
