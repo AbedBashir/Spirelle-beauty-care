@@ -133,6 +133,7 @@
     "enableScrollToTop": true,
     "show_scrollToTop_text": true,
     "custom_scrollToTop_svg": "",
+    "scrollToTop_position": "right",
     "googlemapapi": "",
     "remove_collection_url": true,
     "favicon": "shopify://shop_images/favicon.png",
@@ -1649,7 +1650,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "/* Force scroll button to align EXACTLY like WhatsApp */.scroll-top,.back-to-top,#scroll-top,.backtotop,.go-to-top,a[href=\"#top\"] {position: fixed !important; right: 16px !important; /* SAME as WhatsApp */}"
+      "/* FORCE ALIGNMENT HARD FIX */button[aria-label=\"Scroll to top\"] {position: fixed !important; right: 18px !important; left: auto !important;}"
     ]
   }
 }
