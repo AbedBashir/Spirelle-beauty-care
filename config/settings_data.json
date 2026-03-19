@@ -1649,7 +1649,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "/* Force scroll button to align EXACTLY like WhatsApp */.scroll-top,.back-to-top,#scroll-top,.backtotop,.go-to-top,a[href=\"#top\"] {position: fixed !important; right: 20px !important; /* SAME as WhatsApp */}"
+      "/* Force scroll button to align EXACTLY like WhatsApp */.scroll-top,.back-to-top,#scroll-top,.backtotop,.go-to-top,a[href=\"#top\"] {position: fixed !important; right: 16px !important; /* SAME as WhatsApp */}"
     ]
   }
 }
