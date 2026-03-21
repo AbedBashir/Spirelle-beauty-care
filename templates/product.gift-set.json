@@ -101,7 +101,7 @@
         "width": "half",
         "style": "accordion",
         "accordion_content_alignment": "left",
-        "content_heading": "Ingredients",
+        "content_heading": "Ingredients66",
         "content": "{{ product.metafields.product.ingredients | metafield_tag }}",
         "content_heading2": "Benefits of this bundle",
         "content2": "{{ product.metafields.product.features_benefits | metafield_tag }}",
