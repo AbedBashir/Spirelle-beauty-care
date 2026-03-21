@@ -106,7 +106,7 @@
         "content_heading2": "Benefits of this bundle",
         "content2": "{{ product.metafields.product.features_benefits | metafield_tag }}",
         "content_heading3": "This bundle includes",
-        "content3": "<ul><li>Body Mist</li><li>Body Lotion</li><li>Sugar Body Scrub</li><li>Lip Balm<br/></li></ul><p></p><p>Comes in an elegant gift box, perfect for gifting or personal use.</p>"
+        "content3": "<ul><li>Body Mist (150ml)</li><li>Body Lotion (150g)</li><li>Sugar Body Scrub (200g)</li><li>Lip Balm (10g)<br/></li></ul><p></p><p>Comes in an elegant gift box, perfect for gifting or personal use.</p>"
       }
     },
     "shapes_7Ba4wt": {
