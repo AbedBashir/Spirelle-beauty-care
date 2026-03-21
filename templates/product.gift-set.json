@@ -102,8 +102,8 @@
         "style": "accordion",
         "accordion_content_alignment": "left",
         "content_heading": "Ingredients",
-        "content": "<p>{{ product.metafields.product.ingredients | metafield_tag }}</p>",
-        "content_heading2": "Features & Benefits",
+        "content": "{{ product.metafields.product.ingredients | metafield_tag }}",
+        "content_heading2": "Benefits of this bundle",
         "content2": "<p></p>{{ product.metafields.product.features_benefits | metafield_tag }}",
         "content_heading3": "",
         "content3": ""
