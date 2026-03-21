@@ -88,7 +88,7 @@
       ],
       "settings": {
         "gallery_style": "slider",
-        "show_description": false,
+        "show_description": true,
         "open_description_accordion": false,
         "show_variant-media": false,
         "enable_shipping_policy": false,
@@ -102,9 +102,9 @@
         "style": "accordion",
         "accordion_content_alignment": "left",
         "content_heading": "Ingredients",
-        "content": "{{ product.metafields.product.ingredients | metafield_tag }}",
+        "content": "<p>{{ product.metafields.product.ingredients | metafield_tag }}</p>",
         "content_heading2": "Features & Benefits",
-        "content2": "{{ product.metafields.product.features_benefits | metafield_tag }}",
+        "content2": "<p></p>{{ product.metafields.product.features_benefits | metafield_tag }}",
         "content_heading3": "",
         "content3": ""
       }
