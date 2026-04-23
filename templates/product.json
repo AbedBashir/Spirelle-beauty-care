@@ -270,6 +270,91 @@
         "top_space_mobile": 30,
         "bottom_space_mobile": 30
       }
+    },
+    "testimonials_pEfQr4": {
+      "type": "testimonials",
+      "blocks": {
+        "quote_QwcBp8": {
+          "type": "quote",
+          "settings": {
+            "rating": 5,
+            "message": "I received the pink mallow set thank you so much! Absolutely loved it😍 the quality is amazing and the smell wowww and it made me so happy 💕",
+            "author": "Marwa M.",
+            "author_city": "",
+            "video_text": ""
+          }
+        },
+        "quote_XMVfgk": {
+          "type": "quote",
+          "settings": {
+            "rating": 5,
+            "message": "Helloo, I received the order 2 days ago. The scrub and lotion are amazing they really make the skin so soft💕 Thank you so much",
+            "author": "Zeina M.",
+            "author_city": "",
+            "video_text": ""
+          }
+        },
+        "quote_dckgcm": {
+          "type": "quote",
+          "settings": {
+            "rating": 5,
+            "message": "Hey I love the texture and smell of pink mallow lotion it smells exactly like the name of it I will definitely be ordering the whole collection soon 😍",
+            "author": "Sally Ch.",
+            "author_city": "",
+            "video_text": ""
+          }
+        },
+        "quote_bUGzzf": {
+          "type": "quote",
+          "settings": {
+            "rating": 5,
+            "message": "Saraha the products are amazing and the results are incredible! Thank you so muchhh",
+            "author": "Sandra J.",
+            "author_city": "",
+            "video_text": ""
+          }
+        },
+        "quote_bU9EYn": {
+          "type": "quote",
+          "settings": {
+            "rating": 5,
+            "message": "The Pink Mallow Sugar Body Scrub makes my skin feel baby soft. I can’t stop using it before every shower.",
+            "author": "Dina A.",
+            "author_city": "",
+            "video_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "quote_QwcBp8",
+        "quote_XMVfgk",
+        "quote_dckgcm",
+        "quote_bUGzzf",
+        "quote_bU9EYn"
+      ],
+      "settings": {
+        "heading": "Our Happy <strong>Customers</strong>",
+        "highlight_font": "accent",
+        "seo_heading": "h2",
+        "heading_size": "h2",
+        "description": "",
+        "description_size": "text",
+        "alignment": "center",
+        "slider_style": "style3",
+        "column_count": "column3",
+        "nav_style": "arrow",
+        "arrow_position": "top",
+        "text_size": "h5",
+        "text_alignment": "left",
+        "divider_top": false,
+        "divider_bottom": false,
+        "bgcolor": "primary",
+        "section_visibility": "always",
+        "top_space_desktop": 60,
+        "bottom_space_desktop": 60,
+        "top_space_mobile": 30,
+        "bottom_space_mobile": 30
+      }
     }
   },
   "order": [
@@ -278,6 +363,7 @@
     "before_after_image_hNtf8A",
     "image_with_text_tAXXbQ",
     "pfp_before_after_iryehG",
-    "product_recommendations"
+    "product_recommendations",
+    "testimonials_pEfQr4"
   ]
 }
