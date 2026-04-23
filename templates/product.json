@@ -171,7 +171,7 @@
         "heading_UkbCD3": {
           "type": "heading",
           "settings": {
-            "heading": "How To Use",
+            "heading": "Benefits of this bundle",
             "highlight_font": "body",
             "heading_size": "h2",
             "seo_heading": "h2"
@@ -180,7 +180,7 @@
         "text_Pdf8zF": {
           "type": "text",
           "settings": {
-            "content": "{{ product.metafields.product.usage_instructions | metafield_tag }}"
+            "content": "<p>• Hydrates and softens the skin <br/>• Leaves a delicate vanilla scent <br/>• Perfect for fragrance layering <br/>• Ideal for everyday use or gifting</p>"
           }
         }
       },
