@@ -193,7 +193,7 @@
         "enable_top_border": false,
         "enable_bottom_border": false,
         "border_style": "solid",
-        "image": "{{ product.metafields.custom.how_to_use_image.value }}",
+        "image": "shopify://shop_images/image00003.png",
         "image_shadow": true,
         "enable_image_animation": true,
         "image_alignment": "left",
