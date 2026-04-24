@@ -128,7 +128,6 @@
     },
     "before_after_image_hNtf8A": {
       "type": "before-after-image",
-      "disabled": true,
       "name": "t:sections.before-after.presets.name",
       "settings": {
         "container_width": "small",
