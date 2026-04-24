@@ -103,7 +103,7 @@
         "accordion_content_alignment": "left",
         "content_heading": "Ingredients",
         "content": "{{ product.metafields.product.ingredients | metafield_tag }}",
-        "content_heading2": "Features & Benefits",
+        "content_heading2": "What Makes It Special",
         "content2": "{{ product.metafields.product.features_benefits | metafield_tag }}",
         "content_heading3": "",
         "content3": ""
