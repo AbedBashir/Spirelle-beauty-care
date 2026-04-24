@@ -187,6 +187,7 @@
         "heading_UkbCD3",
         "text_Pdf8zF"
       ],
+      "disabled": true,
       "settings": {
         "enable_fullwidth": false,
         "enable_top_border": false,
