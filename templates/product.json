@@ -101,9 +101,9 @@
         "width": "half",
         "style": "accordion",
         "accordion_content_alignment": "left",
-        "content_heading": "Ingredients",
+        "content_heading": "What Makes It Special",
         "content": "{{ product.metafields.product.ingredients | metafield_tag }}",
-        "content_heading2": "What Makes It Special",
+        "content_heading2": "Thisbundle includes",
         "content2": "{{ product.metafields.product.features_benefits | metafield_tag }}",
         "content_heading3": "Ingredients",
         "content3": "<p>Body Mist: Alcohol Denat., Aqua, Parfum, D-panthenol (provitamin B5), Propanediol,<br/>glycerin, Tocopheryl Acetate (Vitamin E).</p><p> Body Lotion: Water, caprilic/capric triglyceride, stearic acid,<br/>prunus dulcis (almond) oil, glycerin,<br/>isopropylmyristate, Butyrospermum parkii (shea) butter, glyceryl<br/>stearate, paraffin oil, caprylyl glycol, cetearyl alcohol, tocopheryl acetate<br/>(vitamin E), dimethicone, D-panthenol (provitamin B5) Phenoxyethanol,<br/>fragrance, tetrasodium EDTA, citric acid.</p><p> Sugar Body Scrub: Sucrose, Glycerin, Coconut Oil,<br/>Prunus Dulcis (Almond) Oil,<br/>Butyrospermum Parkii (Shea) Butter, Propylene Glycol, Sodium<br/>Cocoyl Isethionate, Cocamidopropyl Betaine, Glyceryl Stearate, Water (aqua),<br/>Caprylyl Glycol, Fragrance, Titanium Dioxide, Phenoxyethanol, Tetrasodium EDTA.</p><p>Lip<br/>Balm: Prunus Dulcis (Almond) Oil, Beeswax, Helianthus Annuus Oil (Sunflower<br/>Seed), Butyrospermum Parkii (Shea) Butter, Ricinus Communis Seed (Castor) Oil,<br/>Microwax, Petrolatum, Caprilic/Capric Triglyceride, Cocos Nucifera (Coconut)<br/>Oil, Carnauba Wax, Tocopheryl Acetate (Vitamin E), Fragrance.</p>"
