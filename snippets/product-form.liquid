@@ -25,6 +25,7 @@
                 assign decimalProductRating = 0.5
               endif
             -%}
+            <a href="#judgeme_product_reviews">
             <div class="ratingbox">
               <span class="star-ratings">
                 {% for i in (1..5) %}
@@ -73,6 +74,7 @@
                 {{ product.metafields.reviews.rating_count | pluralize: 'review', 'reviews' -}}
               </span>
             </div>
+            </a>/
           {%- endif -%}
         {%- when 'sku' -%}
           <p class="yv-product-sku" data-variant-sku {{ block.shopify_attributes }}>{{ current_variant.sku }}</p>
