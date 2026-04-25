@@ -25,9 +25,8 @@
                 assign decimalProductRating = 0.5
               endif
             -%}
-            <a href="#judgeme_product_reviews">
             <div class="ratingbox">
-              <span class="star-ratings">
+              <span class="star-ratings" onclick="document.getElementById('judgeme_product_reviews')?.scrollIntoView({behavior:'smooth'});" style="cursor:pointer;">
                 {% for i in (1..5) %}
                   {% if i <= productRating %}
                     <svg class="fill-review" viewBox="0 0 380 362" width="20" height="19">
@@ -74,7 +73,6 @@
                 {{ product.metafields.reviews.rating_count | pluralize: 'review', 'reviews' -}}
               </span>
             </div>
-            </a>/
           {%- endif -%}
         {%- when 'sku' -%}
           <p class="yv-product-sku" data-variant-sku {{ block.shopify_attributes }}>{{ current_variant.sku }}</p>
