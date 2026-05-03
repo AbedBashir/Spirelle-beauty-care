@@ -19,7 +19,7 @@
             "image_mobile": "shopify://shop_images/our_products.png",
             "videofile": "",
             "banner_subtitle": "",
-            "glass_effect": false,
+            "glass_effect": true,
             "banner_title": "Saving Bundles",
             "seo_heading": "h2",
             "banner_desc": "",
