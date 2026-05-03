@@ -140,7 +140,7 @@
           "settings": {
             "heading": "$14.99",
             "subheading": "Pink Mallow Body Mist",
-            "image": "shopify://shop_images/Body_Mist_Pink_Mallow1.png",
+            "image": "shopify://shop_images/207170.png",
             "link": "shopify://products/pink-mallow-body-mist"
           }
         },
@@ -149,7 +149,7 @@
           "settings": {
             "heading": "$14.99",
             "subheading": "Vanilla Whisper Body Mist",
-            "image": "shopify://shop_images/Body_Mist_Vanilla_Whisper1.png",
+            "image": "shopify://shop_images/TB_Trio_Pink_Mallow_Mist_Lotion_Scrub.png",
             "link": "shopify://products/vanilla-whisper-body-mist"
           }
         },
@@ -158,7 +158,7 @@
           "settings": {
             "heading": "$13.50",
             "subheading": "Pink Mallow Sugar Body Scrub",
-            "image": "shopify://shop_images/Body_Scrub_Pink_Mallow1.png",
+            "image": "shopify://shop_images/DuoBodyMistPinkMallowandVanillaWhisper.jpg",
             "link": "shopify://products/pink-mallow-sugar-body-scrub"
           }
         },
@@ -167,7 +167,7 @@
           "settings": {
             "heading": "$13.50",
             "subheading": "Vanilla Whisper Sugar Body Scrub",
-            "image": "shopify://shop_images/Body_Scrub_Vanilla_Whisper1.png",
+            "image": "shopify://shop_images/TB_Duo_Vanilla_Whisper_Body_Lotion_Body_Scrub.png",
             "link": "shopify://products/vanilla-whisper-sugar-body-scrub"
           }
         },
@@ -292,6 +292,123 @@
         "bottom_space_desktop": 30,
         "top_space_mobile": 30,
         "bottom_space_mobile": 30
+      }
+    },
+    "gallery_carousel_7YVPiL": {
+      "type": "gallery-carousel",
+      "blocks": {
+        "image_8T6Pxj": {
+          "type": "image",
+          "settings": {
+            "heading": "$12.50",
+            "subheading": "Pink Mallow Body Lotion",
+            "image": "shopify://shop_images/Body_lotion_pink_mallow1.png",
+            "link": "shopify://products/pink-mallow-body-lotion"
+          }
+        },
+        "image_P4nVn8": {
+          "type": "image",
+          "settings": {
+            "heading": "$12.50",
+            "subheading": "Vanilla Whisper Body Lotion",
+            "image": "shopify://shop_images/Body_lotion_vanilla_whisper1.png",
+            "link": "shopify://products/vanilla-whisper-body-lotion"
+          }
+        },
+        "image_mtWdRh": {
+          "type": "image",
+          "settings": {
+            "heading": "$14.99",
+            "subheading": "Pink Mallow Body Mist",
+            "image": "shopify://shop_images/Body_Mist_Pink_Mallow1.png",
+            "link": "shopify://products/pink-mallow-body-mist"
+          }
+        },
+        "image_rF9BAk": {
+          "type": "image",
+          "settings": {
+            "heading": "$14.99",
+            "subheading": "Vanilla Whisper Body Mist",
+            "image": "shopify://shop_images/Body_Mist_Vanilla_Whisper1.png",
+            "link": "shopify://products/vanilla-whisper-body-mist"
+          }
+        },
+        "image_eBGjCr": {
+          "type": "image",
+          "settings": {
+            "heading": "$13.50",
+            "subheading": "Pink Mallow Sugar Body Scrub",
+            "image": "shopify://shop_images/Body_Scrub_Pink_Mallow1.png",
+            "link": "shopify://products/pink-mallow-sugar-body-scrub"
+          }
+        },
+        "image_twyxCH": {
+          "type": "image",
+          "settings": {
+            "heading": "$13.50",
+            "subheading": "Vanilla Whisper Sugar Body Scrub",
+            "image": "shopify://shop_images/Body_Scrub_Vanilla_Whisper1.png",
+            "link": "shopify://products/vanilla-whisper-sugar-body-scrub"
+          }
+        },
+        "image_pryFDH": {
+          "type": "image",
+          "settings": {
+            "heading": "$8.50",
+            "subheading": "Strawberry Lip Balm",
+            "image": "shopify://shop_images/14.webp",
+            "link": "shopify://products/strawberry-lip-balm"
+          }
+        },
+        "image_mJURHU": {
+          "type": "image",
+          "settings": {
+            "heading": "$34.99",
+            "subheading": "Gift Set",
+            "image": "shopify://shop_images/WEBP_1.webp",
+            "link": "shopify://products/gift-set"
+          }
+        }
+      },
+      "block_order": [
+        "image_8T6Pxj",
+        "image_P4nVn8",
+        "image_mtWdRh",
+        "image_rF9BAk",
+        "image_eBGjCr",
+        "image_twyxCH",
+        "image_pryFDH",
+        "image_mJURHU"
+      ],
+      "custom_css": [
+        "p {color: black; font-size: 16px;}"
+      ],
+      "name": "t:sections.gallery-carousel.presets.name",
+      "settings": {
+        "enable_fullwidth": true,
+        "enable_top_border": false,
+        "enable_bottom_border": false,
+        "border_style": "solid",
+        "heading": "Our Products",
+        "highlight_font": "body",
+        "seo_heading": "h2",
+        "heading_size": "h2",
+        "banner_desc": "<strong>These prices are discounted at 40%</strong>",
+        "gallery_style": "auto-slide",
+        "slide_direction": "right",
+        "image_style": "square",
+        "image_size": "large",
+        "text_alignment": "center",
+        "enable_image_animation": true,
+        "image_crop": true,
+        "image_background": false,
+        "enable_swipe": true,
+        "bgcolor": "primary",
+        "section_visibility": "always",
+        "top_space_desktop": 45,
+        "bottom_space_desktop": 45,
+        "top_space_mobile": 35,
+        "bottom_space_mobile": 0
       }
     },
     "split_banner_ynGqX3": {
@@ -882,6 +999,7 @@
     "slider_nTmbcG",
     "gallery_carousel_pUiFG9",
     "promotion_banner_LiyC3T",
+    "gallery_carousel_7YVPiL",
     "split_banner_ynGqX3",
     "video_section_3CUTaE",
     "tabbed_collage_aq9WXt",
