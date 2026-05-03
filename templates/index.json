@@ -158,7 +158,7 @@
           "settings": {
             "heading": "$13.50",
             "subheading": "Pink Mallow Sugar Body Scrub",
-            "image": "shopify://shop_images/DuoBodyMistPinkMallowandVanillaWhisper.jpg",
+            "image": "shopify://shop_images/TB_Duo_Body_Mist_Pink_Mallow_and_Vanilla_Whisper.png",
             "link": "shopify://products/pink-mallow-sugar-body-scrub"
           }
         },
@@ -176,7 +176,7 @@
           "settings": {
             "heading": "$8.50",
             "subheading": "Strawberry Lip Balm",
-            "image": "shopify://shop_images/14.webp",
+            "image": "shopify://shop_images/TB_Trio_Vanilla_Whisper_Mist_Lotion_Scrub.png",
             "link": "shopify://products/strawberry-lip-balm"
           }
         },
@@ -185,7 +185,7 @@
           "settings": {
             "heading": "$34.99",
             "subheading": "Gift Set",
-            "image": "shopify://shop_images/WEBP_1.webp",
+            "image": "shopify://shop_images/TB_Duo_Pink_Mallow_Body_Lotion_Body_Scrub.png",
             "link": "shopify://products/gift-set"
           }
         }
@@ -200,6 +200,7 @@
         "image_Rt9kU6",
         "image_pPAAgB"
       ],
+      "disabled": true,
       "custom_css": [
         "p {color: black; font-size: 16px;}"
       ],
