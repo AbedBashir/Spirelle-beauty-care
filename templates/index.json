@@ -117,29 +117,38 @@
     "gallery_carousel_pUiFG9": {
       "type": "gallery-carousel",
       "blocks": {
+        "image_LE67zW": {
+          "type": "image",
+          "settings": {
+            "heading": "$23.99",
+            "subheading": "Hydrate & Scent Duo Vanilla Whisper",
+            "image": "shopify://shop_images/TB_Duo_Pink_Mallow_Body_Mist_Body_Lotion.png",
+            "link": ""
+          }
+        },
         "image_Bqf8Tz": {
           "type": "image",
           "settings": {
-            "heading": "$12.50",
-            "subheading": "Pink Mallow Body Lotion",
-            "image": "shopify://shop_images/Body_lotion_pink_mallow1.png",
+            "heading": "$24.99",
+            "subheading": "Double Scent Duo",
+            "image": "shopify://shop_images/TB_Duo_Body_Mist_Pink_Mallow_and_Vanilla_Whisper.png",
             "link": "shopify://products/pink-mallow-body-lotion"
           }
         },
         "image_kaKxk3": {
           "type": "image",
           "settings": {
-            "heading": "$12.50",
-            "subheading": "Vanilla Whisper Body Lotion",
-            "image": "shopify://shop_images/Body_lotion_vanilla_whisper1.png",
+            "heading": "$34.99",
+            "subheading": "The Ultimate Vanilla Whisper Set",
+            "image": "shopify://shop_images/TB_Glow_Set_Vanilla_Whisper.png",
             "link": "shopify://products/vanilla-whisper-body-lotion"
           }
         },
         "image_yeKeAU": {
           "type": "image",
           "settings": {
-            "heading": "$14.99",
-            "subheading": "Pink Mallow Body Mist",
+            "heading": "$34.99",
+            "subheading": "The Ultimate Pink Mallow Set",
             "image": "shopify://shop_images/207170.png",
             "link": "shopify://products/pink-mallow-body-mist"
           }
@@ -147,26 +156,26 @@
         "image_3den7R": {
           "type": "image",
           "settings": {
-            "heading": "$14.99",
-            "subheading": "Vanilla Whisper Body Mist",
-            "image": "shopify://shop_images/TB_Trio_Pink_Mallow_Mist_Lotion_Scrub.png",
+            "heading": "$29.99",
+            "subheading": "Glow Trio Vanilla Whisper",
+            "image": "shopify://shop_images/TB_Trio_Vanilla_Whisper_Mist_Lotion_Scrub.png",
             "link": "shopify://products/vanilla-whisper-body-mist"
           }
         },
         "image_VzJ6WK": {
           "type": "image",
           "settings": {
-            "heading": "$13.50",
-            "subheading": "Pink Mallow Sugar Body Scrub",
-            "image": "shopify://shop_images/TB_Duo_Body_Mist_Pink_Mallow_and_Vanilla_Whisper.png",
+            "heading": "$29.99",
+            "subheading": "Glow Trio Pink Mallow",
+            "image": "shopify://shop_images/TB_Trio_Pink_Mallow_Mist_Lotion_Scrub.png",
             "link": "shopify://products/pink-mallow-sugar-body-scrub"
           }
         },
         "image_egHUUJ": {
           "type": "image",
           "settings": {
-            "heading": "$13.50",
-            "subheading": "Vanilla Whisper Sugar Body Scrub",
+            "heading": "$23.99",
+            "subheading": "Smooth & Glow Duo Vanilla Whisper",
             "image": "shopify://shop_images/TB_Duo_Vanilla_Whisper_Body_Lotion_Body_Scrub.png",
             "link": "shopify://products/vanilla-whisper-sugar-body-scrub"
           }
@@ -174,23 +183,24 @@
         "image_Rt9kU6": {
           "type": "image",
           "settings": {
-            "heading": "$8.50",
-            "subheading": "Strawberry Lip Balm",
-            "image": "shopify://shop_images/TB_Trio_Vanilla_Whisper_Mist_Lotion_Scrub.png",
+            "heading": "$23.99",
+            "subheading": "Smooth & Glow Duo Pink Mallow",
+            "image": "shopify://shop_images/TB_Duo_Pink_Mallow_Body_Lotion_Body_Scrub.png",
             "link": "shopify://products/strawberry-lip-balm"
           }
         },
         "image_pPAAgB": {
           "type": "image",
           "settings": {
-            "heading": "$34.99",
-            "subheading": "Gift Set",
-            "image": "shopify://shop_images/TB_Duo_Pink_Mallow_Body_Lotion_Body_Scrub.png",
+            "heading": "$23.99",
+            "subheading": "Hydrate & Scent Duo Vanilla Whisper",
+            "image": "shopify://shop_images/TB_Duo_Vanilla_Whisper_Body_Mist_Body_Lotion.png",
             "link": "shopify://products/gift-set"
           }
         }
       },
       "block_order": [
+        "image_LE67zW",
         "image_Bqf8Tz",
         "image_kaKxk3",
         "image_yeKeAU",
@@ -200,7 +210,6 @@
         "image_Rt9kU6",
         "image_pPAAgB"
       ],
-      "disabled": true,
       "custom_css": [
         "p {color: black; font-size: 16px;}"
       ],
