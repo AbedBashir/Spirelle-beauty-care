@@ -1,0 +1,107 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slider_amwzw9": {
+      "type": "slider",
+      "blocks": {
+        "slide_LYAnpn": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/compressed_2X1A9041_products.png",
+            "image_mobile": "shopify://shop_images/our_products.png",
+            "videofile": "",
+            "banner_subtitle": "",
+            "glass_effect": true,
+            "banner_title": "Our Products",
+            "seo_heading": "h2",
+            "banner_desc": "",
+            "description_size": "text-medium",
+            "desktop_title_size": 70,
+            "mobile_title_size": 36,
+            "button_size": "large",
+            "mobile_button_size": "m-med",
+            "button_text": "",
+            "button_link": "",
+            "button_text2": "",
+            "button_link2": "",
+            "button2_alternate": true,
+            "desktop_content_position": "d-center",
+            "mobile_content_position": "m-center",
+            "title_color": "#ffffff",
+            "subtitle_color": "#ffffff",
+            "subtitle_bgcolor": "#dcdcdc",
+            "desc_color": "#ffffff",
+            "btn_bg": "#893347",
+            "btn_text": "#ffffff",
+            "btn_border": "#893347",
+            "overlay_color": "#181818",
+            "overlay_opacity": 50,
+            "title_color_m": "#ffffff",
+            "subtitle_color_m": "#000000",
+            "subtitle_bgcolor_m": "#dcdcdc",
+            "desc_color_m": "#ffffff",
+            "btn_bg_m": "#ffffff",
+            "btn_text_m": "#000000",
+            "btn_border_m": "#ffffff",
+            "overlay_color_m": "",
+            "overlay_opacity_m": 50
+          }
+        }
+      },
+      "block_order": [
+        "slide_LYAnpn"
+      ],
+      "custom_css": [
+        "@media (max-width: 1800px) {img, .yv-banner-image {height: 80vh; }}"
+      ],
+      "settings": {
+        "nav_style": "dots-bottom-right",
+        "content_below_image": false,
+        "rotate": false,
+        "interval": 5,
+        "desktop_height": "adapt_image",
+        "mobile_height": "550px",
+        "bgcolor": "primary"
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "settings": {
+        "collection_title": false,
+        "seo_heading": "h2",
+        "collection_description": false,
+        "collpasible_collection_description": false,
+        "pagination_type": "infinite",
+        "products_per_page": 60,
+        "product_count": true,
+        "enable_filtering": true,
+        "filters_layout": "drawer",
+        "enable_sorting": true,
+        "enable_display_options": true,
+        "filter_menu": "",
+        "collection_image": false,
+        "default_banner": "shopify://shop_images/Banner_2_73be00fb-3ee6-4910-8c46-491c3534dd22.webp",
+        "banner_height_desktop": "auto",
+        "banner_height_mobile": "auto",
+        "bgcolor": "#f8f8f8",
+        "textcolor": "#000000",
+        "filter_menu_color": "#181818",
+        "filter_sub_menu_color": "#181818",
+        "filter_menu_bg": "#f4f4f4",
+        "filter_menu_border": "#ececec"
+      }
+    }
+  },
+  "order": [
+    "slider_amwzw9",
+    "main-collection"
+  ]
+}
