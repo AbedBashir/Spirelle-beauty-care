@@ -74,6 +74,9 @@
     },
     "main-collection": {
       "type": "main-collection",
+      "custom_css": [
+        "@media screen and (max-width: 749px) {.product-grid {grid-template-columns: repeat(2, 1fr) !important; }}"
+      ],
       "settings": {
         "collection_title": false,
         "seo_heading": "h2",
