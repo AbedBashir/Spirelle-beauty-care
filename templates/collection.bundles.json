@@ -74,9 +74,7 @@
     },
     "main-collection": {
       "type": "main-collection",
-      "custom_css": [
-        "@media screen and (max-width: 749px) {.collection .grid, .product-grid, .collection-product-list {display: grid !important; grid-template-columns: repeat(2, minmax(0, 1fr)) !important; column-gap: 12px !important; row-gap: 24px !important; } .collection .grid__item, .product-grid > *, .collection-product-list > * {width: 100% !important; max-width: 100% !important; }}"
-      ],
+      "custom_css": [],
       "settings": {
         "collection_title": false,
         "seo_heading": "h2",
