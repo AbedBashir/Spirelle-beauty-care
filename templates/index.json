@@ -29,7 +29,7 @@
             "button_size": "large",
             "mobile_button_size": "m-med",
             "button_text": "Shop Now",
-            "button_link": "shopify://collections/all",
+            "button_link": "shopify://collections/gift-set",
             "button_text2": "",
             "button_link2": "",
             "button2_alternate": true,
