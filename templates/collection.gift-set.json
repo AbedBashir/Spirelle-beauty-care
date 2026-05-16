@@ -16,7 +16,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/Gift_set_banner.png",
-            "image_mobile": "shopify://shop_images/our_products.png",
+            "image_mobile": "shopify://shop_images/Gift_Banner_Phone_size.png",
             "videofile": "",
             "banner_subtitle": "",
             "glass_effect": true,
