@@ -15,12 +15,12 @@
         "slide_LYAnpn": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/compressed_2X1A9041_products.png",
+            "image": "shopify://shop_images/bundle_desktop_banner.png",
             "image_mobile": "shopify://shop_images/our_products.png",
             "videofile": "",
             "banner_subtitle": "",
             "glass_effect": true,
-            "banner_title": "Saving Bundles",
+            "banner_title": "",
             "seo_heading": "h2",
             "banner_desc": "",
             "description_size": "text-medium",
