@@ -111,7 +111,7 @@
             "banner_desc": "",
             "description_size": "text-medium",
             "desktop_title_size": 34,
-            "mobile_title_size": 22,
+            "mobile_title_size": 16,
             "button_size": "large",
             "mobile_button_size": "m-med",
             "button_text": "Shop Now",
