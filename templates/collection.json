@@ -15,8 +15,8 @@
         "slide_LYAnpn": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/spirelle_banners-05.jpg",
-            "image_mobile": "shopify://shop_images/spirelle_banners-06.jpg",
+            "image": "shopify://shop_images/spirelle_banners-03.jpg",
+            "image_mobile": "shopify://shop_images/spirelle_banners-03.jpg",
             "videofile": "",
             "banner_subtitle": "",
             "glass_effect": true,
