@@ -55,6 +55,49 @@
             "overlay_opacity_m": 35
           }
         },
+        "slide_MMQEf4": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/spirelle_banners-02.jpg",
+            "image_mobile": "shopify://shop_images/spirelle_banners-02.jpg",
+            "videofile": "",
+            "banner_subtitle": "",
+            "glass_effect": true,
+            "banner_title": "A LUXURIOUS GIFT",
+            "seo_heading": "h2",
+            "banner_desc": "SHE'LL ALWAYS REMEMBER",
+            "description_size": "h5",
+            "desktop_title_size": 48,
+            "mobile_title_size": 22,
+            "button_size": "large",
+            "mobile_button_size": "m-med",
+            "button_text": "Shop Now",
+            "button_link": "shopify://collections/gift-set",
+            "button_text2": "",
+            "button_link2": "",
+            "button2_alternate": true,
+            "desktop_content_position": "d-center-left",
+            "mobile_content_position": "m-bottom-center",
+            "title_color": "#ffffff",
+            "subtitle_color": "#000000",
+            "subtitle_bgcolor": "#dcdcdc",
+            "desc_color": "#f9f1f1",
+            "btn_bg": "#893347",
+            "btn_text": "#ffffff",
+            "btn_border": "#893347",
+            "overlay_color": "#010101",
+            "overlay_opacity": 0,
+            "title_color_m": "#000000",
+            "subtitle_color_m": "#000000",
+            "subtitle_bgcolor_m": "#dcdcdc",
+            "desc_color_m": "#000000",
+            "btn_bg_m": "#893347",
+            "btn_text_m": "#ffffff",
+            "btn_border_m": "#893347",
+            "overlay_color_m": "",
+            "overlay_opacity_m": 35
+          }
+        },
         "slide_qdV8pU": {
           "type": "slide",
           "settings": {
@@ -101,6 +144,7 @@
       },
       "block_order": [
         "slide_3kcUzL",
+        "slide_MMQEf4",
         "slide_qdV8pU"
       ],
       "custom_css": [],
