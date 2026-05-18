@@ -55,49 +55,6 @@
             "overlay_opacity_m": 35
           }
         },
-        "slide_MMQEf4": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/bundle_desktop_banner_no_text_jpg_7f2d49ec-8a56-4379-adf1-3ed706c58ab6.jpg",
-            "image_mobile": "shopify://shop_images/bundles_phone_banner_no_text.png",
-            "videofile": "",
-            "banner_subtitle": "",
-            "glass_effect": true,
-            "banner_title": "",
-            "seo_heading": "h2",
-            "banner_desc": "",
-            "description_size": "h6",
-            "desktop_title_size": 36,
-            "mobile_title_size": 22,
-            "button_size": "large",
-            "mobile_button_size": "m-med",
-            "button_text": "Shop Now",
-            "button_link": "shopify://collections/bundles",
-            "button_text2": "",
-            "button_link2": "",
-            "button2_alternate": true,
-            "desktop_content_position": "d-center-left",
-            "mobile_content_position": "m-bottom-center",
-            "title_color": "#f9f1f1",
-            "subtitle_color": "#000000",
-            "subtitle_bgcolor": "#dcdcdc",
-            "desc_color": "#f9f1f1",
-            "btn_bg": "#893347",
-            "btn_text": "#ffffff",
-            "btn_border": "#893347",
-            "overlay_color": "#010101",
-            "overlay_opacity": 0,
-            "title_color_m": "#000000",
-            "subtitle_color_m": "#000000",
-            "subtitle_bgcolor_m": "#dcdcdc",
-            "desc_color_m": "#000000",
-            "btn_bg_m": "#893347",
-            "btn_text_m": "#ffffff",
-            "btn_border_m": "#893347",
-            "overlay_color_m": "",
-            "overlay_opacity_m": 35
-          }
-        },
         "slide_qdV8pU": {
           "type": "slide",
           "settings": {
@@ -140,12 +97,55 @@
             "overlay_color_m": "",
             "overlay_opacity_m": 0
           }
+        },
+        "slide_MMQEf4": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/bundle_desktop_banner_no_text_jpg_7f2d49ec-8a56-4379-adf1-3ed706c58ab6.jpg",
+            "image_mobile": "shopify://shop_images/bundles_phone_banner_no_text.png",
+            "videofile": "",
+            "banner_subtitle": "",
+            "glass_effect": true,
+            "banner_title": "",
+            "seo_heading": "h2",
+            "banner_desc": "",
+            "description_size": "h6",
+            "desktop_title_size": 36,
+            "mobile_title_size": 22,
+            "button_size": "large",
+            "mobile_button_size": "m-med",
+            "button_text": "Shop Now",
+            "button_link": "shopify://collections/bundles",
+            "button_text2": "",
+            "button_link2": "",
+            "button2_alternate": true,
+            "desktop_content_position": "d-center-left",
+            "mobile_content_position": "m-bottom-center",
+            "title_color": "#f9f1f1",
+            "subtitle_color": "#000000",
+            "subtitle_bgcolor": "#dcdcdc",
+            "desc_color": "#f9f1f1",
+            "btn_bg": "#893347",
+            "btn_text": "#ffffff",
+            "btn_border": "#893347",
+            "overlay_color": "#010101",
+            "overlay_opacity": 0,
+            "title_color_m": "#000000",
+            "subtitle_color_m": "#000000",
+            "subtitle_bgcolor_m": "#dcdcdc",
+            "desc_color_m": "#000000",
+            "btn_bg_m": "#893347",
+            "btn_text_m": "#ffffff",
+            "btn_border_m": "#893347",
+            "overlay_color_m": "",
+            "overlay_opacity_m": 35
+          }
         }
       },
       "block_order": [
         "slide_3kcUzL",
-        "slide_MMQEf4",
-        "slide_qdV8pU"
+        "slide_qdV8pU",
+        "slide_MMQEf4"
       ],
       "custom_css": [],
       "settings": {
