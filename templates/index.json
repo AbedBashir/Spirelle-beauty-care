@@ -59,7 +59,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/spirelle_banners-01.jpg",
-            "image_mobile": "shopify://shop_images/spirelle_banners-02.jpg",
+            "image_mobile": "shopify://shop_images/bundles_phone_banner_no_text.png",
             "videofile": "",
             "banner_subtitle": "",
             "glass_effect": true,
