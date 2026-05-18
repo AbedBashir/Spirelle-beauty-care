@@ -14,7 +14,6 @@
       "blocks": {
         "slide_3kcUzL": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/spirelle_banner_gift_edited_main_page_size_832fc01e-ad80-43aa-99e0-f9798c74d752.png",
             "image_mobile": "shopify://shop_images/Gift_Banner_Phone_size_no_text.png",
@@ -58,6 +57,7 @@
         },
         "slide_MMQEf4": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/spirelle_banners-01.jpg",
             "image_mobile": "shopify://shop_images/bundles_phone_banner_no_text.png",
