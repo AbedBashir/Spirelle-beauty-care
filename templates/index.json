@@ -26,7 +26,7 @@
             "description_size": "text-medium",
             "desktop_title_size": 34,
             "mobile_title_size": 16,
-            "button_size": "large",
+            "button_size": "med",
             "mobile_button_size": "m-med",
             "button_text": "Shop Now",
             "button_link": "shopify://collections/all-products",
