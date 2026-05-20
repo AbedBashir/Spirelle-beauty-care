@@ -105,7 +105,7 @@
             "image_mobile": "shopify://shop_images/Gift_Banner_Phone_size_no_text.png",
             "videofile": "",
             "banner_subtitle": "A LUXURIOUS GIFT SHE’LL ALWAYS REMEMBER",
-            "glass_effect": false,
+            "glass_effect": true,
             "banner_title": "",
             "seo_heading": "h2",
             "banner_desc": "",
