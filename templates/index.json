@@ -23,7 +23,7 @@
             "banner_title": "YOUR BEAUTY ESSENTIALS",
             "seo_heading": "h2",
             "banner_desc": "",
-            "description_size": "text-medium",
+            "description_size": "h6",
             "desktop_title_size": 34,
             "mobile_title_size": 16,
             "button_size": "med",
@@ -150,7 +150,7 @@
       "custom_css": [],
       "settings": {
         "nav_style": "dots-bottom-right",
-        "content_below_image": true,
+        "content_below_image": false,
         "rotate": true,
         "interval": 4,
         "desktop_height": "adapt_image",
