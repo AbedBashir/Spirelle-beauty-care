@@ -152,7 +152,7 @@
         "nav_style": "dots-bottom-right",
         "content_below_image": false,
         "rotate": true,
-        "interval": 3,
+        "interval": 5,
         "desktop_height": "adapt_image",
         "mobile_height": "adapt_image",
         "bgcolor": "primary"
