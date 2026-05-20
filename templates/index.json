@@ -112,7 +112,7 @@
             "description_size": "h5",
             "desktop_title_size": 36,
             "mobile_title_size": 22,
-            "button_size": "large",
+            "button_size": "med",
             "mobile_button_size": "m-med",
             "button_text": "Shop Now",
             "button_link": "shopify://collections/gift-set",
