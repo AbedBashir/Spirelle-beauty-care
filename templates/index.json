@@ -154,7 +154,7 @@
         "rotate": true,
         "interval": 4,
         "desktop_height": "adapt_image",
-        "mobile_height": "550px",
+        "mobile_height": "adapt_image",
         "bgcolor": "primary"
       }
     },
