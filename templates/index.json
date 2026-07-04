@@ -309,9 +309,9 @@
         "counter_3DDBPL": {
           "type": "counter",
           "settings": {
-            "counter_number": 24,
-            "unit_text": "h",
-            "heading": "24/7 Customer Support",
+            "counter_number": 700,
+            "unit_text": "+",
+            "heading": "Happy Clients",
             "description": ""
           }
         }
