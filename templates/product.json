@@ -41,7 +41,8 @@
             "icon1": "smile",
             "heading1": "100% Natural",
             "icon2": "secure",
-            "heading2": "Lab Tested",
+            "image2": "shopify://shop_images/leaves_1.png",
+            "heading2": "100% Biodegradable",
             "icon3": "heart",
             "heading3": "Organic"
           }
@@ -102,7 +103,7 @@
         "style": "accordion",
         "accordion_content_alignment": "left",
         "content_heading": "What Makes It Special",
-        "content": "<p>{{ product.metafields.product.features_benefits | metafield_tag }}</p>",
+        "content": "{{ product.metafields.product.features_benefits | metafield_tag }}",
         "content_heading2": "",
         "content2": "",
         "content_heading3": "Ingredients",
