@@ -46,7 +46,7 @@
             "heading2": "{{ product.metafields.custom.icon_2_text1.value }}",
             "icon3": "heart",
             "image3": "{{ product.metafields.custom.icon_3.value }}",
-            "heading3": "Organic"
+            "heading3": "{{ product.metafields.custom.icon_2_text.value }}"
           }
         },
         "8658b9a0-c9c5-4055-a2e1-56a8f49d0b68": {
