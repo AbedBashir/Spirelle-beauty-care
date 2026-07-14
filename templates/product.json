@@ -39,10 +39,13 @@
           "type": "icons",
           "settings": {
             "icon1": "smile",
+            "image1": "{{ product.metafields.custom.icon_1.value }}",
             "heading1": "{{ product.metafields.custom.icon_1_text.value }}",
             "icon2": "secure",
+            "image2": "{{ product.metafields.custom.icon_2.value }}",
             "heading2": "{{ product.metafields.custom.icon_2_text1.value }}",
             "icon3": "heart",
+            "image3": "{{ product.metafields.custom.icon_3.value }}",
             "heading3": "Organic"
           }
         },
