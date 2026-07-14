@@ -39,9 +39,9 @@
           "type": "icons",
           "settings": {
             "icon1": "smile",
-            "heading1": "100% Natural",
+            "heading1": "{{ product.metafields.custom.icon_1_text.value }}",
             "icon2": "secure",
-            "heading2": "Lab Tested",
+            "heading2": "{{ product.metafields.custom.icon_2_text1.value }}",
             "icon3": "heart",
             "heading3": "Organic"
           }
