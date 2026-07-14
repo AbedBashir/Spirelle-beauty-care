@@ -35,15 +35,18 @@
           "type": "price",
           "settings": {}
         },
-        "icons_pDyjhY": {
+        "icons_6NJmNd": {
           "type": "icons",
           "settings": {
             "icon1": "smile",
-            "heading1": "100% Natural",
+            "image1": "{{ product.metafields.custom.icon_1.value }}",
+            "heading1": "{{ product.metafields.custom.icon_1_text.value }}",
             "icon2": "secure",
-            "heading2": "Lab Tested",
+            "image2": "{{ product.metafields.custom.icon_2.value }}",
+            "heading2": "{{ product.metafields.custom.icon_2_text1.value }}",
             "icon3": "heart",
-            "heading3": "Organic"
+            "image3": "{{ product.metafields.custom.icon_3.value }}",
+            "heading3": "{{ product.metafields.custom.icon_2_text.value }}"
           }
         },
         "8658b9a0-c9c5-4055-a2e1-56a8f49d0b68": {
@@ -80,7 +83,7 @@
         "description_QMxPJN",
         "c069e4ad-5908-400d-a0ad-e071aa04cf33",
         "5540566c-63cd-4a90-b9b6-7707e45d7066",
-        "icons_pDyjhY",
+        "icons_6NJmNd",
         "8658b9a0-c9c5-4055-a2e1-56a8f49d0b68",
         "811e6d87-a5e5-4457-9124-d3c2ed070ba9",
         "complementary_products_T4dfme",
