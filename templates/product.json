@@ -51,6 +51,7 @@
         },
         "8658b9a0-c9c5-4055-a2e1-56a8f49d0b68": {
           "type": "variant",
+          "disabled": true,
           "settings": {
             "size_chart": ""
           }
