@@ -261,7 +261,7 @@
     "product_recommendations": {
       "type": "product_recommendations",
       "settings": {
-        "heading": "Recommended Products",
+        "heading": "Frequently Bought Together",
         "seo_heading": "h2",
         "products_count": 8,
         "product_grid_radius_desktop": 10,
