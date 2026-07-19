@@ -161,6 +161,15 @@
     "gallery_carousel_pUiFG9": {
       "type": "gallery-carousel",
       "blocks": {
+        "image_gPtwzK": {
+          "type": "image",
+          "settings": {
+            "heading": "$14.99",
+            "subheading": "Disposable Face Towels",
+            "image": "shopify://shop_images/4new_compressed.png",
+            "link": "shopify://products/disposable-face-towels"
+          }
+        },
         "image_LE67zW": {
           "type": "image",
           "settings": {
@@ -244,6 +253,7 @@
         }
       },
       "block_order": [
+        "image_gPtwzK",
         "image_LE67zW",
         "image_Bqf8Tz",
         "image_kaKxk3",
