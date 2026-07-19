@@ -163,6 +163,7 @@
       "blocks": {
         "image_gPtwzK": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "heading": "$14.99",
             "subheading": "Disposable Face Towels",
@@ -172,6 +173,7 @@
         },
         "image_U3YCgr": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "heading": "$4.99",
             "subheading": "Disposable Face Towels - Travel Pack",
