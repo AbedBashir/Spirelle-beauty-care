@@ -161,6 +161,15 @@
     "gallery_carousel_pUiFG9": {
       "type": "gallery-carousel",
       "blocks": {
+        "image_U3YCgr": {
+          "type": "image",
+          "settings": {
+            "heading": "$4.99",
+            "subheading": "Disposable Face Towels - Travel Pack",
+            "image": "shopify://shop_images/TravelPackFaceTBCompressed.png",
+            "link": "shopify://products/travel-pack-disposable-face-towels-14-count"
+          }
+        },
         "image_gPtwzK": {
           "type": "image",
           "settings": {
@@ -253,6 +262,7 @@
         }
       },
       "block_order": [
+        "image_U3YCgr",
         "image_gPtwzK",
         "image_LE67zW",
         "image_Bqf8Tz",
