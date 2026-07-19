@@ -161,15 +161,6 @@
     "gallery_carousel_pUiFG9": {
       "type": "gallery-carousel",
       "blocks": {
-        "image_U3YCgr": {
-          "type": "image",
-          "settings": {
-            "heading": "$4.99",
-            "subheading": "Disposable Face Towels - Travel Pack",
-            "image": "shopify://shop_images/TravelPackFaceTBCompressed.png",
-            "link": "shopify://products/travel-pack-disposable-face-towels-14-count"
-          }
-        },
         "image_gPtwzK": {
           "type": "image",
           "settings": {
@@ -177,6 +168,15 @@
             "subheading": "Disposable Face Towels",
             "image": "shopify://shop_images/4new_compressed.png",
             "link": "shopify://products/disposable-face-towels"
+          }
+        },
+        "image_U3YCgr": {
+          "type": "image",
+          "settings": {
+            "heading": "$4.99",
+            "subheading": "Disposable Face Towels - Travel Pack",
+            "image": "shopify://shop_images/TravelPackFaceTBCompressed.png",
+            "link": "shopify://products/travel-pack-disposable-face-towels-14-count"
           }
         },
         "image_LE67zW": {
@@ -262,8 +262,8 @@
         }
       },
       "block_order": [
-        "image_U3YCgr",
         "image_gPtwzK",
+        "image_U3YCgr",
         "image_LE67zW",
         "image_Bqf8Tz",
         "image_kaKxk3",
